@@ -1,0 +1,1231 @@
+,Entry,OrganismID,Organism,Length,Mass,fastaLength,DomainID,RclID,Rcl,tpID,TargetProtease
+0,A0A022Q5A4,4155,Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus),66,7094,66,IRD-300,RL-27,CPLYC,TP-2,Chymotrypsin
+1,A0A023UDB8,4113,Solanum tuberosum (Potato),154,16657,154,IRD-237,RL-1,CPRNC,TP-1,Trypsin
+2,A0A023UDB8,4113,Solanum tuberosum (Potato),154,16657,154,IRD-240,RL-1,CPRNC,TP-1,Trypsin
+3,A0A023UDB8,4113,Solanum tuberosum (Potato),154,16657,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+4,A0A023UDB8,4113,Solanum tuberosum (Potato),154,16657,154,IRD-489,RL-1,CPRNC,TP-1,Trypsin
+5,A0A059BUH3,71139,Eucalyptus grandis (Flooded gum),80,8212,80,IRD-356,RL-41,CPLVC,TP-2,Chymotrypsin
+6,A0A059PYZ4,131158,Saccharum hybrid cultivar R570,83,9123,83,IRD-372,RL-58,CPMYC,TP-4,Unknown
+7,A0A059Q2U6,131158,Saccharum hybrid cultivar R570,66,7077,66,IRD-687,RL-61,CIEIC,TP-4,Unknown
+8,A0A067L586,180498,Jatropha curcas (Barbados nut),75,8141,75,IRD-306,RL-27,CPLYC,TP-2,Chymotrypsin
+9,A0A068UQ46,49390,Coffea canephora (Robusta coffee),77,8276,77,IRD-680,RL-33,CPQYC,TP-4,Unknown
+10,A0A068UQG0,49390,Coffea canephora (Robusta coffee),79,8531,79,IRD-685,RL-41,CPLVC,TP-2,Chymotrypsin
+11,A0A068UQV4,49390,Coffea canephora (Robusta coffee),95,10053,95,IRD-335,RL-33,CPQYC,TP-4,Unknown
+12,A0A068UQY4,49390,Coffea canephora (Robusta coffee),80,8300,80,IRD-366,RL-52,CPRFC,TP-1,Trypsin
+13,A0A068VJU5,49390,Coffea canephora (Robusta coffee),79,8284,79,IRD-367,RL-53,CPFFC,TP-2,Chymotrypsin
+14,A0A072UHW5,3880,Medicago truncatula (Barrel medic) (Medicago tribuloides),80,8468,80,IRD-383,RL-12,CPQFC,TP-4,Unknown
+15,A0A075EZT7,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-41,RL-24,CTTEC,TP-4,Unknown
+16,A0A075EZT7,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-265,RL-12,CPQFC,TP-4,Unknown
+17,A0A075EZT7,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-292,RL-24,CTTEC,TP-4,Unknown
+18,A0A075EZT7,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-419,RL-10,CTKEC,TP-1,Trypsin
+19,A0A075EZT7,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-427,RL-12,CPQFC,TP-4,Unknown
+20,A0A097H191,4113,Solanum tuberosum (Potato),152,16829,152,IRD-23,RL-13,CSKEC,TP-1,Trypsin
+21,A0A097H191,4113,Solanum tuberosum (Potato),152,16829,152,IRD-689,RL-13,CSKEC,TP-1,Trypsin
+22,A0A097H193,4113,Solanum tuberosum (Potato),152,16949,152,IRD-24,RL-13,CSKEC,TP-1,Trypsin
+23,A0A097H193,4113,Solanum tuberosum (Potato),152,16949,152,IRD-690,RL-13,CSKEC,TP-1,Trypsin
+24,A0A097H1A1,4113,Solanum tuberosum (Potato),154,16729,154,IRD-237,RL-1,CPRNC,TP-1,Trypsin
+25,A0A097H1A1,4113,Solanum tuberosum (Potato),154,16729,154,IRD-240,RL-1,CPRNC,TP-1,Trypsin
+26,A0A097H1A1,4113,Solanum tuberosum (Potato),154,16729,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+27,A0A097H1A1,4113,Solanum tuberosum (Potato),154,16729,154,IRD-488,RL-1,CPRNC,TP-1,Trypsin
+28,A0A097H1D1,4113,Solanum tuberosum (Potato),152,16956,152,IRD-21,RL-13,CSKEC,TP-1,Trypsin
+29,A0A097H1D1,4113,Solanum tuberosum (Potato),152,16956,152,IRD-689,RL-13,CSKEC,TP-1,Trypsin
+30,A0A097H1D6,4113,Solanum tuberosum (Potato),154,16660,154,IRD-52,RL-1,CPRNC,TP-1,Trypsin
+31,A0A097H1D6,4113,Solanum tuberosum (Potato),154,16660,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+32,A0A097H1D6,4113,Solanum tuberosum (Potato),154,16660,154,IRD-485,RL-1,CPRNC,TP-1,Trypsin
+33,A0A097J9B6,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+34,A0A097J9B6,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+35,A0A097J9B6,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+36,A0A097J9B6,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+37,A0A097J9B6,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+38,A0A097J9C0,4072,Capsicum annuum (Bell pepper),201,22081,201,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+39,A0A097J9C0,4072,Capsicum annuum (Bell pepper),201,22081,201,IRD-137,RL-6,CPRYC,TP-1,Trypsin
+40,A0A097J9C0,4072,Capsicum annuum (Bell pepper),201,22081,201,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+41,A0A097J9C0,4072,Capsicum annuum (Bell pepper),201,22081,201,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+42,A0A097J9C1,4072,Capsicum annuum (Bell pepper),188,20638,188,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+43,A0A097J9C1,4072,Capsicum annuum (Bell pepper),188,20638,188,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+45,A0A097J9C1,4072,Capsicum annuum (Bell pepper),188,20638,188,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+46,A0A097J9C1,4072,Capsicum annuum (Bell pepper),188,20638,188,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+47,A0A097J9C5,4072,Capsicum annuum (Bell pepper),192,21027,192,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+48,A0A097J9C5,4072,Capsicum annuum (Bell pepper),192,21027,192,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+49,A0A097J9C5,4072,Capsicum annuum (Bell pepper),192,21027,192,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+50,A0A097J9C5,4072,Capsicum annuum (Bell pepper),192,21027,192,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+51,A0A097J9C5,4072,Capsicum annuum (Bell pepper),192,21027,192,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+52,A0A097J9C9,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-12,RL-9,CTLEC,TP-2,Chymotrypsin
+53,A0A097J9C9,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-232,RL-1,CPRNC,TP-1,Trypsin
+54,A0A097J9C9,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+55,A0A097J9C9,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-451,RL-4,CTREC,TP-1,Trypsin
+56,A0A097J9C9,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-519,RL-1,CPRNC,TP-1,Trypsin
+57,A0A097J9D1,4072,Capsicum annuum (Bell pepper),76,8258,76,IRD-132,RL-3,CTLNC,TP-2,Chymotrypsin
+58,A0A097J9D3,4072,Capsicum annuum (Bell pepper),192,21100,192,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+59,A0A097J9D3,4072,Capsicum annuum (Bell pepper),192,21100,192,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+60,A0A097J9D3,4072,Capsicum annuum (Bell pepper),192,21100,192,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+61,A0A097J9D3,4072,Capsicum annuum (Bell pepper),192,21100,192,IRD-521,RL-1,CPRNC,TP-1,Trypsin
+62,A0A097J9D3,4072,Capsicum annuum (Bell pepper),192,21100,192,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+63,A0A097J9D4,4072,Capsicum annuum (Bell pepper),199,21239,199,IRD-12,RL-9,CTLEC,TP-2,Chymotrypsin
+64,A0A097J9D4,4072,Capsicum annuum (Bell pepper),199,21239,199,IRD-232,RL-1,CPRNC,TP-1,Trypsin
+65,A0A097J9D4,4072,Capsicum annuum (Bell pepper),199,21239,199,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+66,A0A097J9D4,4072,Capsicum annuum (Bell pepper),199,21239,199,IRD-451,RL-4,CTREC,TP-1,Trypsin
+67,A0A097J9D4,4072,Capsicum annuum (Bell pepper),199,21239,199,IRD-519,RL-1,CPRNC,TP-1,Trypsin
+68,A0A097J9D5,4072,Capsicum annuum (Bell pepper),181,19308,181,IRD-12,RL-9,CTLEC,TP-2,Chymotrypsin
+69,A0A097J9D5,4072,Capsicum annuum (Bell pepper),181,19308,181,IRD-232,RL-1,CPRNC,TP-1,Trypsin
+70,A0A097J9D5,4072,Capsicum annuum (Bell pepper),181,19308,181,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+71,A0A097J9D5,4072,Capsicum annuum (Bell pepper),181,19308,181,IRD-451,RL-4,CTREC,TP-1,Trypsin
+72,A0A097J9D5,4072,Capsicum annuum (Bell pepper),181,19308,181,IRD-519,RL-1,CPRNC,TP-1,Trypsin
+73,A0A097J9D6,4072,Capsicum annuum (Bell pepper),87,9536,87,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+74,A0A097J9D7,4072,Capsicum annuum (Bell pepper),198,21623,198,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+75,A0A097J9D7,4072,Capsicum annuum (Bell pepper),198,21623,198,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+76,A0A097J9D7,4072,Capsicum annuum (Bell pepper),198,21623,198,IRD-138,RL-6,CPRYC,TP-1,Trypsin
+77,A0A097J9D7,4072,Capsicum annuum (Bell pepper),198,21623,198,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+78,A0A097J9D7,4072,Capsicum annuum (Bell pepper),198,21623,198,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+79,A0A097J9D8,4072,Capsicum annuum (Bell pepper),199,21267,199,IRD-12,RL-9,CTLEC,TP-2,Chymotrypsin
+80,A0A097J9D8,4072,Capsicum annuum (Bell pepper),199,21267,199,IRD-233,RL-1,CPRNC,TP-1,Trypsin
+81,A0A097J9D8,4072,Capsicum annuum (Bell pepper),199,21267,199,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+82,A0A097J9D8,4072,Capsicum annuum (Bell pepper),199,21267,199,IRD-451,RL-4,CTREC,TP-1,Trypsin
+83,A0A097J9D8,4072,Capsicum annuum (Bell pepper),199,21267,199,IRD-520,RL-1,CPRNC,TP-1,Trypsin
+84,A0A0D3APY5,109376,Brassica oleracea var. oleracea,81,8738,81,IRD-311,RL-27,CPLYC,TP-2,Chymotrypsin
+85,A0A0D3FNQ1,65489,Oryza barthii,82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+86,A0A0D9VYN1,77586,Leersia perrieri,79,8449,79,IRD-385,RL-12,CPQFC,TP-4,Unknown
+87,A0A0D9VYN2,77586,Leersia perrieri,82,8785,82,IRD-388,RL-12,CPQFC,TP-4,Unknown
+88,A0A0D9ZCR1,40148,Oryza glumipatula,82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+89,A0A0E0D682,40149,Oryza meridionalis,82,8573,82,IRD-384,RL-12,CPQFC,TP-4,Unknown
+90,A0A0E0GTG1,4536,Oryza nivara (Indian wild rice) (Oryza sativa f. spontanea),82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+91,A0A0E0KIP4,4537,Oryza punctata (Red rice),82,8561,82,IRD-382,RL-12,CPQFC,TP-4,Unknown
+92,A0A0E0P0X3,4529,Oryza rufipogon (Brownbeard rice) (Asian wild rice),82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+93,A0A0K9S2T0,3562,Spinacia oleracea (Spinach),92,10089,92,IRD-393,RL-12,CPQFC,TP-4,Unknown
+94,A0A0V0GNA2,4108,Solanum chacoense (Chaco potato),131,14238,131,IRD-26,RL-13,CSKEC,TP-1,Trypsin
+95,A0A0V0GNA2,4108,Solanum chacoense (Chaco potato),131,14238,131,IRD-691,RL-13,CSKEC,TP-1,Trypsin
+96,A0A0V0GWC2,4108,Solanum chacoense (Chaco potato),130,14252,130,IRD-34,RL-20,CTQQC,TP-4,Unknown
+97,A0A0V0GWC2,4108,Solanum chacoense (Chaco potato),130,14252,130,IRD-426,RL-11,CPKNC,TP-1,Trypsin
+98,A0A0V0GWC2,4108,Solanum chacoense (Chaco potato),130,14252,130,IRD-434,RL-20,CTQQC,TP-4,Unknown
+99,A0A0V0GZD4,4108,Solanum chacoense (Chaco potato),129,13922,129,IRD-58,RL-2,CPLNC,TP-2,Chymotrypsin
+100,A0A0V0GZD4,4108,Solanum chacoense (Chaco potato),129,13922,129,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+101,A0A0V0GZD4,4108,Solanum chacoense (Chaco potato),129,13922,129,IRD-496,RL-2,CPLNC,TP-2,Chymotrypsin
+102,A0A0V0H1C2,4108,Solanum chacoense (Chaco potato),143,15553,143,IRD-278,RL-50,CSYEC,TP-2,Chymotrypsin
+103,A0A0V0H1C2,4108,Solanum chacoense (Chaco potato),143,15553,143,IRD-437,RL-50,CSYEC,TP-2,Chymotrypsin
+104,A0A0V0H1C2,4108,Solanum chacoense (Chaco potato),143,15553,143,IRD-475,RL-17,CPRIC,TP-1,Trypsin
+105,A0A0V0HBN9,4108,Solanum chacoense (Chaco potato),147,15892,147,IRD-249,RL-2,CPLNC,TP-2,Chymotrypsin
+106,A0A0V0HBN9,4108,Solanum chacoense (Chaco potato),147,15892,147,IRD-498,RL-2,CPLNC,TP-2,Chymotrypsin
+107,A0A166GCC0,79200,Daucus carota subsp. sativus,936,105465,936,IRD-371,RL-57,CYLYC,TP-2,Chymotrypsin
+108,A0A199UJF1,4615,Ananas comosus (Pineapple) (Ananas ananas),78,8209,78,IRD-337,RL-33,CPQYC,TP-4,Unknown
+109,A0A199W8X6,4615,Ananas comosus (Pineapple) (Ananas ananas),79,8323,79,IRD-336,RL-33,CPQYC,TP-4,Unknown
+110,A0A1B6Q2N4,4558,Sorghum bicolor (Sorghum) (Sorghum vulgare),81,8629,81,IRD-394,RL-27,CPLYC,TP-2,Chymotrypsin
+111,A0A1E5UMZ8,888268,Dichanthelium oligosanthes,77,7983,77,IRD-392,RL-12,CPQFC,TP-4,Unknown
+112,A0A1E5UNA0,888268,Dichanthelium oligosanthes,123,13085,123,IRD-395,RL-27,CPLYC,TP-2,Chymotrypsin
+113,A0A1E5VFG3,888268,Dichanthelium oligosanthes,79,8348,79,IRD-334,RL-33,CPQYC,TP-4,Unknown
+114,A0A1J3DYX7,107243,Noccaea caerulescens (Alpine penny-cress) (Thlaspi caerulescens),84,9008,84,IRD-315,RL-27,CPLYC,TP-2,Chymotrypsin
+115,A0A1J3G2U3,107243,Noccaea caerulescens (Alpine penny-cress) (Thlaspi caerulescens),90,9704,90,IRD-315,RL-27,CPLYC,TP-2,Chymotrypsin
+116,A0A1J3HRR4,107243,Noccaea caerulescens (Alpine penny-cress) (Thlaspi caerulescens),93,10046,93,IRD-315,RL-27,CPLYC,TP-2,Chymotrypsin
+117,A0A1J3ILC6,107243,Noccaea caerulescens (Alpine penny-cress) (Thlaspi caerulescens),97,10542,97,IRD-315,RL-27,CPLYC,TP-2,Chymotrypsin
+118,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-165,RL-1,CPRNC,TP-1,Trypsin
+119,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-166,RL-1,CPRNC,TP-1,Trypsin
+120,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-169,RL-1,CPRNC,TP-1,Trypsin
+121,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-214,RL-1,CPRNC,TP-1,Trypsin
+122,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-615,RL-1,CPRNC,TP-1,Trypsin
+123,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-616,RL-1,CPRNC,TP-1,Trypsin
+124,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-617,RL-1,CPRNC,TP-1,Trypsin
+125,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-618,RL-1,CPRNC,TP-1,Trypsin
+126,A0A1J6J0L2,49451,Nicotiana attenuata (Coyote tobacco),339,37614,339,IRD-619,RL-1,CPRNC,TP-1,Trypsin
+127,A0A1J6JJ91,49451,Nicotiana attenuata (Coyote tobacco),197,21088,197,IRD-42,RL-24,CTTEC,TP-4,Unknown
+128,A0A1J6JJ91,49451,Nicotiana attenuata (Coyote tobacco),197,21088,197,IRD-267,RL-12,CPQFC,TP-4,Unknown
+129,A0A1J6JJ91,49451,Nicotiana attenuata (Coyote tobacco),197,21088,197,IRD-293,RL-24,CTTEC,TP-4,Unknown
+130,A0A1J6JJ91,49451,Nicotiana attenuata (Coyote tobacco),197,21088,197,IRD-420,RL-10,CTKEC,TP-1,Trypsin
+131,A0A1J6JJ91,49451,Nicotiana attenuata (Coyote tobacco),197,21088,197,IRD-428,RL-12,CPQFC,TP-4,Unknown
+132,A0A1J6JY14,49451,Nicotiana attenuata (Coyote tobacco),84,9042,84,IRD-346,RL-37,CLQFC,TP-4,Unknown
+133,A0A1J6KQH3,49451,Nicotiana attenuata (Coyote tobacco),87,9600,87,IRD-360,RL-43,CPRDC,TP-1,Trypsin
+134,A0A1S2Z6Q3,3827,Cicer arietinum (Chickpea) (Garbanzo),79,8151,79,IRD-398,RL-39,CPLIC,TP-2,Chymotrypsin
+135,A0A1S3X5H6,4097,Nicotiana tabacum (Common tobacco),103,12060,103,IRD-368,RL-54,CTQDC,TP-4,Unknown
+136,A0A1S3XF39,4097,Nicotiana tabacum (Common tobacco),87,9661,87,IRD-359,RL-43,CPRDC,TP-1,Trypsin
+137,A0A1S3Y6L6,4097,Nicotiana tabacum (Common tobacco),80,8365,80,IRD-322,RL-30,CTRNC,TP-1,Trypsin
+138,A0A1S3YL26,4097,Nicotiana tabacum (Common tobacco),84,9015,84,IRD-346,RL-37,CLQFC,TP-4,Unknown
+139,A0A1S3YTB5,4097,Nicotiana tabacum (Common tobacco),160,17480,160,IRD-346,RL-37,CLQFC,TP-4,Unknown
+140,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-203,RL-1,CPRNC,TP-1,Trypsin
+141,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-204,RL-1,CPRNC,TP-1,Trypsin
+142,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-205,RL-1,CPRNC,TP-1,Trypsin
+143,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-242,RL-2,CPLNC,TP-2,Chymotrypsin
+144,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-243,RL-2,CPLNC,TP-2,Chymotrypsin
+145,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-501,RL-5,CPFNC,TP-2,Chymotrypsin
+146,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-532,RL-1,CPRNC,TP-1,Trypsin
+147,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-599,RL-1,CPRNC,TP-1,Trypsin
+148,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-602,RL-2,CPLNC,TP-2,Chymotrypsin
+149,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-603,RL-2,CPLNC,TP-2,Chymotrypsin
+150,A0A1S3YZT7,4097,Nicotiana tabacum (Common tobacco),396,43227,396,IRD-632,RL-1,CPRNC,TP-1,Trypsin
+151,A0A1S3Z2Q3,4097,Nicotiana tabacum (Common tobacco),294,31843,294,IRD-6,RL-5,CPFNC,TP-2,Chymotrypsin
+152,A0A1S3Z2Q3,4097,Nicotiana tabacum (Common tobacco),294,31843,294,IRD-38,RL-32,CRRNC,TP-1,Trypsin
+153,A0A1S3Z2Q3,4097,Nicotiana tabacum (Common tobacco),294,31843,294,IRD-402,RL-5,CPFNC,TP-2,Chymotrypsin
+154,A0A1S3Z2Q3,4097,Nicotiana tabacum (Common tobacco),294,31843,294,IRD-435,RL-32,CRRNC,TP-1,Trypsin
+155,A0A1S3Z2Q3,4097,Nicotiana tabacum (Common tobacco),294,31843,294,IRD-514,RL-1,CPRNC,TP-1,Trypsin
+156,A0A1S3Z2Q3,4097,Nicotiana tabacum (Common tobacco),294,31843,294,IRD-529,RL-30,CTRNC,TP-1,Trypsin
+157,A0A1S3ZJX9,4097,Nicotiana tabacum (Common tobacco),87,9614,87,IRD-360,RL-43,CPRDC,TP-1,Trypsin
+158,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-206,RL-1,CPRNC,TP-1,Trypsin
+159,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-207,RL-1,CPRNC,TP-1,Trypsin
+160,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-208,RL-1,CPRNC,TP-1,Trypsin
+161,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-209,RL-1,CPRNC,TP-1,Trypsin
+162,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-210,RL-1,CPRNC,TP-1,Trypsin
+163,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-401,RL-5,CPFNC,TP-2,Chymotrypsin
+164,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-531,RL-1,CPRNC,TP-1,Trypsin
+165,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-573,RL-1,CPRNC,TP-1,Trypsin
+166,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-586,RL-1,CPRNC,TP-1,Trypsin
+167,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-597,RL-1,CPRNC,TP-1,Trypsin
+168,A0A1S4A0N1,4097,Nicotiana tabacum (Common tobacco),396,43323,396,IRD-598,RL-1,CPRNC,TP-1,Trypsin
+169,A0A1S4BIG0,4097,Nicotiana tabacum (Common tobacco),168,18564,168,IRD-5,RL-1,CPRNC,TP-1,Trypsin
+170,A0A1S4BIG0,4097,Nicotiana tabacum (Common tobacco),168,18564,168,IRD-523,RL-1,CPRNC,TP-1,Trypsin
+171,A0A1S4BIG0,4097,Nicotiana tabacum (Common tobacco),168,18564,168,IRD-530,RL-30,CTRNC,TP-1,Trypsin
+172,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-74,RL-1,CPRNC,TP-1,Trypsin
+173,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-76,RL-1,CPRNC,TP-1,Trypsin
+174,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-172,RL-1,CPRNC,TP-1,Trypsin
+176,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-184,RL-1,CPRNC,TP-1,Trypsin
+177,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-595,RL-1,CPRNC,TP-1,Trypsin
+178,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-596,RL-1,CPRNC,TP-1,Trypsin
+180,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-625,RL-1,CPRNC,TP-1,Trypsin
+181,A0A1S4CNP7,4097,Nicotiana tabacum (Common tobacco),336,36558,336,IRD-626,RL-1,CPRNC,TP-1,Trypsin
+182,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-74,RL-1,CPRNC,TP-1,Trypsin
+183,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-75,RL-1,CPRNC,TP-1,Trypsin
+184,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-172,RL-1,CPRNC,TP-1,Trypsin
+186,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-184,RL-1,CPRNC,TP-1,Trypsin
+187,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-595,RL-1,CPRNC,TP-1,Trypsin
+188,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-596,RL-1,CPRNC,TP-1,Trypsin
+190,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-625,RL-1,CPRNC,TP-1,Trypsin
+191,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-626,RL-1,CPRNC,TP-1,Trypsin
+192,A0A1S4CNR9,4097,Nicotiana tabacum (Common tobacco),389,42475,389,IRD-628,RL-1,CPRNC,TP-1,Trypsin
+193,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-74,RL-1,CPRNC,TP-1,Trypsin
+194,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-75,RL-1,CPRNC,TP-1,Trypsin
+195,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-76,RL-1,CPRNC,TP-1,Trypsin
+196,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-172,RL-1,CPRNC,TP-1,Trypsin
+198,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-184,RL-1,CPRNC,TP-1,Trypsin
+199,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-595,RL-1,CPRNC,TP-1,Trypsin
+200,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-596,RL-1,CPRNC,TP-1,Trypsin
+202,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-625,RL-1,CPRNC,TP-1,Trypsin
+203,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-626,RL-1,CPRNC,TP-1,Trypsin
+204,A0A1S4CPA1,4097,Nicotiana tabacum (Common tobacco),394,42920,394,IRD-627,RL-1,CPRNC,TP-1,Trypsin
+205,A0A1S4DR24,4097,Nicotiana tabacum (Common tobacco),90,9690,90,IRD-321,RL-30,CTRNC,TP-1,Trypsin
+206,A0A1U7VHX6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),225,24333,225,IRD-39,RL-32,CRRNC,TP-1,Trypsin
+207,A0A1U7VHX6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),225,24333,225,IRD-435,RL-32,CRRNC,TP-1,Trypsin
+208,A0A1U7VHX6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),225,24333,225,IRD-522,RL-1,CPRNC,TP-1,Trypsin
+209,A0A1U7VHX6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),225,24333,225,IRD-529,RL-30,CTRNC,TP-1,Trypsin
+210,A0A1U7VLC3,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),73,7993,73,IRD-365,RL-51,CLQKC,TP-4,Unknown
+211,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-152,RL-1,CPRNC,TP-1,Trypsin
+219,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+220,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-251,RL-3,CTLNC,TP-2,Chymotrypsin
+221,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-604,RL-1,CPRNC,TP-1,Trypsin
+228,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-605,RL-1,CPRNC,TP-1,Trypsin
+229,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+230,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-655,RL-2,CPLNC,TP-2,Chymotrypsin
+231,A0A1U7WDA6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),687,75345,687,IRD-658,RL-3,CTLNC,TP-2,Chymotrypsin
+232,A0A1U7XB93,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),197,21033,197,IRD-41,RL-24,CTTEC,TP-4,Unknown
+233,A0A1U7XB93,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),197,21033,197,IRD-266,RL-12,CPQFC,TP-4,Unknown
+234,A0A1U7XB93,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),197,21033,197,IRD-292,RL-24,CTTEC,TP-4,Unknown
+235,A0A1U7XB93,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),197,21033,197,IRD-419,RL-10,CTKEC,TP-1,Trypsin
+236,A0A1U7XB93,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),197,21033,197,IRD-428,RL-12,CPQFC,TP-4,Unknown
+237,A0A1U7XBN8,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),90,9718,90,IRD-323,RL-30,CTRNC,TP-1,Trypsin
+238,A0A1U7XKN6,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),87,9614,87,IRD-360,RL-43,CPRDC,TP-1,Trypsin
+239,A0A1U7XTK4,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),229,25380,229,IRD-150,RL-1,CPRNC,TP-1,Trypsin
+240,A0A1U7XTK4,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),229,25380,229,IRD-199,RL-1,CPRNC,TP-1,Trypsin
+241,A0A1U7XTK4,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),229,25380,229,IRD-480,RL-1,CPRNC,TP-1,Trypsin
+242,A0A1U7XTK4,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),229,25380,229,IRD-604,RL-1,CPRNC,TP-1,Trypsin
+243,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-174,RL-1,CPRNC,TP-1,Trypsin
+244,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-175,RL-1,CPRNC,TP-1,Trypsin
+245,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-176,RL-1,CPRNC,TP-1,Trypsin
+247,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-177,RL-1,CPRNC,TP-1,Trypsin
+248,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-178,RL-1,CPRNC,TP-1,Trypsin
+249,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-565,RL-1,CPRNC,TP-1,Trypsin
+250,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-566,RL-1,CPRNC,TP-1,Trypsin
+251,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-567,RL-1,CPRNC,TP-1,Trypsin
+252,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-568,RL-1,CPRNC,TP-1,Trypsin
+253,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-582,RL-1,CPRNC,TP-1,Trypsin
+254,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-583,RL-1,CPRNC,TP-1,Trypsin
+255,A0A1U7Y2F0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),434,47793,434,IRD-675,RL-45,CSFNC,TP-2,Chymotrypsin
+256,A0A1U7YPZ0,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),84,9015,84,IRD-346,RL-37,CLQFC,TP-4,Unknown
+257,A0A1U8FAF4,4072,Capsicum annuum (Bell pepper),82,8701,82,IRD-289,RL-22,CSRNC,TP-1,Trypsin
+258,A0A1U8FJ97,4072,Capsicum annuum (Bell pepper),81,8594,81,IRD-491,RL-1,CPRNC,TP-1,Trypsin
+259,A0A1U8FXN6,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-12,RL-9,CTLEC,TP-2,Chymotrypsin
+260,A0A1U8FXN6,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-232,RL-1,CPRNC,TP-1,Trypsin
+261,A0A1U8FXN6,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+262,A0A1U8FXN6,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-451,RL-4,CTREC,TP-1,Trypsin
+263,A0A1U8FXN6,4072,Capsicum annuum (Bell pepper),199,21279,199,IRD-519,RL-1,CPRNC,TP-1,Trypsin
+264,A0A1U8G7B9,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+265,A0A1U8G7B9,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+266,A0A1U8G7B9,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+267,A0A1U8G7B9,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+268,A0A1U8G7B9,4072,Capsicum annuum (Bell pepper),204,22388,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+269,A0A1U8GFH5,4072,Capsicum annuum (Bell pepper),205,22363,205,IRD-14,RL-9,CTLEC,TP-2,Chymotrypsin
+270,A0A1U8GFH5,4072,Capsicum annuum (Bell pepper),205,22363,205,IRD-43,RL-25,CTQHC,TP-4,Unknown
+271,A0A1U8GFH5,4072,Capsicum annuum (Bell pepper),205,22363,205,IRD-295,RL-25,CTQHC,TP-4,Unknown
+272,A0A1U8GFH5,4072,Capsicum annuum (Bell pepper),205,22363,205,IRD-415,RL-9,CTLEC,TP-2,Chymotrypsin
+273,A0A1U8GFH5,4072,Capsicum annuum (Bell pepper),205,22363,205,IRD-692,RL-19,CTMEC,TP-4,Unknown
+274,A0A1U8GHX6,4072,Capsicum annuum (Bell pepper),230,25453,230,IRD-28,RL-18,CTQEC,TP-4,Unknown
+275,A0A1U8GHX6,4072,Capsicum annuum (Bell pepper),230,25453,230,IRD-50,RL-1,CPRNC,TP-1,Trypsin
+276,A0A1U8GHX6,4072,Capsicum annuum (Bell pepper),230,25453,230,IRD-280,RL-18,CTQEC,TP-4,Unknown
+277,A0A1U8GHX6,4072,Capsicum annuum (Bell pepper),230,25453,230,IRD-472,RL-10,CTKEC,TP-1,Trypsin
+278,A0A1U8GHX6,4072,Capsicum annuum (Bell pepper),230,25453,230,IRD-482,RL-1,CPRNC,TP-1,Trypsin
+279,A0A1U8H7N7,4072,Capsicum annuum (Bell pepper),81,8693,81,IRD-377,RL-12,CPQFC,TP-4,Unknown
+280,A0A1U8HFR9,4072,Capsicum annuum (Bell pepper),84,8928,84,IRD-344,RL-36,CLQVC,TP-4,Unknown
+281,A0A1U8HFS2,4072,Capsicum annuum (Bell pepper),84,8812,84,IRD-348,RL-38,CIQVC,TP-4,Unknown
+282,A0A1X9QDN7,4113,Solanum tuberosum (Potato),142,15325,142,IRD-58,RL-2,CPLNC,TP-2,Chymotrypsin
+283,A0A1X9QDN7,4113,Solanum tuberosum (Potato),142,15325,142,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+284,A0A1X9QDN7,4113,Solanum tuberosum (Potato),142,15325,142,IRD-496,RL-2,CPLNC,TP-2,Chymotrypsin
+285,A0A1X9QDN8,4113,Solanum tuberosum (Potato),136,14905,136,IRD-239,RL-1,CPRNC,TP-1,Trypsin
+286,A0A1X9QDN8,4113,Solanum tuberosum (Potato),136,14905,136,IRD-488,RL-1,CPRNC,TP-1,Trypsin
+287,A0A1X9QDP2,4113,Solanum tuberosum (Potato),100,10938,100,IRD-248,RL-2,CPLNC,TP-2,Chymotrypsin
+288,A0A1X9QDP2,4113,Solanum tuberosum (Potato),100,10938,100,IRD-500,RL-2,CPLNC,TP-2,Chymotrypsin
+289,A0A1X9QDP7,4113,Solanum tuberosum (Potato),154,16743,154,IRD-66,RL-14,CPPNC,TP-4,Unknown
+290,A0A1X9QDP7,4113,Solanum tuberosum (Potato),154,16743,154,IRD-279,RL-14,CPPNC,TP-4,Unknown
+291,A0A1X9QDP7,4113,Solanum tuberosum (Potato),154,16743,154,IRD-468,RL-9,CTLEC,TP-2,Chymotrypsin
+292,A0A218XK76,22663,Punica granatum (Pomegranate),79,8200,79,IRD-327,RL-33,CPQYC,TP-4,Unknown
+293,A0A251RIY1,3760,Prunus persica (Peach) (Amygdalus persica),79,8182,79,IRD-325,RL-33,CPQYC,TP-4,Unknown
+294,A0A287GT10,112509,Hordeum vulgare subsp. vulgare (Domesticated barley),95,10250,95,IRD-333,RL-33,CPQYC,TP-4,Unknown
+295,A0A2C9U1Z6,3983,Manihot esculenta (Cassava) (Jatropha manihot),80,8700,80,IRD-303,RL-27,CPLYC,TP-2,Chymotrypsin
+296,A0A2C9U386,3983,Manihot esculenta (Cassava) (Jatropha manihot),79,8474,79,IRD-302,RL-27,CPLYC,TP-2,Chymotrypsin
+297,A0A2G2V3L6,33114,Capsicum baccatum (Peruvian pepper),199,21245,199,IRD-11,RL-9,CTLEC,TP-2,Chymotrypsin
+298,A0A2G2V3L6,33114,Capsicum baccatum (Peruvian pepper),199,21245,199,IRD-119,RL-1,CPRNC,TP-1,Trypsin
+299,A0A2G2V3L6,33114,Capsicum baccatum (Peruvian pepper),199,21245,199,IRD-410,RL-9,CTLEC,TP-2,Chymotrypsin
+300,A0A2G2V3L6,33114,Capsicum baccatum (Peruvian pepper),199,21245,199,IRD-451,RL-4,CTREC,TP-1,Trypsin
+301,A0A2G2V3L6,33114,Capsicum baccatum (Peruvian pepper),199,21245,199,IRD-517,RL-1,CPRNC,TP-1,Trypsin
+302,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+303,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-142,RL-9,CTLEC,TP-2,Chymotrypsin
+304,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-144,RL-11,CPKNC,TP-1,Trypsin
+305,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-273,RL-31,CTLDC,TP-2,Chymotrypsin
+306,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-463,RL-9,CTLEC,TP-2,Chymotrypsin
+307,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-477,RL-31,CTLDC,TP-2,Chymotrypsin
+308,A0A2G2V3L7,33114,Capsicum baccatum (Peruvian pepper),262,28475,262,IRD-538,RL-1,CPRNC,TP-1,Trypsin
+309,A0A2G2WDG3,33114,Capsicum baccatum (Peruvian pepper),81,8693,81,IRD-377,RL-12,CPQFC,TP-4,Unknown
+310,A0A2G2WK73,33114,Capsicum baccatum (Peruvian pepper),84,8875,84,IRD-343,RL-36,CLQVC,TP-4,Unknown
+311,A0A2G2WK87,33114,Capsicum baccatum (Peruvian pepper),84,8810,84,IRD-348,RL-38,CIQVC,TP-4,Unknown
+312,A0A2G2WK91,33114,Capsicum baccatum (Peruvian pepper),110,12098,110,IRD-361,RL-43,CPRDC,TP-1,Trypsin
+313,A0A2G2WK98,33114,Capsicum baccatum (Peruvian pepper),81,8629,81,IRD-354,RL-40,CPQIC,TP-4,Unknown
+314,A0A2G2WX27,33114,Capsicum baccatum (Peruvian pepper),83,9042,83,IRD-347,RL-37,CLQFC,TP-4,Unknown
+315,A0A2G2X8Q0,33114,Capsicum baccatum (Peruvian pepper),228,25121,228,IRD-29,RL-18,CTQEC,TP-4,Unknown
+316,A0A2G2X8Q0,33114,Capsicum baccatum (Peruvian pepper),228,25121,228,IRD-72,RL-47,CLGNC,TP-3,Elastase
+317,A0A2G2X8Q0,33114,Capsicum baccatum (Peruvian pepper),228,25121,228,IRD-281,RL-18,CTQEC,TP-4,Unknown
+318,A0A2G2X8Q0,33114,Capsicum baccatum (Peruvian pepper),228,25121,228,IRD-473,RL-10,CTKEC,TP-1,Trypsin
+319,A0A2G2X8Q0,33114,Capsicum baccatum (Peruvian pepper),228,25121,228,IRD-506,RL-47,CLGNC,TP-3,Elastase
+320,A0A2G2X8T6,33114,Capsicum baccatum (Peruvian pepper),206,22077,206,IRD-37,RL-21,CPAIC,TP-3,Elastase
+321,A0A2G2X8T6,33114,Capsicum baccatum (Peruvian pepper),206,22077,206,IRD-45,RL-29,CPANC,TP-3,Elastase
+322,A0A2G2X8T6,33114,Capsicum baccatum (Peruvian pepper),206,22077,206,IRD-288,RL-21,CPAIC,TP-3,Elastase
+323,A0A2G2X8T6,33114,Capsicum baccatum (Peruvian pepper),206,22077,206,IRD-318,RL-29,CPANC,TP-3,Elastase
+324,A0A2G2X8T6,33114,Capsicum baccatum (Peruvian pepper),206,22077,206,IRD-422,RL-10,CTKEC,TP-1,Trypsin
+325,A0A2G2X8V0,33114,Capsicum baccatum (Peruvian pepper),205,22521,205,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+326,A0A2G2X8V0,33114,Capsicum baccatum (Peruvian pepper),205,22521,205,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+327,A0A2G2X8V0,33114,Capsicum baccatum (Peruvian pepper),205,22521,205,IRD-140,RL-6,CPRYC,TP-1,Trypsin
+328,A0A2G2X8V0,33114,Capsicum baccatum (Peruvian pepper),205,22521,205,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+330,A0A2G2XU31,4072,Capsicum annuum (Bell pepper),199,21216,199,IRD-10,RL-9,CTLEC,TP-2,Chymotrypsin
+331,A0A2G2XU31,4072,Capsicum annuum (Bell pepper),199,21216,199,IRD-232,RL-1,CPRNC,TP-1,Trypsin
+332,A0A2G2XU31,4072,Capsicum annuum (Bell pepper),199,21216,199,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+333,A0A2G2XU31,4072,Capsicum annuum (Bell pepper),199,21216,199,IRD-451,RL-4,CTREC,TP-1,Trypsin
+334,A0A2G2XU31,4072,Capsicum annuum (Bell pepper),199,21216,199,IRD-518,RL-1,CPRNC,TP-1,Trypsin
+335,A0A2G2Z3H2,4072,Capsicum annuum (Bell pepper),81,8693,81,IRD-377,RL-12,CPQFC,TP-4,Unknown
+336,A0A2G2ZAE0,4072,Capsicum annuum (Bell pepper),84,8812,84,IRD-348,RL-38,CIQVC,TP-4,Unknown
+337,A0A2G2ZAL9,4072,Capsicum annuum (Bell pepper),109,11832,109,IRD-344,RL-36,CLQVC,TP-4,Unknown
+338,A0A2G2ZB86,4072,Capsicum annuum (Bell pepper),57,6160,57,IRD-354,RL-40,CPQIC,TP-4,Unknown
+339,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-78,RL-1,CPRNC,TP-1,Trypsin
+340,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+341,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+343,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-123,RL-3,CTLNC,TP-2,Chymotrypsin
+344,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+345,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+346,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-534,RL-1,CPRNC,TP-1,Trypsin
+347,A0A2G3A0S4,4072,Capsicum annuum (Bell pepper),378,41283,378,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+350,A0A2G3A0T9,4072,Capsicum annuum (Bell pepper),228,25213,228,IRD-28,RL-18,CTQEC,TP-4,Unknown
+351,A0A2G3A0T9,4072,Capsicum annuum (Bell pepper),228,25213,228,IRD-67,RL-22,CSRNC,TP-1,Trypsin
+352,A0A2G3A0T9,4072,Capsicum annuum (Bell pepper),228,25213,228,IRD-282,RL-18,CTQEC,TP-4,Unknown
+353,A0A2G3A0T9,4072,Capsicum annuum (Bell pepper),228,25213,228,IRD-474,RL-10,CTKEC,TP-1,Trypsin
+354,A0A2G3A0T9,4072,Capsicum annuum (Bell pepper),228,25213,228,IRD-502,RL-22,CSRNC,TP-1,Trypsin
+355,A0A2G3A0U2,4072,Capsicum annuum (Bell pepper),205,22545,205,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+356,A0A2G3A0U2,4072,Capsicum annuum (Bell pepper),205,22545,205,IRD-109,RL-1,CPRNC,TP-1,Trypsin
+357,A0A2G3A0U2,4072,Capsicum annuum (Bell pepper),205,22545,205,IRD-141,RL-6,CPRYC,TP-1,Trypsin
+358,A0A2G3A0U2,4072,Capsicum annuum (Bell pepper),205,22545,205,IRD-528,RL-6,CPRYC,TP-1,Trypsin
+359,A0A2G3A0U2,4072,Capsicum annuum (Bell pepper),205,22545,205,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+360,A0A2G3A0X2,4072,Capsicum annuum (Bell pepper),200,21691,200,IRD-15,RL-9,CTLEC,TP-2,Chymotrypsin
+361,A0A2G3A0X2,4072,Capsicum annuum (Bell pepper),200,21691,200,IRD-43,RL-25,CTQHC,TP-4,Unknown
+362,A0A2G3A0X2,4072,Capsicum annuum (Bell pepper),200,21691,200,IRD-296,RL-25,CTQHC,TP-4,Unknown
+363,A0A2G3A0X2,4072,Capsicum annuum (Bell pepper),200,21691,200,IRD-416,RL-9,CTLEC,TP-2,Chymotrypsin
+364,A0A2G3A0X2,4072,Capsicum annuum (Bell pepper),200,21691,200,IRD-692,RL-19,CTMEC,TP-4,Unknown
+365,A0A2G3AT01,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),331,36506,331,IRD-10,RL-9,CTLEC,TP-2,Chymotrypsin
+366,A0A2G3AT01,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),331,36506,331,IRD-234,RL-1,CPRNC,TP-1,Trypsin
+367,A0A2G3AT01,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),331,36506,331,IRD-412,RL-9,CTLEC,TP-2,Chymotrypsin
+368,A0A2G3AT01,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),331,36506,331,IRD-518,RL-1,CPRNC,TP-1,Trypsin
+369,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+370,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+371,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-231,RL-1,CPRNC,TP-1,Trypsin
+372,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-256,RL-3,CTLNC,TP-2,Chymotrypsin
+373,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+374,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-513,RL-1,CPRNC,TP-1,Trypsin
+375,A0A2G3AT14,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28625,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+376,A0A2G3AT15,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),363,40570,363,IRD-35,RL-21,CPAIC,TP-3,Elastase
+377,A0A2G3AT15,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),363,40570,363,IRD-131,RL-3,CTLNC,TP-2,Chymotrypsin
+378,A0A2G3AT15,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),363,40570,363,IRD-319,RL-29,CPANC,TP-3,Elastase
+379,A0A2G3AW40,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21647,200,IRD-14,RL-9,CTLEC,TP-2,Chymotrypsin
+380,A0A2G3AW40,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21647,200,IRD-43,RL-25,CTQHC,TP-4,Unknown
+381,A0A2G3AW40,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21647,200,IRD-294,RL-25,CTQHC,TP-4,Unknown
+382,A0A2G3AW40,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21647,200,IRD-414,RL-9,CTLEC,TP-2,Chymotrypsin
+383,A0A2G3AW40,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21647,200,IRD-692,RL-19,CTMEC,TP-4,Unknown
+384,A0A2G3AW51,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),197,21658,197,IRD-30,RL-18,CTQEC,TP-4,Unknown
+385,A0A2G3AW51,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),197,21658,197,IRD-68,RL-22,CSRNC,TP-1,Trypsin
+386,A0A2G3AW51,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),197,21658,197,IRD-283,RL-18,CTQEC,TP-4,Unknown
+387,A0A2G3AW51,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),197,21658,197,IRD-472,RL-10,CTKEC,TP-1,Trypsin
+388,A0A2G3AW51,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),197,21658,197,IRD-503,RL-22,CSRNC,TP-1,Trypsin
+389,A0A2G3AW63,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28808,262,IRD-87,RL-1,CPRNC,TP-1,Trypsin
+391,A0A2G3AW63,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28808,262,IRD-88,RL-1,CPRNC,TP-1,Trypsin
+392,A0A2G3AW63,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28808,262,IRD-134,RL-6,CPRYC,TP-1,Trypsin
+393,A0A2G3AW63,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28808,262,IRD-461,RL-6,CPRYC,TP-1,Trypsin
+394,A0A2G3AW63,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28808,262,IRD-542,RL-1,CPRNC,TP-1,Trypsin
+395,A0A2G3AW63,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),262,28808,262,IRD-543,RL-1,CPRNC,TP-1,Trypsin
+396,A0A2G3AW67,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21575,200,IRD-36,RL-21,CPAIC,TP-3,Elastase
+397,A0A2G3AW67,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21575,200,IRD-44,RL-29,CPANC,TP-3,Elastase
+398,A0A2G3AW67,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21575,200,IRD-287,RL-21,CPAIC,TP-3,Elastase
+399,A0A2G3AW67,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21575,200,IRD-317,RL-29,CPANC,TP-3,Elastase
+400,A0A2G3AW67,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),200,21575,200,IRD-421,RL-10,CTKEC,TP-1,Trypsin
+401,A0A2G3C7G8,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),84,8822,84,IRD-349,RL-38,CIQVC,TP-4,Unknown
+402,A0A2G3C7I2,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),84,8928,84,IRD-344,RL-36,CLQVC,TP-4,Unknown
+403,A0A2G3C875,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),79,8424,79,IRD-438,RL-1,CPRNC,TP-1,Trypsin
+404,A0A2G3C896,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),128,13712,128,IRD-361,RL-43,CPRDC,TP-1,Trypsin
+405,A0A2G3C8B9,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),81,8629,81,IRD-354,RL-40,CPQIC,TP-4,Unknown
+406,A0A2G3CKE7,80379,Capsicum chinense (Scotch bonnet) (Bonnet pepper),83,9056,83,IRD-347,RL-37,CLQFC,TP-4,Unknown
+407,A0A2G9G672,429701,Handroanthus impetiginosus,77,8199,77,IRD-679,RL-27,CPLYC,TP-2,Chymotrypsin
+408,A0A2G9G784,429701,Handroanthus impetiginosus,77,7992,77,IRD-678,RL-27,CPLYC,TP-2,Chymotrypsin
+409,A0A2G9H7E3,429701,Handroanthus impetiginosus,77,8312,77,IRD-679,RL-27,CPLYC,TP-2,Chymotrypsin
+410,A0A2I0AC47,1088818,Apostasia shenzhenica,82,8879,82,IRD-309,RL-27,CPLYC,TP-2,Chymotrypsin
+411,A0A2I0XG42,906689,Dendrobium catenatum,168,18453,168,IRD-330,RL-33,CPQYC,TP-4,Unknown
+412,A0A2I4FPH4,51240,Juglans regia (English walnut),87,9506,87,IRD-305,RL-27,CPLYC,TP-2,Chymotrypsin
+413,A0A2K1WRD3,3694,Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa),76,7820,76,IRD-301,RL-27,CPLYC,TP-2,Chymotrypsin
+414,A0A2N9F3Z0,28930,Fagus sylvatica (Beechnut),1643,181670,1643,IRD-313,RL-27,CPLYC,TP-2,Chymotrypsin
+415,A0A2P4JMZ0,58331,Quercus suber (Cork oak),78,8330,78,IRD-374,RL-63,CPDIC,TP-4,Unknown
+416,A0A2P4JMZ9,58331,Quercus suber (Cork oak),80,8316,80,IRD-326,RL-33,CPQYC,TP-4,Unknown
+417,A0A2P4JN08,58331,Quercus suber (Cork oak),66,6923,66,IRD-328,RL-33,CPQYC,TP-4,Unknown
+418,A0A2P4LIH7,58331,Quercus suber (Cork oak),80,8320,80,IRD-326,RL-33,CPQYC,TP-4,Unknown
+419,A0A2P5BLP1,3476,Parasponia andersonii (Sponia andersonii),78,8239,78,IRD-676,RL-12,CPQFC,TP-4,Unknown
+420,A0A2P6PET4,74649,Rosa chinensis (China rose),79,8284,79,IRD-369,RL-55,CIQIC,TP-4,Unknown
+421,A0A2P6PET9,74649,Rosa chinensis (China rose),83,8795,83,IRD-350,RL-39,CPLIC,TP-2,Chymotrypsin
+422,A0A2P6PEU3,74649,Rosa chinensis (China rose),87,9154,87,IRD-353,RL-39,CPLIC,TP-2,Chymotrypsin
+423,A0A2P6PEV5,74649,Rosa chinensis (China rose),79,8200,79,IRD-355,RL-40,CPQIC,TP-4,Unknown
+424,A0A2P6PEW5,74649,Rosa chinensis (China rose),77,8108,77,IRD-389,RL-12,CPQFC,TP-4,Unknown
+425,A0A2S3HWR8,206008,Panicum hallii,78,8119,78,IRD-332,RL-33,CPQYC,TP-4,Unknown
+426,A0A2T7C1D4,1504633,Panicum hallii var. hallii,82,8688,82,IRD-364,RL-44,CAMYC,TP-4,Unknown
+427,A0A2T7C1D7,1504633,Panicum hallii var. hallii,65,6966,65,IRD-364,RL-44,CAMYC,TP-4,Unknown
+428,A0A2T7DPK9,1504633,Panicum hallii var. hallii,78,8168,78,IRD-338,RL-33,CPQYC,TP-4,Unknown
+429,A0A2T7DPN3,1504633,Panicum hallii var. hallii,81,8372,81,IRD-338,RL-33,CPQYC,TP-4,Unknown
+430,A0A2Z7C1T8,472368,Dorcoceras hygrometricum,60,6434,60,IRD-677,RL-27,CPLYC,TP-2,Chymotrypsin
+431,A0A314KX99,49451,Nicotiana attenuata (Coyote tobacco),80,8419,80,IRD-324,RL-30,CTRNC,TP-1,Trypsin
+432,A0A314Y0L5,2094558,Prunus yedoensis var. nudiflora,81,8292,81,IRD-358,RL-42,CNKIC,TP-1,Trypsin
+433,A0A328DK31,267555,Cuscuta australis,58,6232,58,IRD-439,RL-1,CPRNC,TP-1,Trypsin
+434,A0A328DMQ9,267555,Cuscuta australis,86,9376,86,IRD-698,RL-9,CTLEC,TP-2,Chymotrypsin
+435,A0A328EAU2,267555,Cuscuta australis,59,6612,59,IRD-284,RL-18,CTQEC,TP-4,Unknown
+436,A0A368SF18,4555,Setaria italica (Foxtail millet) (Panicum italicum),90,9572,90,IRD-363,RL-44,CAMYC,TP-4,Unknown
+437,A0A371H7D0,157652,Mucuna pruriens (Velvet bean) (Dolichos pruriens),77,7971,77,IRD-399,RL-40,CPQIC,TP-4,Unknown
+438,A2XLR0,39946,Oryza sativa subsp. indica (Rice),82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+439,A3FMA3,4577,Zea mays (Maize),78,8091,78,IRD-391,RL-12,CPQFC,TP-4,Unknown
+440,B0FZ75,4113,Solanum tuberosum (Potato),152,16906,152,IRD-24,RL-13,CSKEC,TP-1,Trypsin
+441,B0FZ75,4113,Solanum tuberosum (Potato),152,16906,152,IRD-690,RL-13,CSKEC,TP-1,Trypsin
+442,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-206,RL-1,CPRNC,TP-1,Trypsin
+443,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-207,RL-1,CPRNC,TP-1,Trypsin
+444,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-209,RL-1,CPRNC,TP-1,Trypsin
+445,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-210,RL-1,CPRNC,TP-1,Trypsin
+446,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-268,RL-14,CPPNC,TP-4,Unknown
+447,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-401,RL-5,CPFNC,TP-2,Chymotrypsin
+448,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-531,RL-1,CPRNC,TP-1,Trypsin
+449,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-578,RL-14,CPPNC,TP-4,Unknown
+450,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-586,RL-1,CPRNC,TP-1,Trypsin
+451,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-597,RL-1,CPRNC,TP-1,Trypsin
+452,B3F0C1,4097,Nicotiana tabacum (Common tobacco),396,43274,396,IRD-601,RL-1,CPRNC,TP-1,Trypsin
+453,B6SSS5,4577,Zea mays (Maize),78,8006,78,IRD-390,RL-12,CPQFC,TP-4,Unknown
+454,B9IQG0,3694,Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa),78,7976,78,IRD-301,RL-27,CPLYC,TP-2,Chymotrypsin
+455,B9S759,3988,Ricinus communis (Castor bean),75,8011,75,IRD-304,RL-27,CPLYC,TP-2,Chymotrypsin
+456,C0SKK6,4113,Solanum tuberosum (Potato),152,16973,152,IRD-22,RL-13,CSKEC,TP-1,Trypsin
+457,C0SKK6,4113,Solanum tuberosum (Potato),152,16973,152,IRD-689,RL-13,CSKEC,TP-1,Trypsin
+458,C5WLW2,4558,Sorghum bicolor (Sorghum) (Sorghum vulgare),91,9626,91,IRD-373,RL-62,CIETC,TP-4,Unknown
+459,C5XFQ3,4558,Sorghum bicolor (Sorghum) (Sorghum vulgare),77,8058,77,IRD-396,RL-33,CPQYC,TP-4,Unknown
+460,D2CGQ2,4072,Capsicum annuum (Bell pepper),146,16040,146,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+461,D2CGQ2,4072,Capsicum annuum (Bell pepper),146,16040,146,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+462,D2CGQ2,4072,Capsicum annuum (Bell pepper),146,16040,146,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+463,D2CGT3,4072,Capsicum annuum (Bell pepper),146,15899,146,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+464,D2CGT3,4072,Capsicum annuum (Bell pepper),146,15899,146,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+465,D2CGT3,4072,Capsicum annuum (Bell pepper),146,15899,146,IRD-558,RL-3,CTLNC,TP-2,Chymotrypsin
+466,D2CGT4,4072,Capsicum annuum (Bell pepper),146,15991,146,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+467,D2CGT4,4072,Capsicum annuum (Bell pepper),146,15991,146,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+468,D2CGT4,4072,Capsicum annuum (Bell pepper),146,15991,146,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+469,D2CGT5,4072,Capsicum annuum (Bell pepper),146,15991,146,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+470,D2CGT5,4072,Capsicum annuum (Bell pepper),146,15991,146,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+471,D2CGT5,4072,Capsicum annuum (Bell pepper),146,15991,146,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+472,D2CGT6,4072,Capsicum annuum (Bell pepper),146,16086,146,IRD-118,RL-1,CPRNC,TP-1,Trypsin
+473,D2CGT6,4072,Capsicum annuum (Bell pepper),146,16086,146,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+474,D2CGT6,4072,Capsicum annuum (Bell pepper),146,16086,146,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+475,D2CGT7,4072,Capsicum annuum (Bell pepper),146,15919,146,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+476,D2CGT7,4072,Capsicum annuum (Bell pepper),146,15919,146,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+477,D2CGT7,4072,Capsicum annuum (Bell pepper),146,15919,146,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+478,D2CGT8,4072,Capsicum annuum (Bell pepper),146,15788,146,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+479,D2CGT8,4072,Capsicum annuum (Bell pepper),146,15788,146,IRD-145,RL-11,CPKNC,TP-1,Trypsin
+480,D2CGT8,4072,Capsicum annuum (Bell pepper),146,15788,146,IRD-448,RL-3,CTLNC,TP-2,Chymotrypsin
+481,D2CGT9,4072,Capsicum annuum (Bell pepper),88,9683,88,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+482,D2CGU0,4072,Capsicum annuum (Bell pepper),88,9655,88,IRD-146,RL-11,CPKNC,TP-1,Trypsin
+483,D2CGU1,4072,Capsicum annuum (Bell pepper),88,9511,88,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+484,D2CH22,4072,Capsicum annuum (Bell pepper),133,14597,133,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+485,D2CH22,4072,Capsicum annuum (Bell pepper),133,14597,133,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+486,D2CH22,4072,Capsicum annuum (Bell pepper),133,14597,133,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+487,D7KZ92,81972,Arabidopsis lyrata subsp. lyrata (Lyre-leaved rock-cress),82,8792,82,IRD-314,RL-27,CPLYC,TP-2,Chymotrypsin
+488,D7TGT1,29760,Vitis vinifera (Grape),78,8329,78,IRD-308,RL-27,CPLYC,TP-2,Chymotrypsin
+489,D8QVL0,88036,Selaginella moellendorffii (Spikemoss),230,24199,230,IRD-351,RL-39,CPLIC,TP-2,Chymotrypsin
+490,D8QVL0,88036,Selaginella moellendorffii (Spikemoss),230,24199,230,IRD-694,RL-4,CTREC,TP-1,Trypsin
+491,D8QVL2,88036,Selaginella moellendorffii (Spikemoss),233,24618,233,IRD-686,RL-60,CTFKC,TP-2,Chymotrypsin
+492,D8QVP9,88036,Selaginella moellendorffii (Spikemoss),230,24225,230,IRD-352,RL-39,CPLIC,TP-2,Chymotrypsin
+493,D8QVP9,88036,Selaginella moellendorffii (Spikemoss),230,24225,230,IRD-695,RL-4,CTREC,TP-1,Trypsin
+494,D8RWY6,88036,Selaginella moellendorffii (Spikemoss),123,12990,123,IRD-682,RL-33,CPQYC,TP-4,Unknown
+495,D8SAC0,88036,Selaginella moellendorffii (Spikemoss),233,24575,233,IRD-696,RL-9,CTLEC,TP-2,Chymotrypsin
+496,D8SAC2,88036,Selaginella moellendorffii (Spikemoss),233,24532,233,IRD-684,RL-39,CPLIC,TP-2,Chymotrypsin
+497,D8SAC2,88036,Selaginella moellendorffii (Spikemoss),233,24532,233,IRD-697,RL-9,CTLEC,TP-2,Chymotrypsin
+498,D8SAC5,88036,Selaginella moellendorffii (Spikemoss),230,24199,230,IRD-683,RL-39,CPLIC,TP-2,Chymotrypsin
+499,D8SAC5,88036,Selaginella moellendorffii (Spikemoss),230,24199,230,IRD-695,RL-4,CTREC,TP-1,Trypsin
+500,E9JGS8,4112,Solanum nigrum (Black nightshade),147,16195,147,IRD-264,RL-8,CTFEC,TP-2,Chymotrypsin
+501,E9JGS8,4112,Solanum nigrum (Black nightshade),147,16195,147,IRD-409,RL-8,CTFEC,TP-2,Chymotrypsin
+502,E9JGS8,4112,Solanum nigrum (Black nightshade),147,16195,147,IRD-458,RL-4,CTREC,TP-1,Trypsin
+503,E9JGT0,4112,Solanum nigrum (Black nightshade),155,16978,155,IRD-3,RL-1,CPRNC,TP-1,Trypsin
+504,E9JGT0,4112,Solanum nigrum (Black nightshade),155,16978,155,IRD-516,RL-1,CPRNC,TP-1,Trypsin
+505,E9JGT0,4112,Solanum nigrum (Black nightshade),155,16978,155,IRD-526,RL-4,CTREC,TP-1,Trypsin
+506,E9JGT1,4112,Solanum nigrum (Black nightshade),174,19125,174,IRD-2,RL-1,CPRNC,TP-1,Trypsin
+507,E9JGT1,4112,Solanum nigrum (Black nightshade),174,19125,174,IRD-3,RL-1,CPRNC,TP-1,Trypsin
+508,E9JGT1,4112,Solanum nigrum (Black nightshade),174,19125,174,IRD-515,RL-1,CPRNC,TP-1,Trypsin
+509,E9JGT1,4112,Solanum nigrum (Black nightshade),174,19125,174,IRD-516,RL-1,CPRNC,TP-1,Trypsin
+510,I1HDV9,15368,Brachypodium distachyon (Purple false brome) (Trachynia distachya),79,8330,79,IRD-397,RL-33,CPQYC,TP-4,Unknown
+511,I1PF65,4538,Oryza glaberrima (African rice),82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+512,I3QHE9,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16597,148,IRD-405,RL-7,CTFNC,TP-2,Chymotrypsin
+513,I3QHF0,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16308,148,IRD-62,RL-7,CTFNC,TP-2,Chymotrypsin
+514,I3QHF0,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16308,148,IRD-405,RL-7,CTFNC,TP-2,Chymotrypsin
+515,I3QHF0,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16308,148,IRD-456,RL-4,CTREC,TP-1,Trypsin
+516,I3QHF1,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16351,148,IRD-63,RL-7,CTFNC,TP-2,Chymotrypsin
+517,I3QHF1,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16351,148,IRD-407,RL-7,CTFNC,TP-2,Chymotrypsin
+518,I3QHF1,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16351,148,IRD-459,RL-4,CTREC,TP-1,Trypsin
+519,I3S093,3880,Medicago truncatula (Barrel medic) (Medicago tribuloides),80,8368,80,IRD-381,RL-12,CPQFC,TP-4,Unknown
+520,I6Q7H6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16277,148,IRD-63,RL-7,CTFNC,TP-2,Chymotrypsin
+521,I6Q7H6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16277,148,IRD-406,RL-7,CTFNC,TP-2,Chymotrypsin
+522,I6Q7H6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16277,148,IRD-459,RL-4,CTREC,TP-1,Trypsin
+523,I7AXR4,4146,Olea europaea (Common olive),78,8456,78,IRD-17,RL-10,CTKEC,TP-1,Trypsin
+524,J3LSK1,4533,Oryza brachyantha,114,12126,114,IRD-386,RL-12,CPQFC,TP-4,Unknown
+525,J7EN93,4113,Solanum tuberosum (Potato),154,16637,154,IRD-238,RL-1,CPRNC,TP-1,Trypsin
+526,J7EN93,4113,Solanum tuberosum (Potato),154,16637,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+527,J7EN93,4113,Solanum tuberosum (Potato),154,16637,154,IRD-490,RL-1,CPRNC,TP-1,Trypsin
+528,J7EN94,4113,Solanum tuberosum (Potato),154,16701,154,IRD-237,RL-1,CPRNC,TP-1,Trypsin
+529,J7EN94,4113,Solanum tuberosum (Potato),154,16701,154,IRD-240,RL-1,CPRNC,TP-1,Trypsin
+530,J7EN94,4113,Solanum tuberosum (Potato),154,16701,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+531,J7EN94,4113,Solanum tuberosum (Potato),154,16701,154,IRD-489,RL-1,CPRNC,TP-1,Trypsin
+532,J7ENS8,4113,Solanum tuberosum (Potato),137,14793,137,IRD-58,RL-2,CPLNC,TP-2,Chymotrypsin
+533,J7ENS8,4113,Solanum tuberosum (Potato),137,14793,137,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+534,J7EQ13,4113,Solanum tuberosum (Potato),154,16660,154,IRD-58,RL-2,CPLNC,TP-2,Chymotrypsin
+535,J7EQ13,4113,Solanum tuberosum (Potato),154,16660,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+536,J7EQ13,4113,Solanum tuberosum (Potato),154,16660,154,IRD-496,RL-2,CPLNC,TP-2,Chymotrypsin
+537,J7EQ14,4113,Solanum tuberosum (Potato),154,16631,154,IRD-56,RL-2,CPLNC,TP-2,Chymotrypsin
+538,J7EQ14,4113,Solanum tuberosum (Potato),154,16631,154,IRD-465,RL-9,CTLEC,TP-2,Chymotrypsin
+539,J7EQ14,4113,Solanum tuberosum (Potato),154,16631,154,IRD-494,RL-2,CPLNC,TP-2,Chymotrypsin
+540,J7EQ45,4113,Solanum tuberosum (Potato),148,16267,148,IRD-239,RL-1,CPRNC,TP-1,Trypsin
+541,J7EQ45,4113,Solanum tuberosum (Potato),148,16267,148,IRD-488,RL-1,CPRNC,TP-1,Trypsin
+542,J7EQ46,4113,Solanum tuberosum (Potato),147,16097,147,IRD-248,RL-2,CPLNC,TP-2,Chymotrypsin
+543,J7EQ46,4113,Solanum tuberosum (Potato),147,16097,147,IRD-500,RL-2,CPLNC,TP-2,Chymotrypsin
+544,K4AKH4,4555,Setaria italica (Foxtail millet) (Panicum italicum),92,9851,92,IRD-362,RL-44,CAMYC,TP-4,Unknown
+545,K4BEX5,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22653,207,IRD-32,RL-20,CTQQC,TP-4,Unknown
+546,K4BEX5,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22653,207,IRD-70,RL-23,CPKEC,TP-1,Trypsin
+547,K4BEX5,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22653,207,IRD-285,RL-20,CTQQC,TP-4,Unknown
+548,K4BEX5,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22653,207,IRD-291,RL-23,CPKEC,TP-1,Trypsin
+549,K4BEX5,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22653,207,IRD-453,RL-4,CTREC,TP-1,Trypsin
+550,K4BEX6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22682,207,IRD-32,RL-20,CTQQC,TP-4,Unknown
+551,K4BEX6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22682,207,IRD-69,RL-23,CPKEC,TP-1,Trypsin
+552,K4BEX6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22682,207,IRD-285,RL-20,CTQQC,TP-4,Unknown
+553,K4BEX6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22682,207,IRD-290,RL-23,CPKEC,TP-1,Trypsin
+554,K4BEX6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),207,22682,207,IRD-452,RL-4,CTREC,TP-1,Trypsin
+555,K4BEX7,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21370,201,IRD-20,RL-10,CTKEC,TP-1,Trypsin
+556,K4BEX7,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21370,201,IRD-275,RL-46,CPSYC,TP-4,Unknown
+557,K4BEX7,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21370,201,IRD-418,RL-10,CTKEC,TP-1,Trypsin
+558,K4BEX7,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21370,201,IRD-470,RL-10,CTKEC,TP-1,Trypsin
+559,K4BEX7,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21370,201,IRD-505,RL-46,CPSYC,TP-4,Unknown
+560,K4BEX8,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),206,22018,206,IRD-40,RL-19,CTMEC,TP-4,Unknown
+561,K4BEX8,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),206,22018,206,IRD-55,RL-2,CPLNC,TP-2,Chymotrypsin
+562,K4BEX8,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),206,22018,206,IRD-431,RL-19,CTMEC,TP-4,Unknown
+563,K4BEX8,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),206,22018,206,IRD-432,RL-19,CTMEC,TP-4,Unknown
+564,K4BEX8,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),206,22018,206,IRD-493,RL-2,CPLNC,TP-2,Chymotrypsin
+565,K4BEX9,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),159,17145,159,IRD-235,RL-1,CPRNC,TP-1,Trypsin
+566,K4BEX9,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),159,17145,159,IRD-423,RL-10,CTKEC,TP-1,Trypsin
+567,K4BEX9,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),159,17145,159,IRD-486,RL-1,CPRNC,TP-1,Trypsin
+568,K4BEY0,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),159,17305,159,IRD-73,RL-49,CHLNC,TP-2,Chymotrypsin
+569,K4BEY0,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),159,17305,159,IRD-424,RL-10,CTKEC,TP-1,Trypsin
+570,K4BEY0,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),159,17305,159,IRD-507,RL-49,CHLNC,TP-2,Chymotrypsin
+571,K4C6V1,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),603,68743,603,IRD-345,RL-36,CLQVC,TP-4,Unknown
+572,K4CG14,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),77,8344,77,IRD-379,RL-12,CPQFC,TP-4,Unknown
+573,K4D750,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),360,39280,360,IRD-1,RL-1,CPRNC,TP-1,Trypsin
+574,K4D750,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),360,39280,360,IRD-7,RL-5,CPFNC,TP-2,Chymotrypsin
+575,K4D750,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),360,39280,360,IRD-47,RL-1,CPRNC,TP-1,Trypsin
+576,K4D750,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),360,39280,360,IRD-511,RL-1,CPRNC,TP-1,Trypsin
+577,K4D750,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),360,39280,360,IRD-512,RL-1,CPRNC,TP-1,Trypsin
+578,K4D750,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),360,39280,360,IRD-527,RL-5,CPFNC,TP-2,Chymotrypsin
+579,K7W5K0,4113,Solanum tuberosum (Potato),152,16843,152,IRD-23,RL-13,CSKEC,TP-1,Trypsin
+580,K7W5K0,4113,Solanum tuberosum (Potato),152,16843,152,IRD-689,RL-13,CSKEC,TP-1,Trypsin
+581,K7X8A9,4113,Solanum tuberosum (Potato),77,8312,77,IRD-380,RL-12,CPQFC,TP-4,Unknown
+582,M0ZPU4,4113,Solanum tuberosum (Potato),53,5552,53,IRD-341,RL-36,CLQVC,TP-4,Unknown
+583,M0ZPU5,4113,Solanum tuberosum (Potato),84,8980,84,IRD-342,RL-36,CLQVC,TP-4,Unknown
+584,M0ZPU7,4113,Solanum tuberosum (Potato),84,8874,84,IRD-340,RL-36,CLQVC,TP-4,Unknown
+585,M0ZPU7,4113,Solanum tuberosum (Potato),84,8874,84,IRD-341,RL-36,CLQVC,TP-4,Unknown
+586,M0ZZR6,4113,Solanum tuberosum (Potato),205,21860,205,IRD-13,RL-9,CTLEC,TP-2,Chymotrypsin
+587,M0ZZR6,4113,Solanum tuberosum (Potato),205,21860,205,IRD-151,RL-1,CPRNC,TP-1,Trypsin
+588,M0ZZR6,4113,Solanum tuberosum (Potato),205,21860,205,IRD-413,RL-9,CTLEC,TP-2,Chymotrypsin
+589,M0ZZR6,4113,Solanum tuberosum (Potato),205,21860,205,IRD-464,RL-9,CTLEC,TP-2,Chymotrypsin
+590,M0ZZR6,4113,Solanum tuberosum (Potato),205,21860,205,IRD-481,RL-1,CPRNC,TP-1,Trypsin
+591,M1AJ80,4113,Solanum tuberosum (Potato),146,15745,146,IRD-8,RL-5,CPFNC,TP-2,Chymotrypsin
+592,M1AJ80,4113,Solanum tuberosum (Potato),146,15745,146,IRD-403,RL-5,CPFNC,TP-2,Chymotrypsin
+593,M1AJ80,4113,Solanum tuberosum (Potato),146,15745,146,IRD-525,RL-1,CPRNC,TP-1,Trypsin
+594,M1AJ81,4113,Solanum tuberosum (Potato),174,19726,174,IRD-25,RL-13,CSKEC,TP-1,Trypsin
+595,M1AJ82,4113,Solanum tuberosum (Potato),152,16922,152,IRD-25,RL-13,CSKEC,TP-1,Trypsin
+596,M1AJ82,4113,Solanum tuberosum (Potato),152,16922,152,IRD-689,RL-13,CSKEC,TP-1,Trypsin
+597,M1AJ83,4113,Solanum tuberosum (Potato),139,15529,139,IRD-25,RL-13,CSKEC,TP-1,Trypsin
+598,M1AJ83,4113,Solanum tuberosum (Potato),139,15529,139,IRD-689,RL-13,CSKEC,TP-1,Trypsin
+599,M1B8F7,4113,Solanum tuberosum (Potato),207,22784,207,IRD-33,RL-20,CTQQC,TP-4,Unknown
+600,M1B8F7,4113,Solanum tuberosum (Potato),207,22784,207,IRD-65,RL-13,CSKEC,TP-1,Trypsin
+601,M1B8F7,4113,Solanum tuberosum (Potato),207,22784,207,IRD-286,RL-20,CTQQC,TP-4,Unknown
+602,M1B8F7,4113,Solanum tuberosum (Potato),207,22784,207,IRD-429,RL-13,CSKEC,TP-1,Trypsin
+603,M1B8F7,4113,Solanum tuberosum (Potato),207,22784,207,IRD-454,RL-4,CTREC,TP-1,Trypsin
+604,M1B8F8,4113,Solanum tuberosum (Potato),205,21892,205,IRD-13,RL-9,CTLEC,TP-2,Chymotrypsin
+605,M1B8F8,4113,Solanum tuberosum (Potato),205,21892,205,IRD-53,RL-2,CPLNC,TP-2,Chymotrypsin
+606,M1B8F8,4113,Solanum tuberosum (Potato),205,21892,205,IRD-411,RL-9,CTLEC,TP-2,Chymotrypsin
+607,M1B8F8,4113,Solanum tuberosum (Potato),205,21892,205,IRD-442,RL-2,CPLNC,TP-2,Chymotrypsin
+608,M1B8F8,4113,Solanum tuberosum (Potato),205,21892,205,IRD-469,RL-10,CTKEC,TP-1,Trypsin
+609,M1B8F9,4113,Solanum tuberosum (Potato),200,21514,200,IRD-27,RL-18,CTQEC,TP-4,Unknown
+610,M1B8F9,4113,Solanum tuberosum (Potato),200,21514,200,IRD-274,RL-34,CPFYC,TP-2,Chymotrypsin
+611,M1B8F9,4113,Solanum tuberosum (Potato),200,21514,200,IRD-430,RL-18,CTQEC,TP-4,Unknown
+612,M1B8F9,4113,Solanum tuberosum (Potato),200,21514,200,IRD-470,RL-10,CTKEC,TP-1,Trypsin
+613,M1B8F9,4113,Solanum tuberosum (Potato),200,21514,200,IRD-504,RL-34,CPFYC,TP-2,Chymotrypsin
+614,M1BKA8,4113,Solanum tuberosum (Potato),76,8569,76,IRD-378,RL-12,CPQFC,TP-4,Unknown
+615,M1BKA9,4113,Solanum tuberosum (Potato),77,8328,77,IRD-378,RL-12,CPQFC,TP-4,Unknown
+616,M1C853,4113,Solanum tuberosum (Potato),81,8917,81,IRD-297,RL-26,CLQYC,TP-4,Unknown
+617,M1C854,4113,Solanum tuberosum (Potato),83,8978,83,IRD-297,RL-26,CLQYC,TP-4,Unknown
+618,M1C870,4113,Solanum tuberosum (Potato),83,8977,83,IRD-298,RL-26,CLQYC,TP-4,Unknown
+619,M1D0E9,4113,Solanum tuberosum (Potato),145,15689,145,IRD-278,RL-50,CSYEC,TP-2,Chymotrypsin
+620,M1D0E9,4113,Solanum tuberosum (Potato),145,15689,145,IRD-437,RL-50,CSYEC,TP-2,Chymotrypsin
+621,M1D0E9,4113,Solanum tuberosum (Potato),145,15689,145,IRD-475,RL-17,CPRIC,TP-1,Trypsin
+622,M1D3J7,4113,Solanum tuberosum (Potato),81,8704,81,IRD-320,RL-30,CTRNC,TP-1,Trypsin
+623,M1DJV3,4113,Solanum tuberosum (Potato),186,20391,186,IRD-31,RL-20,CTQQC,TP-4,Unknown
+624,M1DJV3,4113,Solanum tuberosum (Potato),186,20391,186,IRD-64,RL-11,CPKNC,TP-1,Trypsin
+625,M1DJV3,4113,Solanum tuberosum (Potato),186,20391,186,IRD-425,RL-11,CPKNC,TP-1,Trypsin
+626,M1DJV3,4113,Solanum tuberosum (Potato),186,20391,186,IRD-433,RL-20,CTQQC,TP-4,Unknown
+627,M1DJV3,4113,Solanum tuberosum (Potato),186,20391,186,IRD-476,RL-19,CTMEC,TP-4,Unknown
+628,M4CUW0,51351,Brassica rapa subsp. pekinensis (Chinese cabbage) (Brassica pekinensis),81,8739,81,IRD-310,RL-27,CPLYC,TP-2,Chymotrypsin
+629,M5XPI6,3760,Prunus persica (Peach) (Amygdalus persica),81,8265,81,IRD-357,RL-42,CNKIC,TP-1,Trypsin
+630,M5XRU0,3760,Prunus persica (Peach) (Amygdalus persica),80,8477,80,IRD-325,RL-33,CPQYC,TP-4,Unknown
+631,M7ZEF2,4572,Triticum urartu (Red wild einkorn) (Crithodium urartu),78,8204,78,IRD-329,RL-33,CPQYC,TP-4,Unknown
+632,O49146,4072,Capsicum annuum (Bell pepper),204,22187,204,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+633,O49146,4072,Capsicum annuum (Bell pepper),204,22187,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+634,O49146,4072,Capsicum annuum (Bell pepper),204,22187,204,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+635,O49146,4072,Capsicum annuum (Bell pepper),204,22187,204,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+636,O49146,4072,Capsicum annuum (Bell pepper),204,22187,204,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+637,O82735,4113,Solanum tuberosum (Potato),126,13495,126,IRD-56,RL-2,CPLNC,TP-2,Chymotrypsin
+638,O82735,4113,Solanum tuberosum (Potato),126,13495,126,IRD-465,RL-9,CTLEC,TP-2,Chymotrypsin
+639,O82735,4113,Solanum tuberosum (Potato),126,13495,126,IRD-494,RL-2,CPLNC,TP-2,Chymotrypsin
+640,P01078,4111,Solanum melongena (Eggplant) (Aubergine),52,5579,52,IRD-51,RL-1,CPRNC,TP-1,Trypsin
+641,P01079,4113,Solanum tuberosum (Potato),51,5602,51,IRD-240,RL-1,CPRNC,TP-1,Trypsin
+642,P01080,4113,Solanum tuberosum (Potato),153,16505,153,IRD-56,RL-2,CPLNC,TP-2,Chymotrypsin
+643,P01080,4113,Solanum tuberosum (Potato),153,16505,153,IRD-478,RL-48,CIREC,TP-1,Trypsin
+644,P01080,4113,Solanum tuberosum (Potato),153,16505,153,IRD-496,RL-2,CPLNC,TP-2,Chymotrypsin
+645,P05119,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16293,148,IRD-62,RL-7,CTFNC,TP-2,Chymotrypsin
+646,P05119,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16293,148,IRD-405,RL-7,CTFNC,TP-2,Chymotrypsin
+647,P05119,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16293,148,IRD-456,RL-4,CTREC,TP-1,Trypsin
+648,P56615,4072,Capsicum annuum (Bell pepper),55,6061,55,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+649,P83241,4072,Capsicum annuum (Bell pepper),52,5604,52,IRD-491,RL-1,CPRNC,TP-1,Trypsin
+650,P84813,4113,Solanum tuberosum (Potato),47,4833,47,IRD-54,RL-2,CPLNC,TP-2,Chymotrypsin
+651,Q00782,4113,Solanum tuberosum (Potato),158,17132,158,IRD-9,RL-9,CTLEC,TP-2,Chymotrypsin
+652,Q00782,4113,Solanum tuberosum (Potato),158,17132,158,IRD-46,RL-1,CPRNC,TP-1,Trypsin
+653,Q00782,4113,Solanum tuberosum (Potato),158,17132,158,IRD-464,RL-9,CTLEC,TP-2,Chymotrypsin
+654,Q00782,4113,Solanum tuberosum (Potato),158,17132,158,IRD-484,RL-1,CPRNC,TP-1,Trypsin
+655,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-185,RL-1,CPRNC,TP-1,Trypsin
+656,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-186,RL-1,CPRNC,TP-1,Trypsin
+657,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-187,RL-1,CPRNC,TP-1,Trypsin
+658,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-188,RL-1,CPRNC,TP-1,Trypsin
+659,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-189,RL-1,CPRNC,TP-1,Trypsin
+660,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-574,RL-1,CPRNC,TP-1,Trypsin
+661,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-600,RL-1,CPRNC,TP-1,Trypsin
+663,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-636,RL-1,CPRNC,TP-1,Trypsin
+664,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-637,RL-1,CPRNC,TP-1,Trypsin
+665,Q1WL29,81866,Nicotiana clevelandii (Wild tobacco),389,42140,389,IRD-638,RL-1,CPRNC,TP-1,Trypsin
+666,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-185,RL-1,CPRNC,TP-1,Trypsin
+667,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-186,RL-1,CPRNC,TP-1,Trypsin
+668,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-189,RL-1,CPRNC,TP-1,Trypsin
+670,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-190,RL-1,CPRNC,TP-1,Trypsin
+671,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-575,RL-1,CPRNC,TP-1,Trypsin
+672,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-600,RL-1,CPRNC,TP-1,Trypsin
+674,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-607,RL-1,CPRNC,TP-1,Trypsin
+675,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-637,RL-1,CPRNC,TP-1,Trypsin
+676,Q1WL30,278839,Nicotiana quadrivalvis,389,42110,389,IRD-638,RL-1,CPRNC,TP-1,Trypsin
+677,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-61,RL-5,CPFNC,TP-2,Chymotrypsin
+678,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-154,RL-1,CPRNC,TP-1,Trypsin
+679,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-155,RL-1,CPRNC,TP-1,Trypsin
+680,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-156,RL-1,CPRNC,TP-1,Trypsin
+681,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-157,RL-1,CPRNC,TP-1,Trypsin
+682,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-158,RL-1,CPRNC,TP-1,Trypsin
+683,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-159,RL-1,CPRNC,TP-1,Trypsin
+684,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-591,RL-1,CPRNC,TP-1,Trypsin
+685,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-592,RL-1,CPRNC,TP-1,Trypsin
+686,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-593,RL-1,CPRNC,TP-1,Trypsin
+687,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-607,RL-1,CPRNC,TP-1,Trypsin
+688,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-608,RL-1,CPRNC,TP-1,Trypsin
+689,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-609,RL-1,CPRNC,TP-1,Trypsin
+691,Q1WL31,200316,Nicotiana obtusifolia,516,56513,516,IRD-665,RL-5,CPFNC,TP-2,Chymotrypsin
+692,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-61,RL-5,CPFNC,TP-2,Chymotrypsin
+693,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-154,RL-1,CPRNC,TP-1,Trypsin
+694,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-155,RL-1,CPRNC,TP-1,Trypsin
+695,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-156,RL-1,CPRNC,TP-1,Trypsin
+696,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-157,RL-1,CPRNC,TP-1,Trypsin
+697,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-158,RL-1,CPRNC,TP-1,Trypsin
+698,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-159,RL-1,CPRNC,TP-1,Trypsin
+699,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-591,RL-1,CPRNC,TP-1,Trypsin
+700,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-592,RL-1,CPRNC,TP-1,Trypsin
+701,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-593,RL-1,CPRNC,TP-1,Trypsin
+702,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-607,RL-1,CPRNC,TP-1,Trypsin
+703,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-608,RL-1,CPRNC,TP-1,Trypsin
+704,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-609,RL-1,CPRNC,TP-1,Trypsin
+706,Q1WL35,200316,Nicotiana obtusifolia,506,55385,506,IRD-665,RL-5,CPFNC,TP-2,Chymotrypsin
+707,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-170,RL-1,CPRNC,TP-1,Trypsin
+708,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-171,RL-1,CPRNC,TP-1,Trypsin
+709,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-172,RL-1,CPRNC,TP-1,Trypsin
+710,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-173,RL-1,CPRNC,TP-1,Trypsin
+711,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-252,RL-3,CTLNC,TP-2,Chymotrypsin
+713,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-594,RL-1,CPRNC,TP-1,Trypsin
+715,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-613,RL-1,CPRNC,TP-1,Trypsin
+716,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-614,RL-1,CPRNC,TP-1,Trypsin
+717,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-659,RL-3,CTLNC,TP-2,Chymotrypsin
+719,Q1WL36,4093,Nicotiana rustica (Aztec tobacco),448,48643,448,IRD-660,RL-3,CTLNC,TP-2,Chymotrypsin
+720,Q1WL37,200301,Nicotiana corymbosa,147,16209,147,IRD-176,RL-1,CPRNC,TP-1,Trypsin
+721,Q1WL37,200301,Nicotiana corymbosa,147,16209,147,IRD-577,RL-1,CPRNC,TP-1,Trypsin
+722,Q1WL37,200301,Nicotiana corymbosa,147,16209,147,IRD-666,RL-5,CPFNC,TP-2,Chymotrypsin
+723,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-176,RL-1,CPRNC,TP-1,Trypsin
+724,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-179,RL-1,CPRNC,TP-1,Trypsin
+725,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-180,RL-1,CPRNC,TP-1,Trypsin
+726,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-181,RL-1,CPRNC,TP-1,Trypsin
+727,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-182,RL-1,CPRNC,TP-1,Trypsin
+728,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-183,RL-1,CPRNC,TP-1,Trypsin
+729,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-569,RL-1,CPRNC,TP-1,Trypsin
+730,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-570,RL-1,CPRNC,TP-1,Trypsin
+731,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-571,RL-1,CPRNC,TP-1,Trypsin
+732,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-572,RL-1,CPRNC,TP-1,Trypsin
+733,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-584,RL-1,CPRNC,TP-1,Trypsin
+734,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-585,RL-1,CPRNC,TP-1,Trypsin
+735,Q1WL38,4086,Nicotiana acuminata (Acuminate tobacco),432,47837,432,IRD-666,RL-5,CPFNC,TP-2,Chymotrypsin
+736,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-169,RL-1,CPRNC,TP-1,Trypsin
+737,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-193,RL-1,CPRNC,TP-1,Trypsin
+738,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-194,RL-1,CPRNC,TP-1,Trypsin
+739,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-195,RL-1,CPRNC,TP-1,Trypsin
+740,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-196,RL-1,CPRNC,TP-1,Trypsin
+741,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-619,RL-1,CPRNC,TP-1,Trypsin
+742,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-629,RL-1,CPRNC,TP-1,Trypsin
+743,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-630,RL-1,CPRNC,TP-1,Trypsin
+744,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-631,RL-1,CPRNC,TP-1,Trypsin
+746,Q1WL39,200315,Nicotiana pauciflora,397,43846,397,IRD-667,RL-5,CPFNC,TP-2,Chymotrypsin
+747,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-196,RL-1,CPRNC,TP-1,Trypsin
+748,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-197,RL-1,CPRNC,TP-1,Trypsin
+749,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-198,RL-1,CPRNC,TP-1,Trypsin
+750,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-199,RL-1,CPRNC,TP-1,Trypsin
+751,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-200,RL-1,CPRNC,TP-1,Trypsin
+752,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-533,RL-1,CPRNC,TP-1,Trypsin
+753,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-633,RL-1,CPRNC,TP-1,Trypsin
+754,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-634,RL-1,CPRNC,TP-1,Trypsin
+755,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-635,RL-1,CPRNC,TP-1,Trypsin
+757,Q1WL40,118704,Nicotiana miersii,397,43649,397,IRD-668,RL-7,CTFNC,TP-2,Chymotrypsin
+758,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-81,RL-1,CPRNC,TP-1,Trypsin
+759,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-227,RL-1,CPRNC,TP-1,Trypsin
+760,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-228,RL-1,CPRNC,TP-1,Trypsin
+761,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-271,RL-17,CPRIC,TP-1,Trypsin
+762,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-535,RL-1,CPRNC,TP-1,Trypsin
+763,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-590,RL-1,CPRNC,TP-1,Trypsin
+764,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-651,RL-1,CPRNC,TP-1,Trypsin
+765,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-652,RL-1,CPRNC,TP-1,Trypsin
+766,Q1WL41,200300,Nicotiana spegazzinii,338,37486,338,IRD-674,RL-17,CPRIC,TP-1,Trypsin
+767,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-221,RL-1,CPRNC,TP-1,Trypsin
+768,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-222,RL-1,CPRNC,TP-1,Trypsin
+769,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-223,RL-1,CPRNC,TP-1,Trypsin
+770,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-224,RL-1,CPRNC,TP-1,Trypsin
+771,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-510,RL-1,CPRNC,TP-1,Trypsin
+772,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-535,RL-1,CPRNC,TP-1,Trypsin
+773,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-589,RL-1,CPRNC,TP-1,Trypsin
+774,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-650,RL-1,CPRNC,TP-1,Trypsin
+775,Q1WL42,118701,Nicotiana linearis,338,37519,338,IRD-651,RL-1,CPRNC,TP-1,Trypsin
+776,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-152,RL-1,CPRNC,TP-1,Trypsin
+777,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+778,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-201,RL-1,CPRNC,TP-1,Trypsin
+779,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-254,RL-3,CTLNC,TP-2,Chymotrypsin
+780,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-255,RL-3,CTLNC,TP-2,Chymotrypsin
+781,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+782,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-621,RL-1,CPRNC,TP-1,Trypsin
+783,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-622,RL-1,CPRNC,TP-1,Trypsin
+784,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-655,RL-2,CPLNC,TP-2,Chymotrypsin
+785,Q1WL43,4097,Nicotiana tabacum (Common tobacco),397,43632,397,IRD-658,RL-3,CTLNC,TP-2,Chymotrypsin
+787,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-152,RL-1,CPRNC,TP-1,Trypsin
+789,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+790,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-254,RL-3,CTLNC,TP-2,Chymotrypsin
+791,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-255,RL-3,CTLNC,TP-2,Chymotrypsin
+792,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-604,RL-1,CPRNC,TP-1,Trypsin
+793,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+794,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-620,RL-1,CPRNC,TP-1,Trypsin
+795,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-655,RL-2,CPLNC,TP-2,Chymotrypsin
+796,Q1WL44,4096,Nicotiana sylvestris (Wood tobacco) (South American tobacco),397,43559,397,IRD-658,RL-3,CTLNC,TP-2,Chymotrypsin
+798,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-77,RL-1,CPRNC,TP-1,Trypsin
+799,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-244,RL-2,CPLNC,TP-2,Chymotrypsin
+800,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-245,RL-2,CPLNC,TP-2,Chymotrypsin
+801,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-246,RL-2,CPLNC,TP-2,Chymotrypsin
+802,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-270,RL-16,CPQNC,TP-4,Unknown
+803,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-441,RL-2,CPLNC,TP-2,Chymotrypsin
+804,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-462,RL-7,CTFNC,TP-2,Chymotrypsin
+805,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-492,RL-2,CPLNC,TP-2,Chymotrypsin
+806,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-642,RL-1,CPRNC,TP-1,Trypsin
+807,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-657,RL-2,CPLNC,TP-2,Chymotrypsin
+808,Q1WL45,76336,Nicotiana repanda,394,43028,394,IRD-673,RL-16,CPQNC,TP-4,Unknown
+809,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-211,RL-1,CPRNC,TP-1,Trypsin
+810,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-225,RL-1,CPRNC,TP-1,Trypsin
+811,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-226,RL-1,CPRNC,TP-1,Trypsin
+812,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-260,RL-8,CTFEC,TP-2,Chymotrypsin
+813,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-645,RL-1,CPRNC,TP-1,Trypsin
+814,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-646,RL-1,CPRNC,TP-1,Trypsin
+815,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-647,RL-1,CPRNC,TP-1,Trypsin
+816,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-663,RL-4,CTREC,TP-1,Trypsin
+817,Q1WL46,118712,Nicotiana umbratica,339,37309,339,IRD-669,RL-8,CTFEC,TP-2,Chymotrypsin
+818,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-211,RL-1,CPRNC,TP-1,Trypsin
+819,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-217,RL-1,CPRNC,TP-1,Trypsin
+820,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-218,RL-1,CPRNC,TP-1,Trypsin
+821,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-259,RL-8,CTFEC,TP-2,Chymotrypsin
+822,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-449,RL-4,CTREC,TP-1,Trypsin
+823,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-644,RL-1,CPRNC,TP-1,Trypsin
+824,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-648,RL-1,CPRNC,TP-1,Trypsin
+825,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-649,RL-1,CPRNC,TP-1,Trypsin
+826,Q1WL47,118709,Nicotiana simulans,330,36019,330,IRD-670,RL-8,CTFEC,TP-2,Chymotrypsin
+827,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-215,RL-1,CPRNC,TP-1,Trypsin
+828,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-216,RL-1,CPRNC,TP-1,Trypsin
+829,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-217,RL-1,CPRNC,TP-1,Trypsin
+830,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-258,RL-8,CTFEC,TP-2,Chymotrypsin
+831,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-450,RL-4,CTREC,TP-1,Trypsin
+832,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-509,RL-1,CPRNC,TP-1,Trypsin
+833,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-643,RL-1,CPRNC,TP-1,Trypsin
+834,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-644,RL-1,CPRNC,TP-1,Trypsin
+835,Q1WL48,118703,Nicotiana megalosiphon,330,36033,330,IRD-669,RL-8,CTFEC,TP-2,Chymotrypsin
+836,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-211,RL-1,CPRNC,TP-1,Trypsin
+837,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-212,RL-1,CPRNC,TP-1,Trypsin
+838,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-213,RL-1,CPRNC,TP-1,Trypsin
+839,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-257,RL-4,CTREC,TP-1,Trypsin
+840,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-269,RL-15,CTIEC,TP-2,Chymotrypsin
+841,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-449,RL-4,CTREC,TP-1,Trypsin
+842,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-639,RL-1,CPRNC,TP-1,Trypsin
+843,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-640,RL-1,CPRNC,TP-1,Trypsin
+844,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-641,RL-1,CPRNC,TP-1,Trypsin
+845,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-662,RL-4,CTREC,TP-1,Trypsin
+846,Q1WL49,200306,Nicotiana occidentalis subsp. hesperis,395,43470,395,IRD-672,RL-15,CTIEC,TP-2,Chymotrypsin
+847,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-211,RL-1,CPRNC,TP-1,Trypsin
+848,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-230,RL-1,CPRNC,TP-1,Trypsin
+849,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-261,RL-8,CTFEC,TP-2,Chymotrypsin
+850,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-449,RL-4,CTREC,TP-1,Trypsin
+851,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-640,RL-1,CPRNC,TP-1,Trypsin
+852,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-654,RL-1,CPRNC,TP-1,Trypsin
+853,Q1WL50,4100,Nicotiana benthamiana,279,30816,279,IRD-669,RL-8,CTFEC,TP-2,Chymotrypsin
+854,Q1WL51,118690,Nicotiana cavicola,163,17880,163,IRD-262,RL-8,CTFEC,TP-2,Chymotrypsin
+855,Q1WL51,118690,Nicotiana cavicola,163,17880,163,IRD-664,RL-4,CTREC,TP-1,Trypsin
+856,Q1WL51,118690,Nicotiana cavicola,163,17880,163,IRD-671,RL-8,CTFEC,TP-2,Chymotrypsin
+857,Q2TU74,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),76,8326,76,IRD-460,RL-4,CTREC,TP-1,Trypsin
+858,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-152,RL-1,CPRNC,TP-1,Trypsin
+859,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+860,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-202,RL-1,CPRNC,TP-1,Trypsin
+861,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-254,RL-3,CTLNC,TP-2,Chymotrypsin
+862,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-255,RL-3,CTLNC,TP-2,Chymotrypsin
+863,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+864,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-620,RL-1,CPRNC,TP-1,Trypsin
+865,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-621,RL-1,CPRNC,TP-1,Trypsin
+866,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-656,RL-2,CPLNC,TP-2,Chymotrypsin
+867,Q2XVY5,4097,Nicotiana tabacum (Common tobacco),397,43663,397,IRD-658,RL-3,CTLNC,TP-2,Chymotrypsin
+869,Q32YL3,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),81,8680,81,IRD-455,RL-4,CTREC,TP-1,Trypsin
+870,Q3S483,4113,Solanum tuberosum (Potato),154,16641,154,IRD-57,RL-2,CPLNC,TP-2,Chymotrypsin
+871,Q3S483,4113,Solanum tuberosum (Potato),154,16641,154,IRD-466,RL-9,CTLEC,TP-2,Chymotrypsin
+872,Q3S483,4113,Solanum tuberosum (Potato),154,16641,154,IRD-495,RL-2,CPLNC,TP-2,Chymotrypsin
+873,Q3S485,4113,Solanum tuberosum (Potato),129,13961,129,IRD-57,RL-2,CPLNC,TP-2,Chymotrypsin
+874,Q3S485,4113,Solanum tuberosum (Potato),129,13961,129,IRD-466,RL-9,CTLEC,TP-2,Chymotrypsin
+875,Q3S485,4113,Solanum tuberosum (Potato),129,13961,129,IRD-495,RL-2,CPLNC,TP-2,Chymotrypsin
+876,Q3S493,4113,Solanum tuberosum (Potato),154,16728,154,IRD-247,RL-2,CPLNC,TP-2,Chymotrypsin
+877,Q3S493,4113,Solanum tuberosum (Potato),154,16728,154,IRD-417,RL-9,CTLEC,TP-2,Chymotrypsin
+878,Q3S493,4113,Solanum tuberosum (Potato),154,16728,154,IRD-443,RL-2,CPLNC,TP-2,Chymotrypsin
+879,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-152,RL-1,CPRNC,TP-1,Trypsin
+880,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+881,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-255,RL-3,CTLNC,TP-2,Chymotrypsin
+882,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+883,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-653,RL-1,CPRNC,TP-1,Trypsin
+884,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-655,RL-2,CPLNC,TP-2,Chymotrypsin
+885,Q3SBE6,4097,Nicotiana tabacum (Common tobacco),281,30824,281,IRD-658,RL-3,CTLNC,TP-2,Chymotrypsin
+886,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+887,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-191,RL-1,CPRNC,TP-1,Trypsin
+888,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-192,RL-1,CPRNC,TP-1,Trypsin
+890,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-253,RL-3,CTLNC,TP-2,Chymotrypsin
+891,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+892,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-623,RL-1,CPRNC,TP-1,Trypsin
+893,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-624,RL-1,CPRNC,TP-1,Trypsin
+895,Q40378,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),397,43415,397,IRD-661,RL-3,CTLNC,TP-2,Chymotrypsin
+897,Q40561,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-41,RL-24,CTTEC,TP-4,Unknown
+898,Q40561,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-265,RL-12,CPQFC,TP-4,Unknown
+899,Q40561,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-292,RL-24,CTTEC,TP-4,Unknown
+900,Q40561,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-419,RL-10,CTKEC,TP-1,Trypsin
+901,Q40561,4097,Nicotiana tabacum (Common tobacco),197,20985,197,IRD-427,RL-12,CPQFC,TP-4,Unknown
+902,Q41435,4113,Solanum tuberosum (Potato),147,15860,147,IRD-250,RL-2,CPLNC,TP-2,Chymotrypsin
+903,Q41435,4113,Solanum tuberosum (Potato),147,15860,147,IRD-499,RL-2,CPLNC,TP-2,Chymotrypsin
+904,Q41488,4113,Solanum tuberosum (Potato),154,16660,154,IRD-52,RL-1,CPRNC,TP-1,Trypsin
+905,Q41488,4113,Solanum tuberosum (Potato),154,16660,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+906,Q41488,4113,Solanum tuberosum (Potato),154,16660,154,IRD-485,RL-1,CPRNC,TP-1,Trypsin
+907,Q41489,4113,Solanum tuberosum (Potato),147,15936,147,IRD-248,RL-2,CPLNC,TP-2,Chymotrypsin
+908,Q41489,4113,Solanum tuberosum (Potato),147,15936,147,IRD-499,RL-2,CPLNC,TP-2,Chymotrypsin
+909,Q43502,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21419,201,IRD-20,RL-10,CTKEC,TP-1,Trypsin
+910,Q43502,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21419,201,IRD-276,RL-46,CPSYC,TP-4,Unknown
+911,Q43502,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21419,201,IRD-418,RL-10,CTKEC,TP-1,Trypsin
+912,Q43502,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21419,201,IRD-471,RL-10,CTKEC,TP-1,Trypsin
+913,Q43502,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),201,21419,201,IRD-505,RL-46,CPSYC,TP-4,Unknown
+914,Q43652,4113,Solanum tuberosum (Potato),154,16868,154,IRD-16,RL-10,CTKEC,TP-1,Trypsin
+915,Q43652,4113,Solanum tuberosum (Potato),154,16868,154,IRD-59,RL-2,CPLNC,TP-2,Chymotrypsin
+916,Q43652,4113,Solanum tuberosum (Potato),154,16868,154,IRD-497,RL-2,CPLNC,TP-2,Chymotrypsin
+917,Q43710,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),223,24697,223,IRD-18,RL-10,CTKEC,TP-1,Trypsin
+918,Q43710,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),223,24697,223,IRD-19,RL-10,CTKEC,TP-1,Trypsin
+919,Q43710,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),223,24697,223,IRD-375,RL-10,CTKEC,TP-1,Trypsin
+921,Q43710,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),223,24697,223,IRD-376,RL-10,CTKEC,TP-1,Trypsin
+922,Q4U5Z3,4072,Capsicum annuum (Bell pepper),220,24228,220,IRD-116,RL-1,CPRNC,TP-1,Trypsin
+923,Q4U5Z3,4072,Capsicum annuum (Bell pepper),220,24228,220,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+925,Q4U5Z3,4072,Capsicum annuum (Bell pepper),220,24228,220,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+926,Q4U5Z3,4072,Capsicum annuum (Bell pepper),220,24228,220,IRD-564,RL-6,CPRYC,TP-1,Trypsin
+927,Q4U5Z4,4072,Capsicum annuum (Bell pepper),204,22343,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+928,Q4U5Z4,4072,Capsicum annuum (Bell pepper),204,22343,204,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+929,Q4U5Z4,4072,Capsicum annuum (Bell pepper),204,22343,204,IRD-135,RL-6,CPRYC,TP-1,Trypsin
+930,Q4U5Z4,4072,Capsicum annuum (Bell pepper),204,22343,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+931,Q4U5Z4,4072,Capsicum annuum (Bell pepper),204,22343,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+932,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-78,RL-1,CPRNC,TP-1,Trypsin
+933,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+934,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+935,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+936,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+937,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-540,RL-1,CPRNC,TP-1,Trypsin
+938,Q4U5Z5,4072,Capsicum annuum (Bell pepper),262,28653,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+939,Q4Z8K2,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+940,Q4Z8K2,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+941,Q4Z8K2,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+942,Q4Z8K2,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+943,Q4Z8K2,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+944,Q4Z8K3,4072,Capsicum annuum (Bell pepper),204,22397,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+945,Q4Z8K3,4072,Capsicum annuum (Bell pepper),204,22397,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+947,Q4Z8K3,4072,Capsicum annuum (Bell pepper),204,22397,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+948,Q4Z8K3,4072,Capsicum annuum (Bell pepper),204,22397,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+949,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-78,RL-1,CPRNC,TP-1,Trypsin
+950,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+951,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+952,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+953,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-446,RL-3,CTLNC,TP-2,Chymotrypsin
+954,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-540,RL-1,CPRNC,TP-1,Trypsin
+955,Q4ZIQ2,4072,Capsicum annuum (Bell pepper),262,28549,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+956,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+957,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+958,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+959,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+960,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+961,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-539,RL-1,CPRNC,TP-1,Trypsin
+962,Q4ZIQ3,4072,Capsicum annuum (Bell pepper),262,28636,262,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+963,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-78,RL-1,CPRNC,TP-1,Trypsin
+964,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+965,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-124,RL-3,CTLNC,TP-2,Chymotrypsin
+966,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+967,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-445,RL-3,CTLNC,TP-2,Chymotrypsin
+968,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-540,RL-1,CPRNC,TP-1,Trypsin
+969,Q4ZIQ4,4072,Capsicum annuum (Bell pepper),262,28495,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+970,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-78,RL-1,CPRNC,TP-1,Trypsin
+971,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+972,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+973,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+974,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+975,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-540,RL-1,CPRNC,TP-1,Trypsin
+976,Q4ZIQ5,4072,Capsicum annuum (Bell pepper),262,28521,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+977,Q4ZIQ6,4072,Capsicum annuum (Bell pepper),204,22478,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+978,Q4ZIQ6,4072,Capsicum annuum (Bell pepper),204,22478,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+980,Q4ZIQ6,4072,Capsicum annuum (Bell pepper),204,22478,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+981,Q4ZIQ6,4072,Capsicum annuum (Bell pepper),204,22478,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+982,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-165,RL-1,CPRNC,TP-1,Trypsin
+984,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-166,RL-1,CPRNC,TP-1,Trypsin
+985,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-168,RL-1,CPRNC,TP-1,Trypsin
+986,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-169,RL-1,CPRNC,TP-1,Trypsin
+987,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-615,RL-1,CPRNC,TP-1,Trypsin
+989,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-616,RL-1,CPRNC,TP-1,Trypsin
+991,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-618,RL-1,CPRNC,TP-1,Trypsin
+992,Q5YLI5,49451,Nicotiana attenuata (Coyote tobacco),395,43755,395,IRD-619,RL-1,CPRNC,TP-1,Trypsin
+993,Q6AVT6,39947,Oryza sativa subsp. japonica (Rice),82,8637,82,IRD-387,RL-12,CPQFC,TP-4,Unknown
+994,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-79,RL-1,CPRNC,TP-1,Trypsin
+995,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-80,RL-1,CPRNC,TP-1,Trypsin
+996,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-176,RL-1,CPRNC,TP-1,Trypsin
+997,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-219,RL-1,CPRNC,TP-1,Trypsin
+998,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-220,RL-1,CPRNC,TP-1,Trypsin
+999,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-508,RL-1,CPRNC,TP-1,Trypsin
+1001,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-576,RL-1,CPRNC,TP-1,Trypsin
+1002,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-587,RL-1,CPRNC,TP-1,Trypsin
+1003,Q6H238,49451,Nicotiana attenuata (Coyote tobacco),410,46496,410,IRD-588,RL-1,CPRNC,TP-1,Trypsin
+1004,Q6H3X6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16293,148,IRD-62,RL-7,CTFNC,TP-2,Chymotrypsin
+1005,Q6H3X6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16293,148,IRD-405,RL-7,CTFNC,TP-2,Chymotrypsin
+1006,Q6H3X6,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),148,16293,148,IRD-456,RL-4,CTREC,TP-1,Trypsin
+1007,Q6JKN9,4112,Solanum nigrum (Black nightshade),152,16433,152,IRD-272,RL-27,CPLYC,TP-2,Chymotrypsin
+1008,Q6JKN9,4112,Solanum nigrum (Black nightshade),152,16433,152,IRD-299,RL-27,CPLYC,TP-2,Chymotrypsin
+1009,Q6JKN9,4112,Solanum nigrum (Black nightshade),152,16433,152,IRD-455,RL-4,CTREC,TP-1,Trypsin
+1010,Q6NQ47,3702,Arabidopsis thaliana (Mouse-ear cress),97,10399,97,IRD-307,RL-27,CPLYC,TP-2,Chymotrypsin
+1011,Q7M1P5,4097,Nicotiana tabacum (Common tobacco),53,5749,53,IRD-152,RL-1,CPRNC,TP-1,Trypsin
+1012,Q7M222,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),146,15637,146,IRD-4,RL-1,CPRNC,TP-1,Trypsin
+1013,Q7M222,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),146,15637,146,IRD-483,RL-1,CPRNC,TP-1,Trypsin
+1014,Q7M222,4081,Solanum lycopersicum (Tomato) (Lycopersicon esculentum),146,15637,146,IRD-524,RL-1,CPRNC,TP-1,Trypsin
+1015,Q84L56,172790,Solanum phureja,154,16641,154,IRD-236,RL-1,CPRNC,TP-1,Trypsin
+1016,Q84L56,172790,Solanum phureja,154,16641,154,IRD-467,RL-9,CTLEC,TP-2,Chymotrypsin
+1017,Q84L56,172790,Solanum phureja,154,16641,154,IRD-487,RL-1,CPRNC,TP-1,Trypsin
+1018,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-165,RL-1,CPRNC,TP-1,Trypsin
+1019,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-166,RL-1,CPRNC,TP-1,Trypsin
+1021,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-167,RL-1,CPRNC,TP-1,Trypsin
+1022,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-168,RL-1,CPRNC,TP-1,Trypsin
+1023,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-169,RL-1,CPRNC,TP-1,Trypsin
+1024,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-615,RL-1,CPRNC,TP-1,Trypsin
+1027,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-616,RL-1,CPRNC,TP-1,Trypsin
+1028,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-617,RL-1,CPRNC,TP-1,Trypsin
+1029,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-618,RL-1,CPRNC,TP-1,Trypsin
+1030,Q84LJ9,49451,Nicotiana attenuata (Coyote tobacco),455,50513,455,IRD-619,RL-1,CPRNC,TP-1,Trypsin
+1031,Q8W2K1,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),152,16413,152,IRD-277,RL-35,CPLFC,TP-2,Chymotrypsin
+1032,Q8W2K1,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),152,16413,152,IRD-436,RL-35,CPLFC,TP-2,Chymotrypsin
+1033,Q8W2K1,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),152,16413,152,IRD-455,RL-4,CTREC,TP-1,Trypsin
+1034,Q8W2K6,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),148,16324,148,IRD-263,RL-8,CTFEC,TP-2,Chymotrypsin
+1035,Q8W2K6,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),148,16324,148,IRD-408,RL-8,CTFEC,TP-2,Chymotrypsin
+1036,Q8W2K6,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),148,16324,148,IRD-457,RL-4,CTREC,TP-1,Trypsin
+1037,Q8W2K6,109975,Solanum americanum (American black nightshade) (Solanum nodiflorum),148,16324,148,IRD-460,RL-4,CTREC,TP-1,Trypsin
+1038,Q9C7G9,3702,Arabidopsis thaliana (Mouse-ear cress),81,8667,81,IRD-307,RL-27,CPLYC,TP-2,Chymotrypsin
+1039,Q9M514,4072,Capsicum annuum (Bell pepper),143,15658,143,IRD-49,RL-1,CPRNC,TP-1,Trypsin
+1040,Q9M514,4072,Capsicum annuum (Bell pepper),143,15658,143,IRD-120,RL-1,CPRNC,TP-1,Trypsin
+1041,Q9M514,4072,Capsicum annuum (Bell pepper),143,15658,143,IRD-693,RL-1,CPRNC,TP-1,Trypsin
+1042,Q9SDL4,4072,Capsicum annuum (Bell pepper),204,22456,204,IRD-105,RL-1,CPRNC,TP-1,Trypsin
+1043,Q9SDL4,4072,Capsicum annuum (Bell pepper),204,22456,204,IRD-106,RL-1,CPRNC,TP-1,Trypsin
+1044,Q9SDL4,4072,Capsicum annuum (Bell pepper),204,22456,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1045,Q9SDL4,4072,Capsicum annuum (Bell pepper),204,22456,204,IRD-550,RL-1,CPRNC,TP-1,Trypsin
+1046,Q9SDL4,4072,Capsicum annuum (Bell pepper),204,22456,204,IRD-563,RL-6,CPRYC,TP-1,Trypsin
+1047,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-160,RL-1,CPRNC,TP-1,Trypsin
+1048,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-162,RL-1,CPRNC,TP-1,Trypsin
+1049,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-163,RL-1,CPRNC,TP-1,Trypsin
+1050,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-164,RL-1,CPRNC,TP-1,Trypsin
+1051,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-241,RL-2,CPLNC,TP-2,Chymotrypsin
+1052,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-440,RL-2,CPLNC,TP-2,Chymotrypsin
+1053,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-579,RL-1,CPRNC,TP-1,Trypsin
+1054,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-580,RL-1,CPRNC,TP-1,Trypsin
+1055,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-581,RL-1,CPRNC,TP-1,Trypsin
+1056,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-611,RL-1,CPRNC,TP-1,Trypsin
+1057,Q9SDW7,35889,Nicotiana glutinosa (Tobacco),390,42785,390,IRD-612,RL-1,CPRNC,TP-1,Trypsin
+1058,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-160,RL-1,CPRNC,TP-1,Trypsin
+1059,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-161,RL-1,CPRNC,TP-1,Trypsin
+1061,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-162,RL-1,CPRNC,TP-1,Trypsin
+1062,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-163,RL-1,CPRNC,TP-1,Trypsin
+1063,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-164,RL-1,CPRNC,TP-1,Trypsin
+1064,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-241,RL-2,CPLNC,TP-2,Chymotrypsin
+1065,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-440,RL-2,CPLNC,TP-2,Chymotrypsin
+1066,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-579,RL-1,CPRNC,TP-1,Trypsin
+1067,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-580,RL-1,CPRNC,TP-1,Trypsin
+1068,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-581,RL-1,CPRNC,TP-1,Trypsin
+1069,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-610,RL-1,CPRNC,TP-1,Trypsin
+1071,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-611,RL-1,CPRNC,TP-1,Trypsin
+1072,Q9SDW8,35889,Nicotiana glutinosa (Tobacco),506,55352,506,IRD-612,RL-1,CPRNC,TP-1,Trypsin
+1073,Q9SQ77,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),281,30737,281,IRD-153,RL-1,CPRNC,TP-1,Trypsin
+1074,Q9SQ77,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),281,30737,281,IRD-229,RL-1,CPRNC,TP-1,Trypsin
+1075,Q9SQ77,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),281,30737,281,IRD-253,RL-3,CTLNC,TP-2,Chymotrypsin
+1076,Q9SQ77,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),281,30737,281,IRD-606,RL-1,CPRNC,TP-1,Trypsin
+1077,Q9SQ77,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),281,30737,281,IRD-653,RL-1,CPRNC,TP-1,Trypsin
+1078,Q9SQ77,4087,Nicotiana alata (Winged tobacco) (Persian tobacco),281,30737,281,IRD-661,RL-3,CTLNC,TP-2,Chymotrypsin
+1080,R0GJB3,81985,Capsella rubella,80,8401,80,IRD-312,RL-27,CPLYC,TP-2,Chymotrypsin
+1081,R7WBW6,37682,Aegilops tauschii (Tausch's goatgrass) (Aegilops squarrosa),78,8314,78,IRD-400,RL-59,CHQYC,TP-4,Unknown
+1082,S8C5T1,192259,Genlisea aurea,93,10125,93,IRD-339,RL-35,CPLFC,TP-2,Chymotrypsin
+1083,S8C608,192259,Genlisea aurea,73,7516,73,IRD-370,RL-56,CYLIC,TP-2,Chymotrypsin
+1084,T1PZ63,4072,Capsicum annuum (Bell pepper),146,15820,146,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+1085,T1PZ63,4072,Capsicum annuum (Bell pepper),146,15820,146,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+1086,T1PZ63,4072,Capsicum annuum (Bell pepper),146,15820,146,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+1087,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1088,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-85,RL-1,CPRNC,TP-1,Trypsin
+1089,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-86,RL-1,CPRNC,TP-1,Trypsin
+1090,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1091,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1092,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-537,RL-1,CPRNC,TP-1,Trypsin
+1093,T1PZ64,4072,Capsicum annuum (Bell pepper),262,28568,262,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1094,T1PZ65,4072,Capsicum annuum (Bell pepper),204,22357,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1095,T1PZ65,4072,Capsicum annuum (Bell pepper),204,22357,204,IRD-102,RL-1,CPRNC,TP-1,Trypsin
+1096,T1PZ65,4072,Capsicum annuum (Bell pepper),204,22357,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1097,T1PZ65,4072,Capsicum annuum (Bell pepper),204,22357,204,IRD-547,RL-1,CPRNC,TP-1,Trypsin
+1098,T1PZ65,4072,Capsicum annuum (Bell pepper),204,22357,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1099,T1PZ68,4072,Capsicum annuum (Bell pepper),204,22374,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1100,T1PZ68,4072,Capsicum annuum (Bell pepper),204,22374,204,IRD-103,RL-1,CPRNC,TP-1,Trypsin
+1101,T1PZ68,4072,Capsicum annuum (Bell pepper),204,22374,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1102,T1PZ68,4072,Capsicum annuum (Bell pepper),204,22374,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1103,T1PZ68,4072,Capsicum annuum (Bell pepper),204,22374,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1104,T1PZ72,4072,Capsicum annuum (Bell pepper),204,22462,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1105,T1PZ72,4072,Capsicum annuum (Bell pepper),204,22462,204,IRD-103,RL-1,CPRNC,TP-1,Trypsin
+1106,T1PZ72,4072,Capsicum annuum (Bell pepper),204,22462,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1107,T1PZ72,4072,Capsicum annuum (Bell pepper),204,22462,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1108,T1PZ72,4072,Capsicum annuum (Bell pepper),204,22462,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1109,T1PZ73,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1110,T1PZ73,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-100,RL-1,CPRNC,TP-1,Trypsin
+1111,T1PZ73,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1112,T1PZ73,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1113,T1PZ73,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1114,T1PZ75,4072,Capsicum annuum (Bell pepper),204,22318,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1115,T1PZ75,4072,Capsicum annuum (Bell pepper),204,22318,204,IRD-104,RL-1,CPRNC,TP-1,Trypsin
+1116,T1PZ75,4072,Capsicum annuum (Bell pepper),204,22318,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1117,T1PZ75,4072,Capsicum annuum (Bell pepper),204,22318,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1118,T1PZ75,4072,Capsicum annuum (Bell pepper),204,22318,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1119,T1PZ76,4072,Capsicum annuum (Bell pepper),204,22264,204,IRD-97,RL-1,CPRNC,TP-1,Trypsin
+1120,T1PZ76,4072,Capsicum annuum (Bell pepper),204,22264,204,IRD-98,RL-1,CPRNC,TP-1,Trypsin
+1121,T1PZ76,4072,Capsicum annuum (Bell pepper),204,22264,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1122,T1PZ76,4072,Capsicum annuum (Bell pepper),204,22264,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1123,T1PZ76,4072,Capsicum annuum (Bell pepper),204,22264,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1124,T1PZ78,4072,Capsicum annuum (Bell pepper),204,22365,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1125,T1PZ78,4072,Capsicum annuum (Bell pepper),204,22365,204,IRD-108,RL-1,CPRNC,TP-1,Trypsin
+1126,T1PZ78,4072,Capsicum annuum (Bell pepper),204,22365,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1127,T1PZ78,4072,Capsicum annuum (Bell pepper),204,22365,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1128,T1PZ78,4072,Capsicum annuum (Bell pepper),204,22365,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1129,T1PZ84,4072,Capsicum annuum (Bell pepper),146,15942,146,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1130,T1PZ84,4072,Capsicum annuum (Bell pepper),146,15942,146,IRD-147,RL-28,CTPNC,TP-4,Unknown
+1131,T1PZ84,4072,Capsicum annuum (Bell pepper),146,15942,146,IRD-316,RL-28,CTPNC,TP-4,Unknown
+1132,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-82,RL-1,CPRNC,TP-1,Trypsin
+1133,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1134,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1135,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1136,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1137,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1138,T1PZ85,4072,Capsicum annuum (Bell pepper),262,28727,262,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1139,T1PZ86,4072,Capsicum annuum (Bell pepper),204,22379,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1140,T1PZ86,4072,Capsicum annuum (Bell pepper),204,22379,204,IRD-108,RL-1,CPRNC,TP-1,Trypsin
+1141,T1PZ86,4072,Capsicum annuum (Bell pepper),204,22379,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1142,T1PZ86,4072,Capsicum annuum (Bell pepper),204,22379,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1143,T1PZ86,4072,Capsicum annuum (Bell pepper),204,22379,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1144,T1PZ88,4072,Capsicum annuum (Bell pepper),146,15850,146,IRD-48,RL-1,CPRNC,TP-1,Trypsin
+1145,T1PZ88,4072,Capsicum annuum (Bell pepper),146,15850,146,IRD-128,RL-3,CTLNC,TP-2,Chymotrypsin
+1146,T1PZ88,4072,Capsicum annuum (Bell pepper),146,15850,146,IRD-557,RL-3,CTLNC,TP-2,Chymotrypsin
+1147,T1PZ89,4072,Capsicum annuum (Bell pepper),204,22310,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1148,T1PZ89,4072,Capsicum annuum (Bell pepper),204,22310,204,IRD-92,RL-1,CPRNC,TP-1,Trypsin
+1149,T1PZ89,4072,Capsicum annuum (Bell pepper),204,22310,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1150,T1PZ89,4072,Capsicum annuum (Bell pepper),204,22310,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1151,T1PZ89,4072,Capsicum annuum (Bell pepper),204,22310,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1152,T1PZ90,4072,Capsicum annuum (Bell pepper),204,22362,204,IRD-103,RL-1,CPRNC,TP-1,Trypsin
+1153,T1PZ90,4072,Capsicum annuum (Bell pepper),204,22362,204,IRD-110,RL-1,CPRNC,TP-1,Trypsin
+1154,T1PZ90,4072,Capsicum annuum (Bell pepper),204,22362,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1155,T1PZ90,4072,Capsicum annuum (Bell pepper),204,22362,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1156,T1PZ90,4072,Capsicum annuum (Bell pepper),204,22362,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1157,T1PZ91,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1158,T1PZ91,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1159,T1PZ91,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1160,T1PZ91,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1161,T1PZ91,4072,Capsicum annuum (Bell pepper),204,22348,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1162,T1PZA9,4072,Capsicum annuum (Bell pepper),146,16040,146,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1163,T1PZA9,4072,Capsicum annuum (Bell pepper),146,16040,146,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1164,T1PZA9,4072,Capsicum annuum (Bell pepper),146,16040,146,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1165,T1PZB0,4072,Capsicum annuum (Bell pepper),146,15844,146,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1166,T1PZB0,4072,Capsicum annuum (Bell pepper),146,15844,146,IRD-129,RL-3,CTLNC,TP-2,Chymotrypsin
+1167,T1PZB0,4072,Capsicum annuum (Bell pepper),146,15844,146,IRD-447,RL-3,CTLNC,TP-2,Chymotrypsin
+1168,T1PZB1,4072,Capsicum annuum (Bell pepper),204,22276,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1169,T1PZB1,4072,Capsicum annuum (Bell pepper),204,22276,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1170,T1PZB1,4072,Capsicum annuum (Bell pepper),204,22276,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1171,T1PZB1,4072,Capsicum annuum (Bell pepper),204,22276,204,IRD-479,RL-1,CPRNC,TP-1,Trypsin
+1172,T1PZB1,4072,Capsicum annuum (Bell pepper),204,22276,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1173,T1PZB2,4072,Capsicum annuum (Bell pepper),204,22272,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1174,T1PZB2,4072,Capsicum annuum (Bell pepper),204,22272,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1175,T1PZB2,4072,Capsicum annuum (Bell pepper),204,22272,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1176,T1PZB2,4072,Capsicum annuum (Bell pepper),204,22272,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1177,T1PZB2,4072,Capsicum annuum (Bell pepper),204,22272,204,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+1178,T1PZB3,4072,Capsicum annuum (Bell pepper),204,22347,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1179,T1PZB3,4072,Capsicum annuum (Bell pepper),204,22347,204,IRD-96,RL-1,CPRNC,TP-1,Trypsin
+1180,T1PZB3,4072,Capsicum annuum (Bell pepper),204,22347,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1181,T1PZB3,4072,Capsicum annuum (Bell pepper),204,22347,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1182,T1PZB3,4072,Capsicum annuum (Bell pepper),204,22347,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1183,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1184,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-89,RL-1,CPRNC,TP-1,Trypsin
+1185,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+1186,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1187,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1188,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+1189,T1PZB4,4072,Capsicum annuum (Bell pepper),262,28563,262,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1190,T1PZB5,4072,Capsicum annuum (Bell pepper),204,22273,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1191,T1PZB5,4072,Capsicum annuum (Bell pepper),204,22273,204,IRD-95,RL-1,CPRNC,TP-1,Trypsin
+1192,T1PZB5,4072,Capsicum annuum (Bell pepper),204,22273,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1193,T1PZB5,4072,Capsicum annuum (Bell pepper),204,22273,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1194,T1PZB5,4072,Capsicum annuum (Bell pepper),204,22273,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1195,T1PZB6,4072,Capsicum annuum (Bell pepper),204,22300,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1196,T1PZB6,4072,Capsicum annuum (Bell pepper),204,22300,204,IRD-114,RL-1,CPRNC,TP-1,Trypsin
+1197,T1PZB6,4072,Capsicum annuum (Bell pepper),204,22300,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1198,T1PZB6,4072,Capsicum annuum (Bell pepper),204,22300,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1199,T1PZB6,4072,Capsicum annuum (Bell pepper),204,22300,204,IRD-554,RL-3,CTLNC,TP-2,Chymotrypsin
+1200,T1PZB7,4072,Capsicum annuum (Bell pepper),204,22164,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1201,T1PZB7,4072,Capsicum annuum (Bell pepper),204,22164,204,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+1202,T1PZB7,4072,Capsicum annuum (Bell pepper),204,22164,204,IRD-136,RL-6,CPRYC,TP-1,Trypsin
+1203,T1PZB7,4072,Capsicum annuum (Bell pepper),204,22164,204,IRD-404,RL-6,CPRYC,TP-1,Trypsin
+1204,T1PZB7,4072,Capsicum annuum (Bell pepper),204,22164,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1205,T1PZE6,4072,Capsicum annuum (Bell pepper),160,17586,160,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1206,T1PZE6,4072,Capsicum annuum (Bell pepper),160,17586,160,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1207,T1PZE6,4072,Capsicum annuum (Bell pepper),160,17586,160,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1209,T1PZE8,4072,Capsicum annuum (Bell pepper),146,16024,146,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1210,T1PZE8,4072,Capsicum annuum (Bell pepper),146,16024,146,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1211,T1PZE8,4072,Capsicum annuum (Bell pepper),146,16024,146,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+1212,T1PZF0,4072,Capsicum annuum (Bell pepper),204,22262,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1213,T1PZF0,4072,Capsicum annuum (Bell pepper),204,22262,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1214,T1PZF0,4072,Capsicum annuum (Bell pepper),204,22262,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1215,T1PZF0,4072,Capsicum annuum (Bell pepper),204,22262,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1216,T1PZF0,4072,Capsicum annuum (Bell pepper),204,22262,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1217,T1PZF2,4072,Capsicum annuum (Bell pepper),204,22330,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1218,T1PZF2,4072,Capsicum annuum (Bell pepper),204,22330,204,IRD-103,RL-1,CPRNC,TP-1,Trypsin
+1219,T1PZF2,4072,Capsicum annuum (Bell pepper),204,22330,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1220,T1PZF2,4072,Capsicum annuum (Bell pepper),204,22330,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1221,T1PZF2,4072,Capsicum annuum (Bell pepper),204,22330,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1222,T1PZF5,4072,Capsicum annuum (Bell pepper),204,22334,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1223,T1PZF5,4072,Capsicum annuum (Bell pepper),204,22334,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1224,T1PZF5,4072,Capsicum annuum (Bell pepper),204,22334,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1225,T1PZF5,4072,Capsicum annuum (Bell pepper),204,22334,204,IRD-539,RL-1,CPRNC,TP-1,Trypsin
+1226,T1PZF5,4072,Capsicum annuum (Bell pepper),204,22334,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1227,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-91,RL-1,CPRNC,TP-1,Trypsin
+1228,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+1229,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-125,RL-3,CTLNC,TP-2,Chymotrypsin
+1230,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-143,RL-11,CPKNC,TP-1,Trypsin
+1231,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-444,RL-3,CTLNC,TP-2,Chymotrypsin
+1232,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-544,RL-1,CPRNC,TP-1,Trypsin
+1233,T1PZF6,4072,Capsicum annuum (Bell pepper),262,28410,262,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+1234,T1PZF7,4072,Capsicum annuum (Bell pepper),204,22366,204,IRD-112,RL-1,CPRNC,TP-1,Trypsin
+1235,T1PZF7,4072,Capsicum annuum (Bell pepper),204,22366,204,IRD-113,RL-1,CPRNC,TP-1,Trypsin
+1236,T1PZF7,4072,Capsicum annuum (Bell pepper),204,22366,204,IRD-122,RL-3,CTLNC,TP-2,Chymotrypsin
+1237,T1PZF7,4072,Capsicum annuum (Bell pepper),204,22366,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1238,T1PZF7,4072,Capsicum annuum (Bell pepper),204,22366,204,IRD-556,RL-3,CTLNC,TP-2,Chymotrypsin
+1239,T1PZF8,4072,Capsicum annuum (Bell pepper),204,22351,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1240,T1PZF8,4072,Capsicum annuum (Bell pepper),204,22351,204,IRD-111,RL-1,CPRNC,TP-1,Trypsin
+1241,T1PZF8,4072,Capsicum annuum (Bell pepper),204,22351,204,IRD-126,RL-3,CTLNC,TP-2,Chymotrypsin
+1242,T1PZF8,4072,Capsicum annuum (Bell pepper),204,22351,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1243,T1PZF8,4072,Capsicum annuum (Bell pepper),204,22351,204,IRD-553,RL-3,CTLNC,TP-2,Chymotrypsin
+1244,T1PZF9,4072,Capsicum annuum (Bell pepper),204,22302,204,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1245,T1PZF9,4072,Capsicum annuum (Bell pepper),204,22302,204,IRD-115,RL-1,CPRNC,TP-1,Trypsin
+1246,T1PZF9,4072,Capsicum annuum (Bell pepper),204,22302,204,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+1247,T1PZF9,4072,Capsicum annuum (Bell pepper),204,22302,204,IRD-546,RL-1,CPRNC,TP-1,Trypsin
+1248,T1PZF9,4072,Capsicum annuum (Bell pepper),204,22302,204,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+1249,T1PZJ5,4072,Capsicum annuum (Bell pepper),146,15929,146,IRD-93,RL-1,CPRNC,TP-1,Trypsin
+1250,T1PZJ5,4072,Capsicum annuum (Bell pepper),146,15929,146,IRD-130,RL-3,CTLNC,TP-2,Chymotrypsin
+1251,T1PZJ5,4072,Capsicum annuum (Bell pepper),146,15929,146,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+1252,T1PZJ7,4072,Capsicum annuum (Bell pepper),204,22437,204,IRD-103,RL-1,CPRNC,TP-1,Trypsin
+1253,T1PZJ7,4072,Capsicum annuum (Bell pepper),204,22437,204,IRD-127,RL-3,CTLNC,TP-2,Chymotrypsin
+1254,T1PZJ7,4072,Capsicum annuum (Bell pepper),204,22437,204,IRD-149,RL-43,CPRDC,TP-1,Trypsin
+1255,T1PZJ7,4072,Capsicum annuum (Bell pepper),204,22437,204,IRD-541,RL-1,CPRNC,TP-1,Trypsin
+1256,T1PZJ7,4072,Capsicum annuum (Bell pepper),204,22437,204,IRD-555,RL-3,CTLNC,TP-2,Chymotrypsin
+1257,T1PZJ8,4072,Capsicum annuum (Bell pepper),204,22256,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1258,T1PZJ8,4072,Capsicum annuum (Bell pepper),204,22256,204,IRD-121,RL-3,CTLNC,TP-2,Chymotrypsin
+1259,T1PZJ8,4072,Capsicum annuum (Bell pepper),204,22256,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1260,T1PZJ8,4072,Capsicum annuum (Bell pepper),204,22256,204,IRD-551,RL-3,CTLNC,TP-2,Chymotrypsin
+1261,T1PZJ8,4072,Capsicum annuum (Bell pepper),204,22256,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+1262,T1PZK0,4072,Capsicum annuum (Bell pepper),204,22420,204,IRD-101,RL-1,CPRNC,TP-1,Trypsin
+1263,T1PZK0,4072,Capsicum annuum (Bell pepper),204,22420,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1265,T1PZK0,4072,Capsicum annuum (Bell pepper),204,22420,204,IRD-559,RL-6,CPRYC,TP-1,Trypsin
+1266,T1PZK0,4072,Capsicum annuum (Bell pepper),204,22420,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+1267,T1PZK2,4072,Capsicum annuum (Bell pepper),204,22313,204,IRD-83,RL-1,CPRNC,TP-1,Trypsin
+1268,T1PZK2,4072,Capsicum annuum (Bell pepper),204,22313,204,IRD-107,RL-1,CPRNC,TP-1,Trypsin
+1269,T1PZK2,4072,Capsicum annuum (Bell pepper),204,22313,204,IRD-139,RL-6,CPRYC,TP-1,Trypsin
+1270,T1PZK2,4072,Capsicum annuum (Bell pepper),204,22313,204,IRD-548,RL-1,CPRNC,TP-1,Trypsin
+1271,T1PZK2,4072,Capsicum annuum (Bell pepper),204,22313,204,IRD-562,RL-6,CPRYC,TP-1,Trypsin
+1272,T1PZK4,4072,Capsicum annuum (Bell pepper),204,22442,204,IRD-60,RL-3,CTLNC,TP-2,Chymotrypsin
+1273,T1PZK4,4072,Capsicum annuum (Bell pepper),204,22442,204,IRD-103,RL-1,CPRNC,TP-1,Trypsin
+1274,T1PZK4,4072,Capsicum annuum (Bell pepper),204,22442,204,IRD-117,RL-1,CPRNC,TP-1,Trypsin
+1275,T1PZK4,4072,Capsicum annuum (Bell pepper),204,22442,204,IRD-549,RL-1,CPRNC,TP-1,Trypsin
+1276,T1PZK4,4072,Capsicum annuum (Bell pepper),204,22442,204,IRD-552,RL-3,CTLNC,TP-2,Chymotrypsin
+1277,T1PZK7,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-84,RL-1,CPRNC,TP-1,Trypsin
+1278,T1PZK7,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-94,RL-1,CPRNC,TP-1,Trypsin
+1279,T1PZK7,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1280,T1PZK7,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-536,RL-1,CPRNC,TP-1,Trypsin
+1281,T1PZK7,4072,Capsicum annuum (Bell pepper),204,22332,204,IRD-561,RL-6,CPRYC,TP-1,Trypsin
+1282,T1PZL0,4072,Capsicum annuum (Bell pepper),204,22376,204,IRD-90,RL-1,CPRNC,TP-1,Trypsin
+1283,T1PZL0,4072,Capsicum annuum (Bell pepper),204,22376,204,IRD-99,RL-1,CPRNC,TP-1,Trypsin
+1284,T1PZL0,4072,Capsicum annuum (Bell pepper),204,22376,204,IRD-133,RL-6,CPRYC,TP-1,Trypsin
+1285,T1PZL0,4072,Capsicum annuum (Bell pepper),204,22376,204,IRD-545,RL-1,CPRNC,TP-1,Trypsin
+1286,T1PZL0,4072,Capsicum annuum (Bell pepper),204,22376,204,IRD-560,RL-6,CPRYC,TP-1,Trypsin
+1287,W5ADU4,4565,Triticum aestivum (Wheat),78,8204,78,IRD-329,RL-33,CPQYC,TP-4,Unknown
+1288,W9RZD9,981085,Morus notabilis,117,12798,117,IRD-681,RL-33,CPQYC,TP-4,Unknown

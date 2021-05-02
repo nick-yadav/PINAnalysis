@@ -1,0 +1,783 @@
+ID,DomainID,Organism
+1,IRD-1,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+2,IRD-2,Solanum nigrum (Black nightshade)
+3,IRD-3,Solanum nigrum (Black nightshade)
+4,IRD-4,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+5,IRD-5,Nicotiana tabacum (Common tobacco)
+6,IRD-6,Nicotiana tabacum (Common tobacco)
+7,IRD-7,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+8,IRD-8,Solanum tuberosum (Potato)
+9,IRD-9,Solanum tuberosum (Potato)
+10,IRD-10,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+10,IRD-10,Capsicum annuum (Bell pepper)
+11,IRD-11,Capsicum baccatum (Peruvian pepper)
+12,IRD-12,Capsicum annuum (Bell pepper)
+13,IRD-13,Solanum tuberosum (Potato)
+14,IRD-14,Capsicum annuum (Bell pepper)
+14,IRD-14,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+15,IRD-15,Capsicum annuum (Bell pepper)
+16,IRD-16,Solanum tuberosum (Potato)
+17,IRD-17,Olea europaea (Common olive)
+18,IRD-18,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+19,IRD-19,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+20,IRD-20,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+21,IRD-21,Solanum tuberosum (Potato)
+22,IRD-22,Solanum tuberosum (Potato)
+23,IRD-23,Solanum tuberosum (Potato)
+24,IRD-24,Solanum tuberosum (Potato)
+25,IRD-25,Solanum tuberosum (Potato)
+26,IRD-26,Solanum chacoense (Chaco potato)
+27,IRD-27,Solanum tuberosum (Potato)
+28,IRD-28,Capsicum annuum (Bell pepper)
+29,IRD-29,Capsicum baccatum (Peruvian pepper)
+30,IRD-30,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+31,IRD-31,Solanum tuberosum (Potato)
+32,IRD-32,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+33,IRD-33,Solanum tuberosum (Potato)
+34,IRD-34,Solanum chacoense (Chaco potato)
+35,IRD-35,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+36,IRD-36,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+37,IRD-37,Capsicum baccatum (Peruvian pepper)
+38,IRD-38,Nicotiana tabacum (Common tobacco)
+39,IRD-39,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+40,IRD-40,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+41,IRD-41,Nicotiana tabacum (Common tobacco)
+41,IRD-41,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+42,IRD-42,Nicotiana attenuata (Coyote tobacco)
+43,IRD-43,Capsicum annuum (Bell pepper)
+43,IRD-43,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+44,IRD-44,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+45,IRD-45,Capsicum baccatum (Peruvian pepper)
+46,IRD-46,Solanum tuberosum (Potato)
+47,IRD-47,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+48,IRD-48,Capsicum annuum (Bell pepper)
+49,IRD-49,Capsicum annuum (Bell pepper)
+50,IRD-50,Capsicum annuum (Bell pepper)
+51,IRD-51,Solanum melongena (Eggplant) (Aubergine)
+52,IRD-52,Solanum tuberosum (Potato)
+53,IRD-53,Solanum tuberosum (Potato)
+54,IRD-54,Solanum tuberosum (Potato)
+55,IRD-55,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+56,IRD-56,Solanum tuberosum (Potato)
+57,IRD-57,Solanum tuberosum (Potato)
+58,IRD-58,Solanum tuberosum (Potato)
+58,IRD-58,Solanum chacoense (Chaco potato)
+59,IRD-59,Solanum tuberosum (Potato)
+60,IRD-60,Capsicum annuum (Bell pepper)
+61,IRD-61,Nicotiana obtusifolia
+62,IRD-62,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+63,IRD-63,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+64,IRD-64,Solanum tuberosum (Potato)
+65,IRD-65,Solanum tuberosum (Potato)
+66,IRD-66,Solanum tuberosum (Potato)
+67,IRD-67,Capsicum annuum (Bell pepper)
+68,IRD-68,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+69,IRD-69,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+70,IRD-70,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+72,IRD-72,Capsicum baccatum (Peruvian pepper)
+73,IRD-73,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+74,IRD-74,Nicotiana tabacum (Common tobacco)
+75,IRD-75,Nicotiana tabacum (Common tobacco)
+76,IRD-76,Nicotiana tabacum (Common tobacco)
+77,IRD-77,Nicotiana repanda
+78,IRD-78,Capsicum annuum (Bell pepper)
+79,IRD-79,Nicotiana attenuata (Coyote tobacco)
+80,IRD-80,Nicotiana attenuata (Coyote tobacco)
+81,IRD-81,Nicotiana spegazzinii
+82,IRD-82,Capsicum annuum (Bell pepper)
+83,IRD-83,Capsicum annuum (Bell pepper)
+83,IRD-83,Capsicum baccatum (Peruvian pepper)
+84,IRD-84,Capsicum annuum (Bell pepper)
+85,IRD-85,Capsicum annuum (Bell pepper)
+86,IRD-86,Capsicum annuum (Bell pepper)
+87,IRD-87,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+88,IRD-88,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+89,IRD-89,Capsicum annuum (Bell pepper)
+90,IRD-90,Capsicum annuum (Bell pepper)
+91,IRD-91,Capsicum annuum (Bell pepper)
+92,IRD-92,Capsicum annuum (Bell pepper)
+93,IRD-93,Capsicum annuum (Bell pepper)
+93,IRD-93,Capsicum baccatum (Peruvian pepper)
+94,IRD-94,Capsicum annuum (Bell pepper)
+95,IRD-95,Capsicum annuum (Bell pepper)
+96,IRD-96,Capsicum annuum (Bell pepper)
+97,IRD-97,Capsicum annuum (Bell pepper)
+98,IRD-98,Capsicum annuum (Bell pepper)
+99,IRD-99,Capsicum annuum (Bell pepper)
+100,IRD-100,Capsicum annuum (Bell pepper)
+101,IRD-101,Capsicum annuum (Bell pepper)
+102,IRD-102,Capsicum annuum (Bell pepper)
+103,IRD-103,Capsicum annuum (Bell pepper)
+104,IRD-104,Capsicum annuum (Bell pepper)
+105,IRD-105,Capsicum annuum (Bell pepper)
+106,IRD-106,Capsicum annuum (Bell pepper)
+107,IRD-107,Capsicum annuum (Bell pepper)
+108,IRD-108,Capsicum annuum (Bell pepper)
+109,IRD-109,Capsicum annuum (Bell pepper)
+110,IRD-110,Capsicum annuum (Bell pepper)
+111,IRD-111,Capsicum annuum (Bell pepper)
+112,IRD-112,Capsicum annuum (Bell pepper)
+113,IRD-113,Capsicum annuum (Bell pepper)
+114,IRD-114,Capsicum annuum (Bell pepper)
+115,IRD-115,Capsicum annuum (Bell pepper)
+116,IRD-116,Capsicum annuum (Bell pepper)
+117,IRD-117,Capsicum annuum (Bell pepper)
+118,IRD-118,Capsicum annuum (Bell pepper)
+119,IRD-119,Capsicum baccatum (Peruvian pepper)
+120,IRD-120,Capsicum annuum (Bell pepper)
+121,IRD-121,Capsicum annuum (Bell pepper)
+122,IRD-122,Capsicum annuum (Bell pepper)
+122,IRD-122,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+123,IRD-123,Capsicum annuum (Bell pepper)
+124,IRD-124,Capsicum annuum (Bell pepper)
+125,IRD-125,Capsicum annuum (Bell pepper)
+126,IRD-126,Capsicum annuum (Bell pepper)
+127,IRD-127,Capsicum annuum (Bell pepper)
+128,IRD-128,Capsicum annuum (Bell pepper)
+129,IRD-129,Capsicum annuum (Bell pepper)
+130,IRD-130,Capsicum annuum (Bell pepper)
+131,IRD-131,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+132,IRD-132,Capsicum annuum (Bell pepper)
+133,IRD-133,Capsicum annuum (Bell pepper)
+133,IRD-133,Capsicum baccatum (Peruvian pepper)
+134,IRD-134,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+135,IRD-135,Capsicum annuum (Bell pepper)
+136,IRD-136,Capsicum annuum (Bell pepper)
+137,IRD-137,Capsicum annuum (Bell pepper)
+138,IRD-138,Capsicum annuum (Bell pepper)
+139,IRD-139,Capsicum annuum (Bell pepper)
+140,IRD-140,Capsicum baccatum (Peruvian pepper)
+141,IRD-141,Capsicum annuum (Bell pepper)
+142,IRD-142,Capsicum baccatum (Peruvian pepper)
+143,IRD-143,Capsicum annuum (Bell pepper)
+143,IRD-143,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+144,IRD-144,Capsicum baccatum (Peruvian pepper)
+145,IRD-145,Capsicum annuum (Bell pepper)
+146,IRD-146,Capsicum annuum (Bell pepper)
+147,IRD-147,Capsicum annuum (Bell pepper)
+149,IRD-149,Capsicum annuum (Bell pepper)
+150,IRD-150,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+151,IRD-151,Solanum tuberosum (Potato)
+152,IRD-152,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+152,IRD-152,Nicotiana tabacum (Common tobacco)
+153,IRD-153,Nicotiana alata (Winged tobacco) (Persian tobacco)
+153,IRD-153,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+153,IRD-153,Nicotiana tabacum (Common tobacco)
+154,IRD-154,Nicotiana obtusifolia
+155,IRD-155,Nicotiana obtusifolia
+156,IRD-156,Nicotiana obtusifolia
+157,IRD-157,Nicotiana obtusifolia
+158,IRD-158,Nicotiana obtusifolia
+159,IRD-159,Nicotiana obtusifolia
+160,IRD-160,Nicotiana glutinosa (Tobacco)
+161,IRD-161,Nicotiana glutinosa (Tobacco)
+162,IRD-162,Nicotiana glutinosa (Tobacco)
+163,IRD-163,Nicotiana glutinosa (Tobacco)
+164,IRD-164,Nicotiana glutinosa (Tobacco)
+165,IRD-165,Nicotiana attenuata (Coyote tobacco)
+166,IRD-166,Nicotiana attenuata (Coyote tobacco)
+167,IRD-167,Nicotiana attenuata (Coyote tobacco)
+168,IRD-168,Nicotiana attenuata (Coyote tobacco)
+169,IRD-169,Nicotiana attenuata (Coyote tobacco)
+169,IRD-169,Nicotiana pauciflora
+170,IRD-170,Nicotiana rustica (Aztec tobacco)
+171,IRD-171,Nicotiana rustica (Aztec tobacco)
+172,IRD-172,Nicotiana tabacum (Common tobacco)
+172,IRD-172,Nicotiana rustica (Aztec tobacco)
+173,IRD-173,Nicotiana rustica (Aztec tobacco)
+174,IRD-174,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+175,IRD-175,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+176,IRD-176,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+176,IRD-176,Nicotiana corymbosa
+176,IRD-176,Nicotiana acuminata (Acuminate tobacco)
+176,IRD-176,Nicotiana attenuata (Coyote tobacco)
+177,IRD-177,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+178,IRD-178,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+179,IRD-179,Nicotiana acuminata (Acuminate tobacco)
+180,IRD-180,Nicotiana acuminata (Acuminate tobacco)
+181,IRD-181,Nicotiana acuminata (Acuminate tobacco)
+182,IRD-182,Nicotiana acuminata (Acuminate tobacco)
+183,IRD-183,Nicotiana acuminata (Acuminate tobacco)
+184,IRD-184,Nicotiana tabacum (Common tobacco)
+185,IRD-185,Nicotiana clevelandii (Wild tobacco)
+185,IRD-185,Nicotiana quadrivalvis
+186,IRD-186,Nicotiana clevelandii (Wild tobacco)
+186,IRD-186,Nicotiana quadrivalvis
+187,IRD-187,Nicotiana clevelandii (Wild tobacco)
+188,IRD-188,Nicotiana clevelandii (Wild tobacco)
+189,IRD-189,Nicotiana clevelandii (Wild tobacco)
+189,IRD-189,Nicotiana quadrivalvis
+190,IRD-190,Nicotiana quadrivalvis
+191,IRD-191,Nicotiana alata (Winged tobacco) (Persian tobacco)
+192,IRD-192,Nicotiana alata (Winged tobacco) (Persian tobacco)
+193,IRD-193,Nicotiana pauciflora
+194,IRD-194,Nicotiana pauciflora
+195,IRD-195,Nicotiana pauciflora
+196,IRD-196,Nicotiana miersii
+196,IRD-196,Nicotiana pauciflora
+197,IRD-197,Nicotiana miersii
+198,IRD-198,Nicotiana miersii
+199,IRD-199,Nicotiana miersii
+199,IRD-199,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+200,IRD-200,Nicotiana miersii
+201,IRD-201,Nicotiana tabacum (Common tobacco)
+202,IRD-202,Nicotiana tabacum (Common tobacco)
+203,IRD-203,Nicotiana tabacum (Common tobacco)
+204,IRD-204,Nicotiana tabacum (Common tobacco)
+205,IRD-205,Nicotiana tabacum (Common tobacco)
+206,IRD-206,Nicotiana tabacum (Common tobacco)
+207,IRD-207,Nicotiana tabacum (Common tobacco)
+208,IRD-208,Nicotiana tabacum (Common tobacco)
+209,IRD-209,Nicotiana tabacum (Common tobacco)
+210,IRD-210,Nicotiana tabacum (Common tobacco)
+211,IRD-211,Nicotiana benthamiana
+211,IRD-211,Nicotiana umbratica
+211,IRD-211,Nicotiana simulans
+211,IRD-211,Nicotiana occidentalis subsp. hesperis
+212,IRD-212,Nicotiana occidentalis subsp. hesperis
+213,IRD-213,Nicotiana occidentalis subsp. hesperis
+214,IRD-214,Nicotiana attenuata (Coyote tobacco)
+215,IRD-215,Nicotiana megalosiphon
+216,IRD-216,Nicotiana megalosiphon
+217,IRD-217,Nicotiana simulans
+217,IRD-217,Nicotiana megalosiphon
+218,IRD-218,Nicotiana simulans
+219,IRD-219,Nicotiana attenuata (Coyote tobacco)
+220,IRD-220,Nicotiana attenuata (Coyote tobacco)
+221,IRD-221,Nicotiana linearis
+222,IRD-222,Nicotiana linearis
+223,IRD-223,Nicotiana linearis
+224,IRD-224,Nicotiana linearis
+225,IRD-225,Nicotiana umbratica
+226,IRD-226,Nicotiana umbratica
+227,IRD-227,Nicotiana spegazzinii
+228,IRD-228,Nicotiana spegazzinii
+229,IRD-229,Nicotiana alata (Winged tobacco) (Persian tobacco)
+230,IRD-230,Nicotiana benthamiana
+231,IRD-231,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+232,IRD-232,Capsicum annuum (Bell pepper)
+233,IRD-233,Capsicum annuum (Bell pepper)
+234,IRD-234,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+235,IRD-235,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+236,IRD-236,Solanum phureja
+237,IRD-237,Solanum tuberosum (Potato)
+238,IRD-238,Solanum tuberosum (Potato)
+239,IRD-239,Solanum tuberosum (Potato)
+240,IRD-240,Solanum tuberosum (Potato)
+241,IRD-241,Nicotiana glutinosa (Tobacco)
+242,IRD-242,Nicotiana tabacum (Common tobacco)
+243,IRD-243,Nicotiana tabacum (Common tobacco)
+244,IRD-244,Nicotiana repanda
+245,IRD-245,Nicotiana repanda
+246,IRD-246,Nicotiana repanda
+247,IRD-247,Solanum tuberosum (Potato)
+248,IRD-248,Solanum tuberosum (Potato)
+249,IRD-249,Solanum chacoense (Chaco potato)
+250,IRD-250,Solanum tuberosum (Potato)
+251,IRD-251,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+252,IRD-252,Nicotiana rustica (Aztec tobacco)
+253,IRD-253,Nicotiana alata (Winged tobacco) (Persian tobacco)
+254,IRD-254,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+254,IRD-254,Nicotiana tabacum (Common tobacco)
+255,IRD-255,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+255,IRD-255,Nicotiana tabacum (Common tobacco)
+256,IRD-256,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+257,IRD-257,Nicotiana occidentalis subsp. hesperis
+258,IRD-258,Nicotiana megalosiphon
+259,IRD-259,Nicotiana simulans
+260,IRD-260,Nicotiana umbratica
+261,IRD-261,Nicotiana benthamiana
+262,IRD-262,Nicotiana cavicola
+263,IRD-263,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+264,IRD-264,Solanum nigrum (Black nightshade)
+265,IRD-265,Nicotiana tabacum (Common tobacco)
+266,IRD-266,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+267,IRD-267,Nicotiana attenuata (Coyote tobacco)
+268,IRD-268,Nicotiana tabacum (Common tobacco)
+269,IRD-269,Nicotiana occidentalis subsp. hesperis
+270,IRD-270,Nicotiana repanda
+271,IRD-271,Nicotiana spegazzinii
+272,IRD-272,Solanum nigrum (Black nightshade)
+273,IRD-273,Capsicum baccatum (Peruvian pepper)
+274,IRD-274,Solanum tuberosum (Potato)
+275,IRD-275,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+276,IRD-276,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+277,IRD-277,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+278,IRD-278,Solanum tuberosum (Potato)
+278,IRD-278,Solanum chacoense (Chaco potato)
+279,IRD-279,Solanum tuberosum (Potato)
+280,IRD-280,Capsicum annuum (Bell pepper)
+281,IRD-281,Capsicum baccatum (Peruvian pepper)
+282,IRD-282,Capsicum annuum (Bell pepper)
+283,IRD-283,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+284,IRD-284,Cuscuta australis
+285,IRD-285,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+286,IRD-286,Solanum tuberosum (Potato)
+287,IRD-287,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+288,IRD-288,Capsicum baccatum (Peruvian pepper)
+289,IRD-289,Capsicum annuum (Bell pepper)
+290,IRD-290,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+291,IRD-291,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+292,IRD-292,Nicotiana tabacum (Common tobacco)
+292,IRD-292,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+293,IRD-293,Nicotiana attenuata (Coyote tobacco)
+294,IRD-294,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+295,IRD-295,Capsicum annuum (Bell pepper)
+296,IRD-296,Capsicum annuum (Bell pepper)
+297,IRD-297,Solanum tuberosum (Potato)
+298,IRD-298,Solanum tuberosum (Potato)
+299,IRD-299,Solanum nigrum (Black nightshade)
+300,IRD-300,Erythranthe guttata (Yellow monkey flower) (Mimulus guttatus)
+301,IRD-301,Populus trichocarpa (Western balsam poplar) (Populus balsamifera subsp. trichocarpa)
+302,IRD-302,Manihot esculenta (Cassava) (Jatropha manihot)
+303,IRD-303,Manihot esculenta (Cassava) (Jatropha manihot)
+304,IRD-304,Ricinus communis (Castor bean)
+305,IRD-305,Juglans regia (English walnut)
+306,IRD-306,Jatropha curcas (Barbados nut)
+307,IRD-307,Arabidopsis thaliana (Mouse-ear cress)
+308,IRD-308,Vitis vinifera (Grape)
+309,IRD-309,Apostasia shenzhenica
+310,IRD-310,Brassica rapa subsp. pekinensis (Chinese cabbage) (Brassica pekinensis)
+311,IRD-311,Brassica oleracea var. oleracea
+312,IRD-312,Capsella rubella
+313,IRD-313,Fagus sylvatica (Beechnut)
+314,IRD-314,Arabidopsis lyrata subsp. lyrata (Lyre-leaved rock-cress)
+315,IRD-315,Noccaea caerulescens (Alpine penny-cress) (Thlaspi caerulescens)
+316,IRD-316,Capsicum annuum (Bell pepper)
+317,IRD-317,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+318,IRD-318,Capsicum baccatum (Peruvian pepper)
+319,IRD-319,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+320,IRD-320,Solanum tuberosum (Potato)
+321,IRD-321,Nicotiana tabacum (Common tobacco)
+322,IRD-322,Nicotiana tabacum (Common tobacco)
+323,IRD-323,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+324,IRD-324,Nicotiana attenuata (Coyote tobacco)
+325,IRD-325,Prunus persica (Peach) (Amygdalus persica)
+326,IRD-326,Quercus suber (Cork oak)
+327,IRD-327,Punica granatum (Pomegranate)
+328,IRD-328,Quercus suber (Cork oak)
+329,IRD-329,Triticum urartu (Red wild einkorn) (Crithodium urartu)
+329,IRD-329,Triticum aestivum (Wheat)
+330,IRD-330,Dendrobium catenatum
+332,IRD-332,Panicum hallii
+333,IRD-333,Hordeum vulgare subsp. vulgare (Domesticated barley)
+334,IRD-334,Dichanthelium oligosanthes
+335,IRD-335,Coffea canephora (Robusta coffee)
+336,IRD-336,Ananas comosus (Pineapple) (Ananas ananas)
+337,IRD-337,Ananas comosus (Pineapple) (Ananas ananas)
+338,IRD-338,Panicum hallii var. hallii
+339,IRD-339,Genlisea aurea
+340,IRD-340,Solanum tuberosum (Potato)
+341,IRD-341,Solanum tuberosum (Potato)
+342,IRD-342,Solanum tuberosum (Potato)
+343,IRD-343,Capsicum baccatum (Peruvian pepper)
+344,IRD-344,Capsicum annuum (Bell pepper)
+344,IRD-344,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+345,IRD-345,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+346,IRD-346,Nicotiana tabacum (Common tobacco)
+346,IRD-346,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+346,IRD-346,Nicotiana attenuata (Coyote tobacco)
+347,IRD-347,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+347,IRD-347,Capsicum baccatum (Peruvian pepper)
+348,IRD-348,Capsicum annuum (Bell pepper)
+348,IRD-348,Capsicum baccatum (Peruvian pepper)
+349,IRD-349,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+350,IRD-350,Rosa chinensis (China rose)
+351,IRD-351,Selaginella moellendorffii (Spikemoss)
+352,IRD-352,Selaginella moellendorffii (Spikemoss)
+353,IRD-353,Rosa chinensis (China rose)
+354,IRD-354,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+354,IRD-354,Capsicum baccatum (Peruvian pepper)
+354,IRD-354,Capsicum annuum (Bell pepper)
+355,IRD-355,Rosa chinensis (China rose)
+356,IRD-356,Eucalyptus grandis (Flooded gum)
+357,IRD-357,Prunus persica (Peach) (Amygdalus persica)
+358,IRD-358,Prunus yedoensis var. nudiflora
+359,IRD-359,Nicotiana tabacum (Common tobacco)
+360,IRD-360,Nicotiana attenuata (Coyote tobacco)
+360,IRD-360,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+360,IRD-360,Nicotiana tabacum (Common tobacco)
+361,IRD-361,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+361,IRD-361,Capsicum baccatum (Peruvian pepper)
+362,IRD-362,Setaria italica (Foxtail millet) (Panicum italicum)
+363,IRD-363,Setaria italica (Foxtail millet) (Panicum italicum)
+364,IRD-364,Panicum hallii var. hallii
+365,IRD-365,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+366,IRD-366,Coffea canephora (Robusta coffee)
+367,IRD-367,Coffea canephora (Robusta coffee)
+368,IRD-368,Nicotiana tabacum (Common tobacco)
+369,IRD-369,Rosa chinensis (China rose)
+370,IRD-370,Genlisea aurea
+371,IRD-371,Daucus carota subsp. sativus
+372,IRD-372,Saccharum hybrid cultivar R570
+373,IRD-373,Sorghum bicolor (Sorghum) (Sorghum vulgare)
+374,IRD-374,Quercus suber (Cork oak)
+375,IRD-375,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+376,IRD-376,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+377,IRD-377,Capsicum annuum (Bell pepper)
+377,IRD-377,Capsicum baccatum (Peruvian pepper)
+378,IRD-378,Solanum tuberosum (Potato)
+379,IRD-379,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+380,IRD-380,Solanum tuberosum (Potato)
+381,IRD-381,Medicago truncatula (Barrel medic) (Medicago tribuloides)
+382,IRD-382,Oryza punctata (Red rice)
+383,IRD-383,Medicago truncatula (Barrel medic) (Medicago tribuloides)
+384,IRD-384,Oryza meridionalis
+385,IRD-385,Leersia perrieri
+386,IRD-386,Oryza brachyantha
+387,IRD-387,Oryza sativa subsp. japonica (Rice)
+387,IRD-387,Oryza sativa subsp. indica (Rice)
+387,IRD-387,Oryza glaberrima (African rice)
+387,IRD-387,Oryza nivara (Indian wild rice) (Oryza sativa f. spontanea)
+387,IRD-387,Oryza rufipogon (Brownbeard rice) (Asian wild rice)
+387,IRD-387,Oryza barthii
+387,IRD-387,Oryza glumipatula
+388,IRD-388,Leersia perrieri
+389,IRD-389,Rosa chinensis (China rose)
+390,IRD-390,Zea mays (Maize)
+391,IRD-391,Zea mays (Maize)
+392,IRD-392,Dichanthelium oligosanthes
+393,IRD-393,Spinacia oleracea (Spinach)
+394,IRD-394,Sorghum bicolor (Sorghum) (Sorghum vulgare)
+395,IRD-395,Dichanthelium oligosanthes
+396,IRD-396,Sorghum bicolor (Sorghum) (Sorghum vulgare)
+397,IRD-397,Brachypodium distachyon (Purple false brome) (Trachynia distachya)
+398,IRD-398,Cicer arietinum (Chickpea) (Garbanzo)
+399,IRD-399,Mucuna pruriens (Velvet bean) (Dolichos pruriens)
+400,IRD-400,Aegilops tauschii (Tausch's goatgrass) (Aegilops squarrosa)
+401,IRD-401,Nicotiana tabacum (Common tobacco)
+402,IRD-402,Nicotiana tabacum (Common tobacco)
+403,IRD-403,Solanum tuberosum (Potato)
+404,IRD-404,Capsicum annuum (Bell pepper)
+405,IRD-405,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+406,IRD-406,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+407,IRD-407,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+408,IRD-408,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+409,IRD-409,Solanum nigrum (Black nightshade)
+410,IRD-410,Capsicum baccatum (Peruvian pepper)
+411,IRD-411,Solanum tuberosum (Potato)
+412,IRD-412,Capsicum annuum (Bell pepper)
+412,IRD-412,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+413,IRD-413,Solanum tuberosum (Potato)
+414,IRD-414,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+415,IRD-415,Capsicum annuum (Bell pepper)
+416,IRD-416,Capsicum annuum (Bell pepper)
+417,IRD-417,Solanum tuberosum (Potato)
+418,IRD-418,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+419,IRD-419,Nicotiana tabacum (Common tobacco)
+419,IRD-419,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+420,IRD-420,Nicotiana attenuata (Coyote tobacco)
+421,IRD-421,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+422,IRD-422,Capsicum baccatum (Peruvian pepper)
+423,IRD-423,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+424,IRD-424,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+425,IRD-425,Solanum tuberosum (Potato)
+426,IRD-426,Solanum chacoense (Chaco potato)
+427,IRD-427,Nicotiana tabacum (Common tobacco)
+428,IRD-428,Nicotiana attenuata (Coyote tobacco)
+428,IRD-428,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+429,IRD-429,Solanum tuberosum (Potato)
+430,IRD-430,Solanum tuberosum (Potato)
+431,IRD-431,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+432,IRD-432,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+433,IRD-433,Solanum tuberosum (Potato)
+434,IRD-434,Solanum chacoense (Chaco potato)
+435,IRD-435,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+435,IRD-435,Nicotiana tabacum (Common tobacco)
+436,IRD-436,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+437,IRD-437,Solanum tuberosum (Potato)
+437,IRD-437,Solanum chacoense (Chaco potato)
+438,IRD-438,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+439,IRD-439,Cuscuta australis
+440,IRD-440,Nicotiana glutinosa (Tobacco)
+441,IRD-441,Nicotiana repanda
+442,IRD-442,Solanum tuberosum (Potato)
+443,IRD-443,Solanum tuberosum (Potato)
+444,IRD-444,Capsicum annuum (Bell pepper)
+444,IRD-444,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+445,IRD-445,Capsicum annuum (Bell pepper)
+446,IRD-446,Capsicum annuum (Bell pepper)
+447,IRD-447,Capsicum annuum (Bell pepper)
+448,IRD-448,Capsicum annuum (Bell pepper)
+449,IRD-449,Nicotiana benthamiana
+449,IRD-449,Nicotiana simulans
+449,IRD-449,Nicotiana occidentalis subsp. hesperis
+450,IRD-450,Nicotiana megalosiphon
+451,IRD-451,Capsicum annuum (Bell pepper)
+451,IRD-451,Capsicum baccatum (Peruvian pepper)
+452,IRD-452,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+453,IRD-453,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+454,IRD-454,Solanum tuberosum (Potato)
+455,IRD-455,Solanum nigrum (Black nightshade)
+455,IRD-455,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+456,IRD-456,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+457,IRD-457,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+458,IRD-458,Solanum nigrum (Black nightshade)
+459,IRD-459,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+460,IRD-460,Solanum americanum (American black nightshade) (Solanum nodiflorum)
+461,IRD-461,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+462,IRD-462,Nicotiana repanda
+463,IRD-463,Capsicum baccatum (Peruvian pepper)
+464,IRD-464,Solanum tuberosum (Potato)
+465,IRD-465,Solanum tuberosum (Potato)
+466,IRD-466,Solanum tuberosum (Potato)
+467,IRD-467,Solanum tuberosum (Potato)
+467,IRD-467,Solanum phureja
+467,IRD-467,Solanum chacoense (Chaco potato)
+468,IRD-468,Solanum tuberosum (Potato)
+469,IRD-469,Solanum tuberosum (Potato)
+470,IRD-470,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+470,IRD-470,Solanum tuberosum (Potato)
+471,IRD-471,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+472,IRD-472,Capsicum annuum (Bell pepper)
+472,IRD-472,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+473,IRD-473,Capsicum baccatum (Peruvian pepper)
+474,IRD-474,Capsicum annuum (Bell pepper)
+475,IRD-475,Solanum tuberosum (Potato)
+475,IRD-475,Solanum chacoense (Chaco potato)
+476,IRD-476,Solanum tuberosum (Potato)
+477,IRD-477,Capsicum baccatum (Peruvian pepper)
+478,IRD-478,Solanum tuberosum (Potato)
+479,IRD-479,Capsicum annuum (Bell pepper)
+480,IRD-480,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+481,IRD-481,Solanum tuberosum (Potato)
+482,IRD-482,Capsicum annuum (Bell pepper)
+483,IRD-483,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+484,IRD-484,Solanum tuberosum (Potato)
+485,IRD-485,Solanum tuberosum (Potato)
+486,IRD-486,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+487,IRD-487,Solanum phureja
+488,IRD-488,Solanum tuberosum (Potato)
+489,IRD-489,Solanum tuberosum (Potato)
+490,IRD-490,Solanum tuberosum (Potato)
+491,IRD-491,Capsicum annuum (Bell pepper)
+492,IRD-492,Nicotiana repanda
+493,IRD-493,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+494,IRD-494,Solanum tuberosum (Potato)
+495,IRD-495,Solanum tuberosum (Potato)
+496,IRD-496,Solanum tuberosum (Potato)
+496,IRD-496,Solanum chacoense (Chaco potato)
+497,IRD-497,Solanum tuberosum (Potato)
+498,IRD-498,Solanum chacoense (Chaco potato)
+499,IRD-499,Solanum tuberosum (Potato)
+500,IRD-500,Solanum tuberosum (Potato)
+501,IRD-501,Nicotiana tabacum (Common tobacco)
+502,IRD-502,Capsicum annuum (Bell pepper)
+503,IRD-503,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+504,IRD-504,Solanum tuberosum (Potato)
+505,IRD-505,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+506,IRD-506,Capsicum baccatum (Peruvian pepper)
+507,IRD-507,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+508,IRD-508,Nicotiana attenuata (Coyote tobacco)
+509,IRD-509,Nicotiana megalosiphon
+510,IRD-510,Nicotiana linearis
+511,IRD-511,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+512,IRD-512,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+513,IRD-513,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+514,IRD-514,Nicotiana tabacum (Common tobacco)
+515,IRD-515,Solanum nigrum (Black nightshade)
+516,IRD-516,Solanum nigrum (Black nightshade)
+517,IRD-517,Capsicum baccatum (Peruvian pepper)
+518,IRD-518,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+518,IRD-518,Capsicum annuum (Bell pepper)
+519,IRD-519,Capsicum annuum (Bell pepper)
+520,IRD-520,Capsicum annuum (Bell pepper)
+521,IRD-521,Capsicum annuum (Bell pepper)
+522,IRD-522,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+523,IRD-523,Nicotiana tabacum (Common tobacco)
+524,IRD-524,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+525,IRD-525,Solanum tuberosum (Potato)
+526,IRD-526,Solanum nigrum (Black nightshade)
+527,IRD-527,Solanum lycopersicum (Tomato) (Lycopersicon esculentum)
+528,IRD-528,Capsicum annuum (Bell pepper)
+529,IRD-529,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+529,IRD-529,Nicotiana tabacum (Common tobacco)
+530,IRD-530,Nicotiana tabacum (Common tobacco)
+531,IRD-531,Nicotiana tabacum (Common tobacco)
+532,IRD-532,Nicotiana tabacum (Common tobacco)
+533,IRD-533,Nicotiana miersii
+534,IRD-534,Capsicum annuum (Bell pepper)
+535,IRD-535,Nicotiana linearis
+535,IRD-535,Nicotiana spegazzinii
+536,IRD-536,Capsicum annuum (Bell pepper)
+537,IRD-537,Capsicum annuum (Bell pepper)
+538,IRD-538,Capsicum baccatum (Peruvian pepper)
+539,IRD-539,Capsicum annuum (Bell pepper)
+540,IRD-540,Capsicum annuum (Bell pepper)
+541,IRD-541,Capsicum annuum (Bell pepper)
+542,IRD-542,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+543,IRD-543,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+544,IRD-544,Capsicum annuum (Bell pepper)
+545,IRD-545,Capsicum annuum (Bell pepper)
+546,IRD-546,Capsicum annuum (Bell pepper)
+547,IRD-547,Capsicum annuum (Bell pepper)
+548,IRD-548,Capsicum annuum (Bell pepper)
+549,IRD-549,Capsicum annuum (Bell pepper)
+550,IRD-550,Capsicum annuum (Bell pepper)
+551,IRD-551,Capsicum annuum (Bell pepper)
+551,IRD-551,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+552,IRD-552,Capsicum annuum (Bell pepper)
+553,IRD-553,Capsicum annuum (Bell pepper)
+554,IRD-554,Capsicum annuum (Bell pepper)
+555,IRD-555,Capsicum annuum (Bell pepper)
+556,IRD-556,Capsicum annuum (Bell pepper)
+557,IRD-557,Capsicum annuum (Bell pepper)
+558,IRD-558,Capsicum annuum (Bell pepper)
+559,IRD-559,Capsicum annuum (Bell pepper)
+559,IRD-559,Capsicum baccatum (Peruvian pepper)
+560,IRD-560,Capsicum annuum (Bell pepper)
+561,IRD-561,Capsicum annuum (Bell pepper)
+562,IRD-562,Capsicum annuum (Bell pepper)
+563,IRD-563,Capsicum annuum (Bell pepper)
+564,IRD-564,Capsicum annuum (Bell pepper)
+565,IRD-565,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+566,IRD-566,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+567,IRD-567,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+568,IRD-568,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+569,IRD-569,Nicotiana acuminata (Acuminate tobacco)
+570,IRD-570,Nicotiana acuminata (Acuminate tobacco)
+571,IRD-571,Nicotiana acuminata (Acuminate tobacco)
+572,IRD-572,Nicotiana acuminata (Acuminate tobacco)
+573,IRD-573,Nicotiana tabacum (Common tobacco)
+574,IRD-574,Nicotiana clevelandii (Wild tobacco)
+575,IRD-575,Nicotiana quadrivalvis
+576,IRD-576,Nicotiana attenuata (Coyote tobacco)
+577,IRD-577,Nicotiana corymbosa
+578,IRD-578,Nicotiana tabacum (Common tobacco)
+579,IRD-579,Nicotiana glutinosa (Tobacco)
+580,IRD-580,Nicotiana glutinosa (Tobacco)
+581,IRD-581,Nicotiana glutinosa (Tobacco)
+582,IRD-582,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+583,IRD-583,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+584,IRD-584,Nicotiana acuminata (Acuminate tobacco)
+585,IRD-585,Nicotiana acuminata (Acuminate tobacco)
+586,IRD-586,Nicotiana tabacum (Common tobacco)
+587,IRD-587,Nicotiana attenuata (Coyote tobacco)
+588,IRD-588,Nicotiana attenuata (Coyote tobacco)
+589,IRD-589,Nicotiana linearis
+590,IRD-590,Nicotiana spegazzinii
+591,IRD-591,Nicotiana obtusifolia
+592,IRD-592,Nicotiana obtusifolia
+593,IRD-593,Nicotiana obtusifolia
+594,IRD-594,Nicotiana rustica (Aztec tobacco)
+595,IRD-595,Nicotiana tabacum (Common tobacco)
+596,IRD-596,Nicotiana tabacum (Common tobacco)
+597,IRD-597,Nicotiana tabacum (Common tobacco)
+598,IRD-598,Nicotiana tabacum (Common tobacco)
+599,IRD-599,Nicotiana tabacum (Common tobacco)
+600,IRD-600,Nicotiana clevelandii (Wild tobacco)
+600,IRD-600,Nicotiana quadrivalvis
+601,IRD-601,Nicotiana tabacum (Common tobacco)
+602,IRD-602,Nicotiana tabacum (Common tobacco)
+603,IRD-603,Nicotiana tabacum (Common tobacco)
+604,IRD-604,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+605,IRD-605,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+606,IRD-606,Nicotiana alata (Winged tobacco) (Persian tobacco)
+606,IRD-606,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+606,IRD-606,Nicotiana tabacum (Common tobacco)
+607,IRD-607,Nicotiana quadrivalvis
+607,IRD-607,Nicotiana obtusifolia
+608,IRD-608,Nicotiana obtusifolia
+609,IRD-609,Nicotiana obtusifolia
+610,IRD-610,Nicotiana glutinosa (Tobacco)
+611,IRD-611,Nicotiana glutinosa (Tobacco)
+612,IRD-612,Nicotiana glutinosa (Tobacco)
+613,IRD-613,Nicotiana rustica (Aztec tobacco)
+614,IRD-614,Nicotiana rustica (Aztec tobacco)
+615,IRD-615,Nicotiana attenuata (Coyote tobacco)
+616,IRD-616,Nicotiana attenuata (Coyote tobacco)
+617,IRD-617,Nicotiana attenuata (Coyote tobacco)
+618,IRD-618,Nicotiana attenuata (Coyote tobacco)
+619,IRD-619,Nicotiana attenuata (Coyote tobacco)
+619,IRD-619,Nicotiana pauciflora
+620,IRD-620,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+620,IRD-620,Nicotiana tabacum (Common tobacco)
+621,IRD-621,Nicotiana tabacum (Common tobacco)
+622,IRD-622,Nicotiana tabacum (Common tobacco)
+623,IRD-623,Nicotiana alata (Winged tobacco) (Persian tobacco)
+624,IRD-624,Nicotiana alata (Winged tobacco) (Persian tobacco)
+625,IRD-625,Nicotiana tabacum (Common tobacco)
+626,IRD-626,Nicotiana tabacum (Common tobacco)
+627,IRD-627,Nicotiana tabacum (Common tobacco)
+628,IRD-628,Nicotiana tabacum (Common tobacco)
+629,IRD-629,Nicotiana pauciflora
+630,IRD-630,Nicotiana pauciflora
+631,IRD-631,Nicotiana pauciflora
+632,IRD-632,Nicotiana tabacum (Common tobacco)
+633,IRD-633,Nicotiana miersii
+634,IRD-634,Nicotiana miersii
+635,IRD-635,Nicotiana miersii
+636,IRD-636,Nicotiana clevelandii (Wild tobacco)
+637,IRD-637,Nicotiana clevelandii (Wild tobacco)
+637,IRD-637,Nicotiana quadrivalvis
+638,IRD-638,Nicotiana clevelandii (Wild tobacco)
+638,IRD-638,Nicotiana quadrivalvis
+639,IRD-639,Nicotiana occidentalis subsp. hesperis
+640,IRD-640,Nicotiana benthamiana
+640,IRD-640,Nicotiana occidentalis subsp. hesperis
+641,IRD-641,Nicotiana occidentalis subsp. hesperis
+642,IRD-642,Nicotiana repanda
+643,IRD-643,Nicotiana megalosiphon
+644,IRD-644,Nicotiana simulans
+644,IRD-644,Nicotiana megalosiphon
+645,IRD-645,Nicotiana umbratica
+646,IRD-646,Nicotiana umbratica
+647,IRD-647,Nicotiana umbratica
+648,IRD-648,Nicotiana simulans
+649,IRD-649,Nicotiana simulans
+650,IRD-650,Nicotiana linearis
+651,IRD-651,Nicotiana linearis
+651,IRD-651,Nicotiana spegazzinii
+652,IRD-652,Nicotiana spegazzinii
+653,IRD-653,Nicotiana alata (Winged tobacco) (Persian tobacco)
+653,IRD-653,Nicotiana tabacum (Common tobacco)
+654,IRD-654,Nicotiana benthamiana
+655,IRD-655,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+655,IRD-655,Nicotiana tabacum (Common tobacco)
+656,IRD-656,Nicotiana tabacum (Common tobacco)
+657,IRD-657,Nicotiana repanda
+658,IRD-658,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+658,IRD-658,Nicotiana tabacum (Common tobacco)
+659,IRD-659,Nicotiana rustica (Aztec tobacco)
+660,IRD-660,Nicotiana rustica (Aztec tobacco)
+661,IRD-661,Nicotiana alata (Winged tobacco) (Persian tobacco)
+662,IRD-662,Nicotiana occidentalis subsp. hesperis
+663,IRD-663,Nicotiana umbratica
+664,IRD-664,Nicotiana cavicola
+665,IRD-665,Nicotiana obtusifolia
+666,IRD-666,Nicotiana corymbosa
+666,IRD-666,Nicotiana acuminata (Acuminate tobacco)
+667,IRD-667,Nicotiana pauciflora
+668,IRD-668,Nicotiana miersii
+669,IRD-669,Nicotiana benthamiana
+669,IRD-669,Nicotiana umbratica
+669,IRD-669,Nicotiana megalosiphon
+670,IRD-670,Nicotiana simulans
+671,IRD-671,Nicotiana cavicola
+672,IRD-672,Nicotiana occidentalis subsp. hesperis
+673,IRD-673,Nicotiana repanda
+674,IRD-674,Nicotiana spegazzinii
+675,IRD-675,Nicotiana sylvestris (Wood tobacco) (South American tobacco)
+676,IRD-676,Parasponia andersonii (Sponia andersonii)
+677,IRD-677,Dorcoceras hygrometricum
+678,IRD-678,Handroanthus impetiginosus
+679,IRD-679,Handroanthus impetiginosus
+680,IRD-680,Coffea canephora (Robusta coffee)
+681,IRD-681,Morus notabilis
+682,IRD-682,Selaginella moellendorffii (Spikemoss)
+683,IRD-683,Selaginella moellendorffii (Spikemoss)
+684,IRD-684,Selaginella moellendorffii (Spikemoss)
+685,IRD-685,Coffea canephora (Robusta coffee)
+686,IRD-686,Selaginella moellendorffii (Spikemoss)
+687,IRD-687,Saccharum hybrid cultivar R570
+689,IRD-689,Solanum tuberosum (Potato)
+690,IRD-690,Solanum tuberosum (Potato)
+691,IRD-691,Solanum chacoense (Chaco potato)
+692,IRD-692,Capsicum annuum (Bell pepper)
+692,IRD-692,Capsicum chinense (Scotch bonnet) (Bonnet pepper)
+693,IRD-693,Capsicum annuum (Bell pepper)
+694,IRD-694,Selaginella moellendorffii (Spikemoss)
+695,IRD-695,Selaginella moellendorffii (Spikemoss)
+696,IRD-696,Selaginella moellendorffii (Spikemoss)
+697,IRD-697,Selaginella moellendorffii (Spikemoss)
+698,IRD-698,Cuscuta australis
