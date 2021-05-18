@@ -1,8 +1,0 @@
-SELECT  [Organism],  abc = STUFF(
-             (SELECT ',' + [DomainID] 
-              FROM d9_Organism_Domain t1
-              WHERE t1.[Organism] = t2.[Organism] 
-              FOR XML PATH (''))
-             , 1, 1, '') from d9_Organism_Domain t2
-			
-group by [Organism] 

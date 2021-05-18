@@ -1,0 +1,150 @@
+Specie,Target Protease,Occurrences
+Aegilops tauschii,Unknown,1
+Aegilops tauschii subsp. strangulata,Unknown,2
+Ananas comosus,Unknown,2
+Apostasia shenzhenica,Chymotrypsin,1
+Arabidopsis lyrata subsp. lyrata,Chymotrypsin,1
+Arabidopsis thaliana,Chymotrypsin,2
+Brachypodium distachyon,Unknown,1
+Brassica campestris,Chymotrypsin,1
+Brassica cretica,Chymotrypsin,1
+Brassica oleracea,Chymotrypsin,1
+Brassica oleracea var. oleracea,Chymotrypsin,1
+Brassica rapa subsp. pekinensis,Chymotrypsin,1
+Capsella rubella,Chymotrypsin,1
+Capsicum annuum,Trypsin,300
+Capsicum annuum,Chymotrypsin,97
+Capsicum annuum,Unknown,19
+Capsicum baccatum,Trypsin,14
+Capsicum baccatum,Unknown,7
+Capsicum baccatum,Chymotrypsin,6
+Capsicum baccatum,Elastase,6
+Capsicum chinense,Trypsin,18
+Capsicum chinense,Chymotrypsin,9
+Capsicum chinense,Unknown,9
+Capsicum chinense,Elastase,6
+Cicer arietinum,Chymotrypsin,1
+Coffea canephora,Chymotrypsin,2
+Coffea canephora,Unknown,2
+Coffea canephora,Trypsin,1
+Cuscuta australis,Chymotrypsin,1
+Cuscuta australis,Trypsin,1
+Cuscuta australis,Unknown,1
+Cuscuta campestris,Chymotrypsin,1
+Daucus carota subsp. sativus,Chymotrypsin,1
+Dendrobium catenatum,Unknown,1
+Dichanthelium oligosanthes,Unknown,2
+Dichanthelium oligosanthes,Chymotrypsin,1
+Dorcoceras hygrometricum,Chymotrypsin,1
+Erythranthe guttata,Chymotrypsin,1
+Eucalyptus grandis,Chymotrypsin,1
+Fagus sylvatica,Chymotrypsin,1
+Genlisea aurea,Chymotrypsin,2
+Handroanthus impetiginosus,Chymotrypsin,3
+Hordeum vulgare subsp. vulgare,Unknown,1
+Jatropha curcas,Chymotrypsin,1
+Juglans regia,Chymotrypsin,1
+Leersia perrieri,Unknown,2
+Manihot esculenta,Chymotrypsin,2
+Medicago truncatula,Unknown,2
+Morus notabilis,Unknown,1
+Mucuna pruriens,Unknown,1
+Nicotiana acuminata,Trypsin,12
+Nicotiana acuminata,Chymotrypsin,1
+Nicotiana alata,Trypsin,12
+Nicotiana alata,Chymotrypsin,6
+Nicotiana attenuata,Trypsin,46
+Nicotiana attenuata,Unknown,5
+Nicotiana benthamiana,Trypsin,5
+Nicotiana benthamiana,Chymotrypsin,2
+Nicotiana cavicola,Chymotrypsin,2
+Nicotiana cavicola,Trypsin,1
+Nicotiana clevelandii,Trypsin,11
+Nicotiana corymbosa,Trypsin,2
+Nicotiana corymbosa,Chymotrypsin,1
+Nicotiana glutinosa,Trypsin,22
+Nicotiana glutinosa,Chymotrypsin,4
+Nicotiana linearis,Trypsin,9
+Nicotiana megalosiphon,Trypsin,7
+Nicotiana megalosiphon,Chymotrypsin,2
+Nicotiana miersii,Trypsin,10
+Nicotiana miersii,Chymotrypsin,1
+Nicotiana obtusifolia,Trypsin,26
+Nicotiana obtusifolia,Chymotrypsin,4
+Nicotiana occidentalis subsp. hesperis,Trypsin,9
+Nicotiana occidentalis subsp. hesperis,Chymotrypsin,2
+Nicotiana pauciflora,Trypsin,10
+Nicotiana pauciflora,Chymotrypsin,1
+Nicotiana quadrivalvis,Trypsin,11
+Nicotiana repanda,Chymotrypsin,7
+Nicotiana repanda,Trypsin,2
+Nicotiana repanda,Unknown,2
+Nicotiana rustica,Trypsin,8
+Nicotiana rustica,Chymotrypsin,5
+Nicotiana simulans,Trypsin,7
+Nicotiana simulans,Chymotrypsin,2
+Nicotiana spegazzinii,Trypsin,9
+Nicotiana sylvestris,Trypsin,47
+Nicotiana sylvestris,Chymotrypsin,9
+Nicotiana sylvestris,Unknown,6
+Nicotiana tabacum,Trypsin,87
+Nicotiana tabacum,Chymotrypsin,22
+Nicotiana tabacum,Unknown,13
+Nicotiana umbratica,Trypsin,7
+Nicotiana umbratica,Chymotrypsin,2
+Noccaea caerulescens,Chymotrypsin,4
+Olea europaea,Trypsin,1
+Oryza barthii,Unknown,1
+Oryza brachyantha,Unknown,1
+Oryza glaberrima,Unknown,1
+Oryza glumipatula,Unknown,1
+Oryza meridionalis,Unknown,1
+Oryza nivara,Unknown,1
+Oryza punctata,Unknown,1
+Oryza rufipogon,Unknown,1
+Oryza sativa subsp. indica,Unknown,1
+Oryza sativa subsp. japonica,Unknown,2
+Panicum hallii,Unknown,1
+Panicum hallii var. hallii,Unknown,4
+Panicum miliaceum,Unknown,1
+Parasponia andersonii,Unknown,1
+Populus trichocarpa,Chymotrypsin,1
+Prunus dulcis,Unknown,2
+Prunus dulcis,Trypsin,1
+Prunus persica,Unknown,2
+Prunus persica,Trypsin,1
+Prunus yedoensis var. nudiflora,Trypsin,1
+Punica granatum,Unknown,1
+Ricinus communis,Chymotrypsin,1
+Rosa chinensis,Unknown,3
+Rosa chinensis,Chymotrypsin,2
+Saccharum hybrid cultivar R570,Unknown,2
+Selaginella moellendorffii,Chymotrypsin,7
+Selaginella moellendorffii,Trypsin,3
+Selaginella moellendorffii,Unknown,1
+Setaria italica,Unknown,2
+Setaria viridis,Unknown,1
+Solanum americanum,Trypsin,5
+Solanum americanum,Chymotrypsin,4
+Solanum chacoense,Chymotrypsin,7
+Solanum chacoense,Trypsin,4
+Solanum chacoense,Unknown,2
+Solanum lycopersicum,Trypsin,30
+Solanum lycopersicum,Chymotrypsin,17
+Solanum lycopersicum,Unknown,12
+Solanum melongena,Trypsin,1
+Solanum nigrum,Trypsin,9
+Solanum nigrum,Chymotrypsin,4
+Solanum phureja,Trypsin,2
+Solanum phureja,Chymotrypsin,1
+Solanum tuberosum,Chymotrypsin,58
+Solanum tuberosum,Trypsin,53
+Solanum tuberosum,Unknown,19
+Sorghum bicolor,Unknown,2
+Sorghum bicolor,Chymotrypsin,1
+Spinacia oleracea,Unknown,1
+Triticum aestivum,Unknown,3
+Triticum turgidum subsp. durum,Unknown,1
+Triticum urartu,Unknown,1
+Vitis vinifera,Chymotrypsin,1
+Zea mays,Unknown,2

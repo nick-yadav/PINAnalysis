@@ -1,8 +1,0 @@
-SELECT ID, [DomainID],  abc = STUFF(
-             (SELECT ',' + [Organism] 
-              FROM [purchase].[dbo].[d9_Domain_Organism] t1
-              WHERE t1.[DomainID] = t2.[DomainID] order by t1.ID desc
-              FOR XML PATH (''))
-             , 1, 1, '') from [purchase].[dbo].[d9_Domain_Organism] t2
-			
-group by ID,[DomainID] 
