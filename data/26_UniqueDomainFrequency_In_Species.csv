@@ -1,0 +1,803 @@
+DomainID,Species,Species
+IRD-1,Solanum lycopersicum ,1
+IRD-10,Capsicum annuum ,1
+IRD-10,Capsicum chinense ,1
+IRD-100,Capsicum annuum ,1
+IRD-101,Capsicum annuum ,1
+IRD-102,Capsicum annuum ,1
+IRD-103,Capsicum annuum ,1
+IRD-104,Capsicum annuum ,1
+IRD-105,Capsicum annuum ,1
+IRD-106,Capsicum annuum ,1
+IRD-107,Capsicum annuum ,1
+IRD-108,Capsicum annuum ,1
+IRD-109,Capsicum annuum ,1
+IRD-11,Capsicum baccatum ,1
+IRD-110,Capsicum annuum ,1
+IRD-111,Capsicum annuum ,1
+IRD-112,Capsicum annuum ,1
+IRD-113,Capsicum annuum ,1
+IRD-114,Capsicum annuum ,1
+IRD-115,Capsicum annuum ,1
+IRD-116,Capsicum annuum ,1
+IRD-117,Capsicum annuum ,1
+IRD-118,Capsicum annuum ,1
+IRD-119,Capsicum baccatum ,1
+IRD-12,Capsicum annuum ,1
+IRD-120,Capsicum annuum ,1
+IRD-121,Capsicum annuum ,1
+IRD-122,Capsicum annuum ,1
+IRD-122,Capsicum chinense ,1
+IRD-123,Capsicum annuum ,1
+IRD-124,Capsicum annuum ,1
+IRD-125,Capsicum annuum ,1
+IRD-126,Capsicum annuum ,1
+IRD-127,Capsicum annuum ,1
+IRD-128,Capsicum annuum ,1
+IRD-129,Capsicum annuum ,1
+IRD-13,Solanum tuberosum ,1
+IRD-130,Capsicum annuum ,1
+IRD-131,Capsicum chinense ,1
+IRD-132,Capsicum annuum ,1
+IRD-133,Capsicum annuum ,1
+IRD-133,Capsicum baccatum ,1
+IRD-134,Capsicum chinense ,1
+IRD-135,Capsicum annuum ,1
+IRD-136,Capsicum annuum ,1
+IRD-137,Capsicum annuum ,1
+IRD-138,Capsicum annuum ,1
+IRD-139,Capsicum annuum ,1
+IRD-14,Capsicum annuum ,1
+IRD-14,Capsicum chinense ,1
+IRD-140,Capsicum baccatum ,1
+IRD-141,Capsicum annuum ,1
+IRD-142,Capsicum baccatum ,1
+IRD-143,Capsicum annuum ,1
+IRD-143,Capsicum chinense ,1
+IRD-144,Capsicum baccatum ,1
+IRD-145,Capsicum annuum ,1
+IRD-146,Capsicum annuum ,1
+IRD-147,Capsicum annuum ,1
+IRD-148,Capsicum annuum ,1
+IRD-149,Capsicum annuum ,1
+IRD-15,Capsicum annuum ,1
+IRD-150,Nicotiana sylvestris ,1
+IRD-151,Solanum tuberosum ,1
+IRD-152,Nicotiana sylvestris ,1
+IRD-152,Nicotiana tabacum ,1
+IRD-153,Nicotiana alata ,1
+IRD-153,Nicotiana sylvestris ,1
+IRD-153,Nicotiana tabacum ,1
+IRD-154,Nicotiana obtusifolia,1
+IRD-155,Nicotiana obtusifolia,1
+IRD-156,Nicotiana obtusifolia,1
+IRD-157,Nicotiana obtusifolia,1
+IRD-158,Nicotiana obtusifolia,1
+IRD-159,Nicotiana obtusifolia,1
+IRD-16,Solanum tuberosum ,1
+IRD-160,Nicotiana glutinosa ,1
+IRD-161,Nicotiana glutinosa ,1
+IRD-162,Nicotiana glutinosa ,1
+IRD-163,Nicotiana glutinosa ,1
+IRD-164,Nicotiana glutinosa ,1
+IRD-165,Nicotiana attenuata ,1
+IRD-166,Nicotiana attenuata ,1
+IRD-167,Nicotiana attenuata ,1
+IRD-168,Nicotiana attenuata ,1
+IRD-169,Nicotiana attenuata ,1
+IRD-169,Nicotiana pauciflora,1
+IRD-17,Olea europaea ,1
+IRD-170,Nicotiana rustica ,1
+IRD-171,Nicotiana rustica ,1
+IRD-172,Nicotiana rustica ,1
+IRD-172,Nicotiana tabacum ,1
+IRD-173,Nicotiana rustica ,1
+IRD-174,Nicotiana sylvestris ,1
+IRD-175,Nicotiana sylvestris ,1
+IRD-176,Nicotiana acuminata ,1
+IRD-176,Nicotiana attenuata ,1
+IRD-176,Nicotiana corymbosa,1
+IRD-176,Nicotiana sylvestris ,1
+IRD-177,Nicotiana sylvestris ,1
+IRD-178,Nicotiana sylvestris ,1
+IRD-179,Nicotiana acuminata ,1
+IRD-18,Solanum lycopersicum ,1
+IRD-180,Nicotiana acuminata ,1
+IRD-181,Nicotiana acuminata ,1
+IRD-182,Nicotiana acuminata ,1
+IRD-183,Nicotiana acuminata ,1
+IRD-184,Nicotiana tabacum ,1
+IRD-185,Nicotiana clevelandii ,1
+IRD-185,Nicotiana quadrivalvis,1
+IRD-186,Nicotiana clevelandii ,1
+IRD-186,Nicotiana quadrivalvis,1
+IRD-187,Nicotiana clevelandii ,1
+IRD-188,Nicotiana clevelandii ,1
+IRD-189,Nicotiana clevelandii ,1
+IRD-189,Nicotiana quadrivalvis,1
+IRD-19,Solanum lycopersicum ,1
+IRD-190,Nicotiana quadrivalvis,1
+IRD-191,Nicotiana alata ,1
+IRD-192,Nicotiana alata ,1
+IRD-193,Nicotiana pauciflora,1
+IRD-194,Nicotiana pauciflora,1
+IRD-195,Nicotiana pauciflora,1
+IRD-196,Nicotiana miersii,1
+IRD-196,Nicotiana pauciflora,1
+IRD-197,Nicotiana miersii,1
+IRD-198,Nicotiana miersii,1
+IRD-199,Nicotiana miersii,1
+IRD-199,Nicotiana sylvestris ,1
+IRD-2,Solanum nigrum ,1
+IRD-20,Solanum chilense ,1
+IRD-20,Solanum lycopersicum ,1
+IRD-200,Nicotiana miersii,1
+IRD-201,Nicotiana tabacum ,1
+IRD-202,Nicotiana tabacum ,1
+IRD-203,Nicotiana tabacum ,1
+IRD-204,Nicotiana tabacum ,1
+IRD-205,Nicotiana tabacum ,1
+IRD-206,Nicotiana tabacum ,1
+IRD-207,Nicotiana tabacum ,1
+IRD-208,Nicotiana tabacum ,1
+IRD-209,Nicotiana tabacum ,1
+IRD-21,Solanum tuberosum ,1
+IRD-210,Nicotiana tabacum ,1
+IRD-211,Nicotiana benthamiana,1
+IRD-211,Nicotiana occidentalis subsp. hesperis,1
+IRD-211,Nicotiana simulans,1
+IRD-211,Nicotiana umbratica,1
+IRD-212,Nicotiana occidentalis subsp. hesperis,1
+IRD-213,Nicotiana occidentalis subsp. hesperis,1
+IRD-214,Nicotiana attenuata ,1
+IRD-215,Nicotiana megalosiphon,1
+IRD-216,Nicotiana megalosiphon,1
+IRD-217,Nicotiana megalosiphon,1
+IRD-217,Nicotiana simulans,1
+IRD-218,Nicotiana simulans,1
+IRD-219,Nicotiana attenuata ,1
+IRD-22,Solanum tuberosum ,1
+IRD-220,Nicotiana attenuata ,1
+IRD-221,Nicotiana linearis,1
+IRD-222,Nicotiana linearis,1
+IRD-223,Nicotiana linearis,1
+IRD-224,Nicotiana linearis,1
+IRD-225,Nicotiana umbratica,1
+IRD-226,Nicotiana umbratica,1
+IRD-227,Nicotiana spegazzinii,1
+IRD-228,Nicotiana spegazzinii,1
+IRD-229,Nicotiana alata ,1
+IRD-23,Solanum tuberosum ,1
+IRD-230,Nicotiana benthamiana,1
+IRD-231,Capsicum chinense ,1
+IRD-232,Capsicum annuum ,1
+IRD-233,Capsicum annuum ,1
+IRD-234,Capsicum chinense ,1
+IRD-236,Solanum phureja,1
+IRD-237,Solanum tuberosum ,1
+IRD-238,Solanum tuberosum ,1
+IRD-239,Solanum tuberosum ,1
+IRD-24,Solanum tuberosum ,1
+IRD-240,Solanum tuberosum ,1
+IRD-241,Nicotiana glutinosa ,1
+IRD-242,Nicotiana tabacum ,1
+IRD-243,Nicotiana tabacum ,1
+IRD-244,Nicotiana repanda,1
+IRD-245,Nicotiana repanda,1
+IRD-246,Nicotiana repanda,1
+IRD-247,Solanum tuberosum ,1
+IRD-248,Solanum tuberosum ,1
+IRD-249,Solanum chacoense ,1
+IRD-25,Solanum tuberosum ,1
+IRD-250,Solanum tuberosum ,1
+IRD-251,Nicotiana sylvestris ,1
+IRD-252,Nicotiana rustica ,1
+IRD-253,Nicotiana alata ,1
+IRD-254,Nicotiana sylvestris ,1
+IRD-254,Nicotiana tabacum ,1
+IRD-255,Nicotiana sylvestris ,1
+IRD-255,Nicotiana tabacum ,1
+IRD-256,Capsicum chinense ,1
+IRD-257,Nicotiana occidentalis subsp. hesperis,1
+IRD-258,Nicotiana megalosiphon,1
+IRD-259,Nicotiana simulans,1
+IRD-26,Solanum chacoense ,1
+IRD-260,Nicotiana umbratica,1
+IRD-261,Nicotiana benthamiana,1
+IRD-262,Nicotiana cavicola,1
+IRD-263,Solanum americanum ,1
+IRD-264,Solanum nigrum ,1
+IRD-265,Nicotiana tabacum ,1
+IRD-266,Nicotiana sylvestris ,1
+IRD-267,Nicotiana attenuata ,1
+IRD-268,Nicotiana tabacum ,1
+IRD-269,Nicotiana occidentalis subsp. hesperis,1
+IRD-27,Solanum tuberosum ,1
+IRD-270,Nicotiana repanda,1
+IRD-271,Nicotiana spegazzinii,1
+IRD-272,Solanum nigrum ,1
+IRD-273,Capsicum baccatum ,1
+IRD-274,Solanum tuberosum ,1
+IRD-275,Solanum chilense ,1
+IRD-275,Solanum lycopersicum ,1
+IRD-276,Solanum lycopersicum ,1
+IRD-277,Solanum americanum ,1
+IRD-278,Solanum chacoense ,1
+IRD-278,Solanum tuberosum ,1
+IRD-279,Solanum tuberosum ,1
+IRD-28,Capsicum annuum ,1
+IRD-280,Capsicum annuum ,1
+IRD-281,Capsicum baccatum ,1
+IRD-282,Capsicum annuum ,1
+IRD-283,Capsicum chinense ,1
+IRD-284,Cuscuta australis,1
+IRD-285,Solanum chilense ,1
+IRD-285,Solanum lycopersicum ,1
+IRD-286,Solanum tuberosum ,1
+IRD-287,Capsicum chinense ,1
+IRD-288,Capsicum baccatum ,1
+IRD-289,Capsicum annuum ,1
+IRD-29,Capsicum baccatum ,1
+IRD-290,Solanum lycopersicum ,1
+IRD-291,Solanum lycopersicum ,1
+IRD-292,Nicotiana sylvestris ,1
+IRD-292,Nicotiana tabacum ,1
+IRD-293,Nicotiana attenuata ,1
+IRD-294,Capsicum chinense ,1
+IRD-295,Capsicum annuum ,1
+IRD-296,Capsicum annuum ,1
+IRD-297,Solanum chilense ,1
+IRD-297,Solanum tuberosum ,1
+IRD-298,Solanum tuberosum ,1
+IRD-299,Solanum nigrum ,1
+IRD-3,Solanum nigrum ,1
+IRD-30,Capsicum chinense ,1
+IRD-300,Erythranthe guttata ,1
+IRD-301,Populus trichocarpa ,1
+IRD-302,Manihot esculenta ,1
+IRD-303,Manihot esculenta ,1
+IRD-304,Ricinus communis ,1
+IRD-306,Jatropha curcas ,1
+IRD-307,Arabidopsis thaliana ,1
+IRD-308,Vitis vinifera ,1
+IRD-309,Apostasia shenzhenica,1
+IRD-31,Solanum tuberosum ,1
+IRD-310,Brassica campestris ,1
+IRD-310,Brassica rapa subsp. pekinensis ,1
+IRD-311,Brassica cretica ,1
+IRD-311,Brassica oleracea ,1
+IRD-311,Brassica oleracea var. oleracea,1
+IRD-312,Capsella rubella,1
+IRD-313,Fagus sylvatica ,1
+IRD-314,Arabidopsis lyrata subsp. lyrata ,1
+IRD-315,Noccaea caerulescens ,1
+IRD-316,Capsicum annuum ,1
+IRD-317,Capsicum chinense ,1
+IRD-318,Capsicum baccatum ,1
+IRD-319,Capsicum chinense ,1
+IRD-32,Solanum lycopersicum ,1
+IRD-320,Solanum tuberosum ,1
+IRD-321,Nicotiana tabacum ,1
+IRD-322,Nicotiana tabacum ,1
+IRD-323,Nicotiana sylvestris ,1
+IRD-324,Nicotiana attenuata ,1
+IRD-325,Prunus dulcis ,1
+IRD-325,Prunus persica ,1
+IRD-327,Punica granatum ,1
+IRD-329,Aegilops tauschii subsp. strangulata ,1
+IRD-329,Triticum aestivum ,1
+IRD-329,Triticum urartu ,1
+IRD-33,Solanum tuberosum ,1
+IRD-330,Dendrobium catenatum,1
+IRD-331,Triticum aestivum ,1
+IRD-331,Triticum turgidum subsp. durum ,1
+IRD-332,Panicum hallii,1
+IRD-333,Hordeum vulgare subsp. vulgare ,1
+IRD-334,Dichanthelium oligosanthes,1
+IRD-335,Coffea canephora ,1
+IRD-336,Ananas comosus ,1
+IRD-337,Ananas comosus ,1
+IRD-338,Panicum hallii var. hallii,1
+IRD-339,Genlisea aurea,1
+IRD-34,Solanum chacoense ,1
+IRD-340,Solanum tuberosum ,1
+IRD-341,Solanum tuberosum ,1
+IRD-342,Solanum tuberosum ,1
+IRD-343,Capsicum baccatum ,1
+IRD-344,Capsicum annuum ,1
+IRD-344,Capsicum chinense ,1
+IRD-346,Nicotiana attenuata ,1
+IRD-346,Nicotiana sylvestris ,1
+IRD-346,Nicotiana tabacum ,1
+IRD-347,Capsicum baccatum ,1
+IRD-347,Capsicum chinense ,1
+IRD-348,Capsicum annuum ,1
+IRD-348,Capsicum baccatum ,1
+IRD-349,Capsicum chinense ,1
+IRD-35,Capsicum chinense ,1
+IRD-350,Rosa chinensis ,1
+IRD-351,Selaginella moellendorffii ,1
+IRD-352,Selaginella moellendorffii ,1
+IRD-353,Rosa chinensis ,1
+IRD-354,Capsicum annuum ,1
+IRD-354,Capsicum baccatum ,1
+IRD-354,Capsicum chinense ,1
+IRD-355,Rosa chinensis ,1
+IRD-356,Eucalyptus grandis ,1
+IRD-357,Prunus armeniaca ,1
+IRD-357,Prunus dulcis ,1
+IRD-357,Prunus persica ,1
+IRD-358,Prunus yedoensis var. nudiflora,1
+IRD-359,Nicotiana tabacum ,1
+IRD-36,Capsicum chinense ,1
+IRD-360,Nicotiana attenuata ,1
+IRD-360,Nicotiana sylvestris ,1
+IRD-360,Nicotiana tabacum ,1
+IRD-361,Capsicum baccatum ,1
+IRD-361,Capsicum chinense ,1
+IRD-362,Setaria italica ,1
+IRD-363,Setaria italica ,1
+IRD-363,Setaria viridis ,1
+IRD-364,Panicum hallii var. hallii,1
+IRD-364,Panicum miliaceum ,1
+IRD-365,Nicotiana sylvestris ,1
+IRD-366,Coffea canephora ,1
+IRD-367,Coffea arabica ,1
+IRD-367,Coffea canephora ,1
+IRD-368,Nicotiana tabacum ,1
+IRD-369,Rosa chinensis ,1
+IRD-37,Capsicum baccatum ,1
+IRD-370,Genlisea aurea,1
+IRD-371,Daucus carota subsp. sativus ,1
+IRD-372,Saccharum hybrid cultivar R570,1
+IRD-373,Sorghum bicolor ,1
+IRD-375,Solanum lycopersicum ,1
+IRD-376,Solanum lycopersicum ,1
+IRD-377,Capsicum annuum ,1
+IRD-377,Capsicum baccatum ,1
+IRD-378,Solanum tuberosum ,1
+IRD-379,Solanum lycopersicum ,1
+IRD-38,Nicotiana tabacum ,1
+IRD-380,Solanum tuberosum ,1
+IRD-381,Medicago truncatula ,1
+IRD-382,Oryza punctata ,1
+IRD-383,Medicago truncatula ,1
+IRD-384,Oryza meridionalis,1
+IRD-385,Leersia perrieri,1
+IRD-386,Oryza brachyantha,1
+IRD-387,Oryza barthii,1
+IRD-387,Oryza glaberrima ,1
+IRD-387,Oryza glumipatula,1
+IRD-387,Oryza nivara ,1
+IRD-387,Oryza rufipogon ,1
+IRD-387,Oryza sativa subsp. indica ,1
+IRD-387,Oryza sativa subsp. japonica ,1
+IRD-388,Leersia perrieri,1
+IRD-389,Rosa chinensis ,1
+IRD-39,Nicotiana sylvestris ,1
+IRD-390,Zea mays ,1
+IRD-391,Zea mays ,1
+IRD-392,Dichanthelium oligosanthes,1
+IRD-393,Spinacia oleracea ,1
+IRD-394,Sorghum bicolor ,1
+IRD-395,Dichanthelium oligosanthes,1
+IRD-396,Sorghum bicolor ,1
+IRD-397,Brachypodium distachyon ,1
+IRD-398,Cicer arietinum ,1
+IRD-399,Mucuna pruriens ,1
+IRD-4,Solanum lycopersicum ,1
+IRD-40,Solanum lycopersicum ,1
+IRD-400,Aegilops tauschii ,1
+IRD-400,Aegilops tauschii subsp. strangulata ,1
+IRD-400,Triticum aestivum ,1
+IRD-401,Nicotiana tabacum ,1
+IRD-402,Nicotiana tabacum ,1
+IRD-403,Solanum tuberosum ,1
+IRD-404,Capsicum annuum ,1
+IRD-405,Solanum lycopersicum ,1
+IRD-406,Solanum lycopersicum ,1
+IRD-407,Solanum lycopersicum ,1
+IRD-408,Solanum americanum ,1
+IRD-409,Solanum nigrum ,1
+IRD-41,Nicotiana sylvestris ,1
+IRD-41,Nicotiana tabacum ,1
+IRD-410,Capsicum baccatum ,1
+IRD-411,Solanum tuberosum ,1
+IRD-412,Capsicum annuum ,1
+IRD-412,Capsicum chinense ,1
+IRD-413,Solanum tuberosum ,1
+IRD-414,Capsicum chinense ,1
+IRD-415,Capsicum annuum ,1
+IRD-416,Capsicum annuum ,1
+IRD-417,Solanum tuberosum ,1
+IRD-418,Solanum lycopersicum ,1
+IRD-419,Nicotiana sylvestris ,1
+IRD-419,Nicotiana tabacum ,1
+IRD-42,Nicotiana attenuata ,1
+IRD-420,Nicotiana attenuata ,1
+IRD-421,Capsicum chinense ,1
+IRD-422,Capsicum baccatum ,1
+IRD-424,Solanum lycopersicum ,1
+IRD-425,Solanum tuberosum ,1
+IRD-426,Solanum chacoense ,1
+IRD-427,Nicotiana tabacum ,1
+IRD-428,Nicotiana attenuata ,1
+IRD-428,Nicotiana sylvestris ,1
+IRD-429,Solanum tuberosum ,1
+IRD-43,Capsicum annuum ,1
+IRD-43,Capsicum chinense ,1
+IRD-430,Solanum tuberosum ,1
+IRD-431,Solanum lycopersicum ,1
+IRD-432,Solanum lycopersicum ,1
+IRD-433,Solanum tuberosum ,1
+IRD-434,Solanum chacoense ,1
+IRD-435,Nicotiana sylvestris ,1
+IRD-435,Nicotiana tabacum ,1
+IRD-436,Solanum americanum ,1
+IRD-437,Solanum chacoense ,1
+IRD-437,Solanum tuberosum ,1
+IRD-438,Capsicum chinense ,1
+IRD-439,Cuscuta australis,1
+IRD-44,Capsicum chinense ,1
+IRD-440,Nicotiana glutinosa ,1
+IRD-441,Nicotiana repanda,1
+IRD-442,Solanum tuberosum ,1
+IRD-443,Solanum tuberosum ,1
+IRD-444,Capsicum annuum ,1
+IRD-444,Capsicum chinense ,1
+IRD-445,Capsicum annuum ,1
+IRD-446,Capsicum annuum ,1
+IRD-447,Capsicum annuum ,1
+IRD-448,Capsicum annuum ,1
+IRD-449,Nicotiana benthamiana,1
+IRD-449,Nicotiana occidentalis subsp. hesperis,1
+IRD-449,Nicotiana simulans,1
+IRD-45,Capsicum baccatum ,1
+IRD-450,Nicotiana megalosiphon,1
+IRD-451,Capsicum annuum ,1
+IRD-451,Capsicum baccatum ,1
+IRD-452,Solanum chilense ,1
+IRD-452,Solanum lycopersicum ,1
+IRD-453,Solanum lycopersicum ,1
+IRD-454,Solanum tuberosum ,1
+IRD-455,Solanum americanum ,1
+IRD-455,Solanum nigrum ,1
+IRD-456,Solanum chilense ,1
+IRD-456,Solanum lycopersicum ,1
+IRD-457,Solanum americanum ,1
+IRD-458,Solanum nigrum ,1
+IRD-459,Solanum lycopersicum ,1
+IRD-46,Solanum tuberosum ,1
+IRD-460,Solanum americanum ,1
+IRD-461,Capsicum chinense ,1
+IRD-462,Nicotiana repanda,1
+IRD-463,Capsicum baccatum ,1
+IRD-464,Solanum tuberosum ,1
+IRD-465,Solanum tuberosum ,1
+IRD-466,Solanum tuberosum ,1
+IRD-467,Solanum chacoense ,1
+IRD-467,Solanum phureja,1
+IRD-467,Solanum tuberosum ,1
+IRD-468,Solanum tuberosum ,1
+IRD-469,Solanum tuberosum ,1
+IRD-47,Solanum lycopersicum ,1
+IRD-470,Solanum lycopersicum ,1
+IRD-470,Solanum tuberosum ,1
+IRD-471,Solanum lycopersicum ,1
+IRD-472,Capsicum annuum ,1
+IRD-472,Capsicum chinense ,1
+IRD-473,Capsicum baccatum ,1
+IRD-474,Capsicum annuum ,1
+IRD-475,Solanum chacoense ,1
+IRD-475,Solanum tuberosum ,1
+IRD-476,Solanum tuberosum ,1
+IRD-477,Capsicum baccatum ,1
+IRD-478,Solanum tuberosum ,1
+IRD-479,Capsicum annuum ,1
+IRD-48,Capsicum annuum ,1
+IRD-480,Nicotiana sylvestris ,1
+IRD-481,Solanum tuberosum ,1
+IRD-482,Capsicum annuum ,1
+IRD-483,Solanum chilense ,1
+IRD-483,Solanum lycopersicum ,1
+IRD-484,Solanum tuberosum ,1
+IRD-485,Solanum tuberosum ,1
+IRD-487,Solanum phureja,1
+IRD-488,Solanum tuberosum ,1
+IRD-489,Solanum tuberosum ,1
+IRD-49,Capsicum annuum ,1
+IRD-490,Solanum tuberosum ,1
+IRD-491,Capsicum annuum ,1
+IRD-492,Nicotiana repanda,1
+IRD-493,Solanum lycopersicum ,1
+IRD-494,Solanum tuberosum ,1
+IRD-495,Solanum tuberosum ,1
+IRD-496,Solanum chacoense ,1
+IRD-496,Solanum tuberosum ,1
+IRD-497,Solanum tuberosum ,1
+IRD-498,Solanum chacoense ,1
+IRD-499,Solanum tuberosum ,1
+IRD-5,Nicotiana tabacum ,1
+IRD-50,Capsicum annuum ,1
+IRD-500,Solanum tuberosum ,1
+IRD-501,Nicotiana tabacum ,1
+IRD-502,Capsicum annuum ,1
+IRD-503,Capsicum chinense ,1
+IRD-504,Solanum tuberosum ,1
+IRD-505,Solanum chilense ,1
+IRD-505,Solanum lycopersicum ,1
+IRD-506,Capsicum baccatum ,1
+IRD-507,Solanum lycopersicum ,1
+IRD-508,Nicotiana attenuata ,1
+IRD-509,Nicotiana megalosiphon,1
+IRD-51,Solanum melongena ,1
+IRD-510,Nicotiana linearis,1
+IRD-511,Solanum lycopersicum ,1
+IRD-512,Solanum lycopersicum ,1
+IRD-513,Capsicum chinense ,1
+IRD-514,Nicotiana tabacum ,1
+IRD-515,Solanum nigrum ,1
+IRD-516,Solanum nigrum ,1
+IRD-517,Capsicum baccatum ,1
+IRD-518,Capsicum annuum ,1
+IRD-518,Capsicum chinense ,1
+IRD-519,Capsicum annuum ,1
+IRD-52,Solanum tuberosum ,1
+IRD-520,Capsicum annuum ,1
+IRD-521,Capsicum annuum ,1
+IRD-522,Nicotiana sylvestris ,1
+IRD-523,Nicotiana tabacum ,1
+IRD-524,Solanum chilense ,1
+IRD-524,Solanum lycopersicum ,1
+IRD-525,Solanum tuberosum ,1
+IRD-526,Solanum nigrum ,1
+IRD-527,Solanum lycopersicum ,1
+IRD-528,Capsicum annuum ,1
+IRD-529,Nicotiana sylvestris ,1
+IRD-529,Nicotiana tabacum ,1
+IRD-53,Solanum tuberosum ,1
+IRD-530,Nicotiana tabacum ,1
+IRD-531,Nicotiana tabacum ,1
+IRD-532,Nicotiana tabacum ,1
+IRD-533,Nicotiana miersii,1
+IRD-534,Capsicum annuum ,1
+IRD-535,Nicotiana linearis,1
+IRD-535,Nicotiana spegazzinii,1
+IRD-536,Capsicum annuum ,1
+IRD-537,Capsicum annuum ,1
+IRD-538,Capsicum baccatum ,1
+IRD-539,Capsicum annuum ,1
+IRD-54,Solanum tuberosum ,1
+IRD-540,Capsicum annuum ,1
+IRD-541,Capsicum annuum ,1
+IRD-542,Capsicum chinense ,1
+IRD-543,Capsicum chinense ,1
+IRD-544,Capsicum annuum ,1
+IRD-545,Capsicum annuum ,1
+IRD-546,Capsicum annuum ,1
+IRD-547,Capsicum annuum ,1
+IRD-548,Capsicum annuum ,1
+IRD-549,Capsicum annuum ,1
+IRD-55,Solanum lycopersicum ,1
+IRD-550,Capsicum annuum ,1
+IRD-551,Capsicum annuum ,1
+IRD-551,Capsicum chinense ,1
+IRD-552,Capsicum annuum ,1
+IRD-553,Capsicum annuum ,1
+IRD-554,Capsicum annuum ,1
+IRD-555,Capsicum annuum ,1
+IRD-556,Capsicum annuum ,1
+IRD-557,Capsicum annuum ,1
+IRD-558,Capsicum annuum ,1
+IRD-559,Capsicum annuum ,1
+IRD-559,Capsicum baccatum ,1
+IRD-56,Solanum tuberosum ,1
+IRD-560,Capsicum annuum ,1
+IRD-561,Capsicum annuum ,1
+IRD-562,Capsicum annuum ,1
+IRD-563,Capsicum annuum ,1
+IRD-564,Capsicum annuum ,1
+IRD-565,Nicotiana sylvestris ,1
+IRD-566,Nicotiana sylvestris ,1
+IRD-567,Nicotiana sylvestris ,1
+IRD-568,Nicotiana sylvestris ,1
+IRD-569,Nicotiana acuminata ,1
+IRD-57,Solanum tuberosum ,1
+IRD-570,Nicotiana acuminata ,1
+IRD-571,Nicotiana acuminata ,1
+IRD-572,Nicotiana acuminata ,1
+IRD-573,Nicotiana tabacum ,1
+IRD-574,Nicotiana clevelandii ,1
+IRD-575,Nicotiana quadrivalvis,1
+IRD-576,Nicotiana attenuata ,1
+IRD-577,Nicotiana corymbosa,1
+IRD-578,Nicotiana tabacum ,1
+IRD-579,Nicotiana glutinosa ,1
+IRD-58,Solanum chacoense ,1
+IRD-58,Solanum tuberosum ,1
+IRD-580,Nicotiana glutinosa ,1
+IRD-581,Nicotiana glutinosa ,1
+IRD-582,Nicotiana sylvestris ,1
+IRD-583,Nicotiana sylvestris ,1
+IRD-584,Nicotiana acuminata ,1
+IRD-585,Nicotiana acuminata ,1
+IRD-586,Nicotiana tabacum ,1
+IRD-587,Nicotiana attenuata ,1
+IRD-588,Nicotiana attenuata ,1
+IRD-589,Nicotiana linearis,1
+IRD-59,Solanum tuberosum ,1
+IRD-590,Nicotiana spegazzinii,1
+IRD-591,Nicotiana obtusifolia,1
+IRD-592,Nicotiana obtusifolia,1
+IRD-593,Nicotiana obtusifolia,1
+IRD-594,Nicotiana rustica ,1
+IRD-595,Nicotiana tabacum ,1
+IRD-596,Nicotiana tabacum ,1
+IRD-597,Nicotiana tabacum ,1
+IRD-598,Nicotiana tabacum ,1
+IRD-599,Nicotiana tabacum ,1
+IRD-6,Nicotiana tabacum ,1
+IRD-60,Capsicum annuum ,1
+IRD-600,Nicotiana clevelandii ,1
+IRD-600,Nicotiana quadrivalvis,1
+IRD-601,Nicotiana tabacum ,1
+IRD-602,Nicotiana tabacum ,1
+IRD-603,Nicotiana tabacum ,1
+IRD-604,Nicotiana sylvestris ,1
+IRD-605,Nicotiana sylvestris ,1
+IRD-606,Nicotiana alata ,1
+IRD-606,Nicotiana sylvestris ,1
+IRD-606,Nicotiana tabacum ,1
+IRD-607,Nicotiana obtusifolia,1
+IRD-607,Nicotiana quadrivalvis,1
+IRD-608,Nicotiana obtusifolia,1
+IRD-609,Nicotiana obtusifolia,1
+IRD-61,Nicotiana obtusifolia,1
+IRD-610,Nicotiana glutinosa ,1
+IRD-611,Nicotiana glutinosa ,1
+IRD-612,Nicotiana glutinosa ,1
+IRD-613,Nicotiana rustica ,1
+IRD-614,Nicotiana rustica ,1
+IRD-615,Nicotiana attenuata ,1
+IRD-616,Nicotiana attenuata ,1
+IRD-617,Nicotiana attenuata ,1
+IRD-618,Nicotiana attenuata ,1
+IRD-619,Nicotiana attenuata ,1
+IRD-619,Nicotiana pauciflora,1
+IRD-62,Solanum lycopersicum ,1
+IRD-620,Nicotiana sylvestris ,1
+IRD-620,Nicotiana tabacum ,1
+IRD-621,Nicotiana tabacum ,1
+IRD-622,Nicotiana tabacum ,1
+IRD-623,Nicotiana alata ,1
+IRD-624,Nicotiana alata ,1
+IRD-625,Nicotiana tabacum ,1
+IRD-626,Nicotiana tabacum ,1
+IRD-627,Nicotiana tabacum ,1
+IRD-628,Nicotiana tabacum ,1
+IRD-629,Nicotiana pauciflora,1
+IRD-63,Solanum lycopersicum ,1
+IRD-630,Nicotiana pauciflora,1
+IRD-631,Nicotiana pauciflora,1
+IRD-632,Nicotiana tabacum ,1
+IRD-633,Nicotiana miersii,1
+IRD-634,Nicotiana miersii,1
+IRD-635,Nicotiana miersii,1
+IRD-636,Nicotiana clevelandii ,1
+IRD-637,Nicotiana clevelandii ,1
+IRD-637,Nicotiana quadrivalvis,1
+IRD-638,Nicotiana clevelandii ,1
+IRD-638,Nicotiana quadrivalvis,1
+IRD-639,Nicotiana occidentalis subsp. hesperis,1
+IRD-64,Solanum tuberosum ,1
+IRD-640,Nicotiana benthamiana,1
+IRD-640,Nicotiana occidentalis subsp. hesperis,1
+IRD-641,Nicotiana occidentalis subsp. hesperis,1
+IRD-642,Nicotiana repanda,1
+IRD-643,Nicotiana megalosiphon,1
+IRD-644,Nicotiana megalosiphon,1
+IRD-644,Nicotiana simulans,1
+IRD-645,Nicotiana umbratica,1
+IRD-646,Nicotiana umbratica,1
+IRD-647,Nicotiana umbratica,1
+IRD-648,Nicotiana simulans,1
+IRD-649,Nicotiana simulans,1
+IRD-65,Solanum tuberosum ,1
+IRD-650,Nicotiana linearis,1
+IRD-651,Nicotiana linearis,1
+IRD-651,Nicotiana spegazzinii,1
+IRD-652,Nicotiana spegazzinii,1
+IRD-653,Nicotiana alata ,1
+IRD-653,Nicotiana tabacum ,1
+IRD-654,Nicotiana benthamiana,1
+IRD-655,Nicotiana sylvestris ,1
+IRD-655,Nicotiana tabacum ,1
+IRD-656,Nicotiana tabacum ,1
+IRD-657,Nicotiana repanda,1
+IRD-658,Nicotiana sylvestris ,1
+IRD-658,Nicotiana tabacum ,1
+IRD-659,Nicotiana rustica ,1
+IRD-66,Solanum tuberosum ,1
+IRD-660,Nicotiana rustica ,1
+IRD-661,Nicotiana alata ,1
+IRD-662,Nicotiana occidentalis subsp. hesperis,1
+IRD-663,Nicotiana umbratica,1
+IRD-664,Nicotiana cavicola,1
+IRD-665,Nicotiana obtusifolia,1
+IRD-666,Nicotiana acuminata ,1
+IRD-666,Nicotiana corymbosa,1
+IRD-667,Nicotiana pauciflora,1
+IRD-668,Nicotiana miersii,1
+IRD-669,Nicotiana benthamiana,1
+IRD-669,Nicotiana megalosiphon,1
+IRD-669,Nicotiana umbratica,1
+IRD-67,Capsicum annuum ,1
+IRD-670,Nicotiana simulans,1
+IRD-671,Nicotiana cavicola,1
+IRD-672,Nicotiana occidentalis subsp. hesperis,1
+IRD-673,Nicotiana repanda,1
+IRD-674,Nicotiana spegazzinii,1
+IRD-675,Nicotiana sylvestris ,1
+IRD-676,Parasponia andersonii ,1
+IRD-677,Dorcoceras hygrometricum,1
+IRD-678,Handroanthus impetiginosus,1
+IRD-679,Handroanthus impetiginosus,1
+IRD-68,Capsicum chinense ,1
+IRD-680,Coffea arabica ,1
+IRD-680,Coffea canephora ,1
+IRD-681,Morus notabilis,1
+IRD-682,Selaginella moellendorffii ,1
+IRD-683,Selaginella moellendorffii ,1
+IRD-684,Selaginella moellendorffii ,1
+IRD-685,Coffea canephora ,1
+IRD-686,Selaginella moellendorffii ,1
+IRD-687,Saccharum hybrid cultivar R570,1
+IRD-688,Trema orientale ,1
+IRD-689,Solanum tuberosum ,1
+IRD-69,Solanum lycopersicum ,1
+IRD-690,Solanum tuberosum ,1
+IRD-691,Solanum chacoense ,1
+IRD-692,Capsicum annuum ,1
+IRD-692,Capsicum chinense ,1
+IRD-693,Capsicum annuum ,1
+IRD-694,Selaginella moellendorffii ,1
+IRD-695,Selaginella moellendorffii ,1
+IRD-696,Selaginella moellendorffii ,1
+IRD-697,Selaginella moellendorffii ,1
+IRD-698,Cuscuta australis,1
+IRD-698,Cuscuta campestris,1
+IRD-7,Solanum lycopersicum ,1
+IRD-70,Solanum lycopersicum ,1
+IRD-71,Solanum lycopersicum ,1
+IRD-72,Capsicum baccatum ,1
+IRD-73,Solanum lycopersicum ,1
+IRD-74,Nicotiana tabacum ,1
+IRD-75,Nicotiana tabacum ,1
+IRD-76,Nicotiana tabacum ,1
+IRD-77,Nicotiana repanda,1
+IRD-78,Capsicum annuum ,1
+IRD-79,Nicotiana attenuata ,1
+IRD-8,Solanum tuberosum ,1
+IRD-80,Nicotiana attenuata ,1
+IRD-81,Nicotiana spegazzinii,1
+IRD-82,Capsicum annuum ,1
+IRD-83,Capsicum annuum ,1
+IRD-83,Capsicum baccatum ,1
+IRD-84,Capsicum annuum ,1
+IRD-85,Capsicum annuum ,1
+IRD-86,Capsicum annuum ,1
+IRD-87,Capsicum chinense ,1
+IRD-88,Capsicum chinense ,1
+IRD-89,Capsicum annuum ,1
+IRD-9,Solanum tuberosum ,1
+IRD-90,Capsicum annuum ,1
+IRD-91,Capsicum annuum ,1
+IRD-92,Capsicum annuum ,1
+IRD-93,Capsicum annuum ,1
+IRD-93,Capsicum baccatum ,1
+IRD-94,Capsicum annuum ,1
+IRD-95,Capsicum annuum ,1
+IRD-96,Capsicum annuum ,1
+IRD-97,Capsicum annuum ,1
+IRD-98,Capsicum annuum ,1
+IRD-99,Capsicum annuum ,1
